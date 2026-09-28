@@ -1,0 +1,61 @@
+name: Refresh program data
+
+on:
+  schedule:
+    - cron: '23 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: refresh-program-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      SITE_URL: ${{ vars.SITE_URL || 'https://openorganizations.site' }}
+      GATSBY_TELEMETRY_DISABLED: '1'
+      CI: 'true'
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+      - uses: pnpm/action-setup@v6
+        with:
+          run_install: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Import sources and validate the complete snapshot
+        run: pnpm data:refresh
+      - run: pnpm test
+      - run: pnpm build
+      - run: pnpm data:validate
+      - name: Open or update the reviewed data pull request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: automation/refresh-program-data
+          base: ${{ github.event.repository.default_branch }}
+          delete-branch: true
+          commit-message: 'data: refresh validated program snapshots'
+          title: 'Refresh validated open source program data'
+          body: |
+            This refresh imports GSoC and SoB from their current upstream branches and rechecks the supplemental sources using their reviewed adapters and repository pins.
+
+            All import steps, combined-data validation, tests, and a production static build passed in this workflow before this pull request was created. Review source revisions, organization merges, participation changes, and coverage before merging. No application status is inferred from historical participation.
+
+            This workflow never merges its own pull request. If GitHub requests approval to run the pull-request checks, a repository maintainer can approve those runs.
+          add-paths: |
+            data/gsoc.json
+            data/sob.json
+            data/supplemental.json
+            data/directory.json

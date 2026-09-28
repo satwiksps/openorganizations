@@ -1,0 +1,20 @@
+{
+  "names": {
+    "bdk": "Bitcoin Dev Kit",
+    "bitcoin dev kit": "Bitcoin Dev Kit",
+    "kde": "KDE Community",
+    "kde community": "KDE Community",
+    "gnome": "GNOME Foundation",
+    "gnome foundation": "GNOME Foundation",
+    "the apache software foundation": "The Apache Software Foundation",
+    "apache software foundation": "The Apache Software Foundation",
+    "cloud native computing foundation (cncf)": "CNCF",
+    "cloud native computing foundation": "CNCF",
+    "cncf": "CNCF",
+    "ceph": "Ceph Foundation",
+    "ceph foundation": "Ceph Foundation",
+    "the update framework (tuf)": "TUF",
+    "wasmedge runtime": "WasmEdge",
+    "cncf opentelemetry": "OpenTelemetry"
+  }
+}

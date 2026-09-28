@@ -1,0 +1,14 @@
+# Attribution and third-party notices
+
+OpenOrganizations uses familiar directory interaction patterns inspired by [GSoC Organizations](https://www.gsocorganizations.dev/). It is an independent community project, with no endorsement implied by the referenced programs or organizations.
+
+- **GSoC Organizations:** annual organization/project snapshots and name/category/technology/topic normalizers from [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations), licensed under GPL-3.0. Original normalization files and license are retained in `vendor/gsoc-filters/`. The import records its exact source revision. Imported data is normalized, merged across programs, and displayed in this project's interface.
+- **Summer of Bitcoin directory:** historical organization/project data from [Jaydeep869/SOB_Organizations](https://github.com/Jaydeep869/SOB_Organizations), under the MIT license retained at `vendor/sob-LICENSE`. Records are normalized and merged; contributor personal details are not imported.
+- **Outreachy:** public participating-community/project-title archives from [Outreachy / Software Freedom Conservancy](https://www.outreachy.org/past-projects/), under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Community names and project titles are extracted, normalized, and grouped into participation records. Individual source links are retained. Private application/project details are not included.
+- **Season of KDE:** [“Season of KDE 2025: Welcome!”](https://mentorship.kde.org/blog/2025-01-19-sok-25-welcome/), attributed to Benson Muite / KDE Mentorship, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The selected-project titles and links are extracted and grouped under KDE; covered adaptations retain CC BY-SA 4.0 terms.
+- **LFX/CNCF, ESoC, and C4GT:** public organization names and project titles are sourced from the official publications identified in each participation record and in `data/programs.json`. Keep their individual source and coverage notes with redistributed data. No blanket license over linked external resources is asserted.
+- **DM Sans:** the bundled font is distributed under the SIL Open Font License, retained in `static/fonts/OFL.txt`.
+
+Project code is GPL-3.0-only, as reproduced in `LICENSE`. This does not replace the third-party licenses above. Program names, organization logos, trademarks, external descriptions, linked websites, and project materials retain their respective owners' rights. Linked logos are served from upstream hosts and are not repackaged into this project's source archive.
+
+Build and dependency versions are recorded in `package.json` and `pnpm-lock.yaml`. Gatsby, React, Lucide, and other installed dependencies retain their own license notices. The source archive includes the lockfile and installation instructions rather than installed dependencies or credentials.

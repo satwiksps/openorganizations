@@ -1,0 +1,48 @@
+name: Data correction or missing organization
+description: Suggest a source-backed correction to an organization or program record.
+title: '[Data] '
+body:
+  - type: markdown
+    attributes:
+      value: 'Please link a public official source where possible. Avoid submitting applicant details or other private information.'
+  - type: input
+    id: organization
+    attributes:
+      label: Organization or directory page
+      placeholder: Organization name or https://openorganizations.site/organizations/…
+    validations:
+      required: true
+  - type: dropdown
+    id: program
+    attributes:
+      label: Program
+      options:
+        - GSoC
+        - LFX
+        - Summer of Bitcoin
+        - ESoC
+        - Outreachy
+        - C4GT
+        - Season of KDE
+        - Another program
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Year and cohort
+      placeholder: '2026, Term 3'
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should change?
+      description: Describe the current value and the corrected value, or the missing organization.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public source URLs
+      description: Include the source supporting the program, year, organization, and any application dates.
+    validations:
+      required: true

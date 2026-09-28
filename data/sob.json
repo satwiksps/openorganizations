@@ -1,0 +1,4009 @@
+{
+  "schemaVersion": 1,
+  "fetchedAt": "2026-09-28T07:51:44.075Z",
+  "source": "https://github.com/Jaydeep869/SOB_Organizations",
+  "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+  "license": "MIT",
+  "sources": [
+    {
+      "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+      "officialUrl": "https://www.summerofbitcoin.org/",
+      "rows": 69
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Alby",
+      "description": "Alby brings Bitcoin to the web with a browser extension for Lightning payments and Nostr.",
+      "website": "https://github.com/getAlby",
+      "logoUrl": "https://avatars.githubusercontent.com/u/84262849",
+      "category": "Lightning",
+      "technologies": [
+        "JavaScript",
+        "TypeScript",
+        "Go"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Browser Extension",
+        "WebLN"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Fix frontend-related issues and improve the overall design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Content distribution proxy implementing the LSATs spec",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Make payment transactions smart with structured metadata, WebLN Support",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Rethink Payment Transaction Lists | Design, A wallet that teaches bitcoin as you use them | Design, Bitcoin and Friends - Secure chat like interface for the interaction between wallets | Design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "UI design for the Alby browser extension and services",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Develop tools and standards to attach payment metadata to lightning payments",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Enhancing Alby's Smaller Apps & Tools: Developer",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Alby Apps: Improve some of the less known, smaller Alby apps & tools",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Angor",
+      "description": "A decentralized crowdfunding protocol built on Bitcoin.",
+      "website": "https://github.com/block-core/angor",
+      "logoUrl": "",
+      "category": "Crowdfunding",
+      "technologies": [
+        "C#",
+        ".NET",
+        "TypeScript"
+      ],
+      "topics": [
+        "Bitcoin",
+        "Crowdfunding",
+        "P2P"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Liquid Network Integration for Angor Wallet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Enhance UI/UX of the Angor decentralized P2P Funding Protocol",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ark",
+      "description": "Ark is a layer-two protocol for making cheap, anonymous, off-chain Bitcoin transactions.",
+      "website": "https://github.com/ark-network",
+      "logoUrl": "https://avatars.githubusercontent.com/u/147059531",
+      "category": "Layer 2",
+      "technologies": [
+        "Go",
+        "Rust"
+      ],
+      "topics": [
+        "Bitcoin",
+        "Layer 2",
+        "Privacy"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Ark Protocol & Bitcoin Script",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BDK",
+      "description": "Bitcoin Dev Kit - a modern, lightweight, descriptor-based wallet library.",
+      "website": "https://github.com/bitcoindevkit",
+      "logoUrl": "https://avatars.githubusercontent.com/u/72170781",
+      "category": "Wallet",
+      "technologies": [
+        "Rust",
+        "Swift",
+        "Kotlin"
+      ],
+      "topics": [
+        "Wallets",
+        "Bitcoin",
+        "Descriptors"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add support for Bech32 address and Taproot in Bitcoin Dev Kit.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improving Coinselection in BDK, Real-Time Stream of Blocks API, lnprototest in LDK, Foundations of Open Source Development",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Add api to generate child keys from master key",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Price of Anarchy in Selfish Routing on the Lightning Network, Implement PrunedBlockchain backend: RPC on pruned node",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Real-Time Stream of Blocks API, Mempool.space integration in BDK",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "BDK descriptor improvements: Add a generic descriptor trait, Implement PrunedBlockchain backend: RPC on pruned node, rust-hwi improvements, Implement basic spending policy APIs",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "rust-hwi improvements",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Update bcoin networking protocol: pruning and compact blocks, Better address setup, Proof of ownership of bitcoin funds, Access tokens for the REST API, Refactor BDK Integration tests",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Refactor BDK Integration tests",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Create Swift iOS Demo Wallet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Add Payjoin support",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Update bdkbitcoindrpc module to work with a pruned bitcoind node",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add an alternative storage back-end implementation using redb",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Replace reqwest with async-minreq in rust-esplora-client",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BTCPayServer",
+      "description": "A self-hosted, open-source cryptocurrency payment processor.",
+      "website": "https://github.com/btcpayserver/btcpayserver",
+      "logoUrl": "",
+      "category": "Payments",
+      "technologies": [
+        "C#",
+        ".NET",
+        "JavaScript"
+      ],
+      "topics": [
+        "Payments",
+        "E-commerce",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improve support for file upload and management in BTCPayServer",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improvements to BTCPayServer & NBXplorer.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcoin Core",
+      "description": "The reference implementation of the Bitcoin protocol.",
+      "website": "https://github.com/bitcoin/bitcoin",
+      "logoUrl": "https://avatars.githubusercontent.com/u/528860",
+      "category": "Core",
+      "technologies": [
+        "C++",
+        "Python",
+        "Shell"
+      ],
+      "topics": [
+        "Bitcoin",
+        "P2P",
+        "Consensus"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improvements to Bitcoin core by code refactoring, performance optimization and benchmarking.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improve support for User Statically Defined Tracing (USDT) in Bitcoin core by adding new tracepoints and scripts and leveraging eBPF (extended Berkeley Packet Filter) technology.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Reviewing, testing and fixing issues in Bitcoin core.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Reviewing, testing and fixing issues in Bitcoin core.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Optimizing performance of descriptor wallets in Bitcoin core.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improvements to mempool and package relay in Bitcoin core.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Add block re-org capability to the signet network, fix faucet's incompatibility with custom signet and improve documentation.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Developing fuzz test to prove that the Bitcoin core implementation of streamcipher chacha20 is the same as the reference implementation by D.J. Bernstein and improvements to BIP324.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improvements to wallet RPC for accurate fee estimation.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improvements to bitcoin-core GUI i.e., bitcoin-qt.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Develop functional tests for Test Feeler Connections in Bitcoin core.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Reviewing, testing and fixing issues in Bitcoin core. Developing tests for mempool ancestor/descendant limits.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Profile Guided Optimization (PGO) i.e., using profiling and instrumentation techniques to analyze run time statistics and integrate it in Bitcoin core.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improvements to bitcoin-core GUI i.e., bitcoin-qt.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improvements to Bitcoin core by code refactoring, performance optimization and benchmarking.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Reviewing, testing and fixing issues in Bitcoin core.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Introduce a -nomempool runtime option to run a Bitcoin node without the mempool, and add a fuzz target for orphan transaction handling to detect potential security issues.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Fuzz testing improvements to Bitcoin core.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Bitcoin Core - Functional test for coin selection, Bitcoin Core - Functional test for coin selection, Hexa Wallet - Improving UTXO selection",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Transaction Conflicts in simulaterawtransaction",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Add fuzz target for txorphanage",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Implement a GUI for Importing to the Wallet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Increasing coverage of wallet codebase in Bitcoin Core",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Reviewing and testing improvements for Bitcoin Core",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "peer-observer: Anomaly detection and alerting for Bitcoin Core P2P events",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improve Fee Rate Precision in Bitcoin Core CFeeRate Class",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcoin Design",
+      "description": "An open-source community for improving Bitcoin UX/UI design.",
+      "website": "https://github.com/BitcoinDesign",
+      "logoUrl": "https://avatars.githubusercontent.com/u/73498329",
+      "category": "Design",
+      "technologies": [
+        "Figma",
+        "HTML",
+        "CSS"
+      ],
+      "topics": [
+        "Design",
+        "UX",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "A Lightning wallet for people with visual disabilities",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "uMlando Wallet UI Design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "State of the union for LN UX",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Redesign the Border Wallets website",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin UI Gallery",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcoin Dev Project",
+      "description": "An educational and branding initiative for Bitcoin open-source developers.",
+      "website": "https://github.com/AKASHnagesh/bitcoin-dev-project",
+      "logoUrl": "",
+      "category": "Education",
+      "technologies": [
+        "JavaScript",
+        "Design"
+      ],
+      "topics": [
+        "Education",
+        "Bitcoin",
+        "Brand"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Brand Update",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcoin Fuzz",
+      "description": "Fuzz testing infrastructure for Bitcoin implementations to improve security.",
+      "website": "https://github.com/AKASHnagesh/bitcoin-fuzz",
+      "logoUrl": "",
+      "category": "Testing",
+      "technologies": [
+        "C++",
+        "Rust",
+        "Python"
+      ],
+      "topics": [
+        "Fuzzing",
+        "Security",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "de/serialization of Bitcoin protocol network messages",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Differential Fuzzing Bitcoin implementations",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcoin Keeper",
+      "description": "A Bitcoin wallet focused on security and ease of use.",
+      "website": "https://github.com/AKASHnagesh/bitcoin-keeper",
+      "logoUrl": "",
+      "category": "Wallet",
+      "technologies": [
+        "React Native",
+        "TypeScript"
+      ],
+      "topics": [
+        "Wallets",
+        "Bitcoin",
+        "Security"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Bitcoin Keeper Desktop App UX/UI",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcoin Tribe",
+      "description": "A social Bitcoin wallet for communities.",
+      "website": "https://github.com/AKASHnagesh/bitcoin-tribe",
+      "logoUrl": "",
+      "category": "Wallet",
+      "technologies": [
+        "React Native",
+        "TypeScript"
+      ],
+      "topics": [
+        "Wallets",
+        "Social",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Mobile UI automation for a bitcoin social wallet - Bitcoin Tribe",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Establishing a Comprehensive Brand Identity for Bitcoin Tribe",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcoin-S",
+      "description": "A Scala implementation of the Bitcoin protocol with DLC support.",
+      "website": "https://github.com/bitcoin-s/bitcoin-s",
+      "logoUrl": "https://avatars.githubusercontent.com/u/23284387",
+      "category": "Protocol",
+      "technologies": [
+        "Scala",
+        "Java"
+      ],
+      "topics": [
+        "Bitcoin",
+        "DLC",
+        "Scala"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add support for multiple peer-to-peer connections in bitcoin-s.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Implement mempool for Bitcoin-S to enable a robust and fault tolerant p2p network.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Bitcoin-s multipeer neutrino",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BitcoinJS",
+      "description": "A JavaScript library for Bitcoin transactions and key management.",
+      "website": "https://github.com/AKASHnagesh/bitcoinjs",
+      "logoUrl": "",
+      "category": "Library",
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "topics": [
+        "Bitcoin",
+        "JavaScript",
+        "Transactions"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add ES Modules support to the ecosystem",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blockcore",
+      "description": "An open platform for building decentralized applications on Bitcoin.",
+      "website": "https://github.com/block-core",
+      "logoUrl": "https://avatars.githubusercontent.com/u/51785660",
+      "category": "Platform",
+      "technologies": [
+        "C#",
+        ".NET",
+        "TypeScript"
+      ],
+      "topics": [
+        "Bitcoin",
+        "Indexer",
+        "Wallet"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Content creation for Angor",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Convert indexer from Mongodb to PostgresSQL",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Content creation for Angor",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Implement PSBT API support in blockcore wallet extension",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breez",
+      "description": "A Lightning Network SDK and mobile app for everyday Bitcoin payments.",
+      "website": "https://github.com/AKASHnagesh/breez",
+      "logoUrl": "",
+      "category": "Lightning",
+      "technologies": [
+        "Go",
+        "Dart",
+        "Rust"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Mobile",
+        "Payments"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Breez Podcast Player Enhancements",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "nostr integration in Breez",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add Nostr Wallet Connect (NWC) to the Breez SDK",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caravan",
+      "description": "A multisig coordinator for Bitcoin with a focus on transparency and security.",
+      "website": "https://github.com/caravan-bitcoin/caravan",
+      "logoUrl": "https://avatars.githubusercontent.com/u/72919658",
+      "category": "Wallet",
+      "technologies": [
+        "JavaScript",
+        "TypeScript",
+        "React"
+      ],
+      "topics": [
+        "Multisig",
+        "Bitcoin",
+        "Security"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Reimagining the design for a stateless coordinator",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "R&D: Multisig wallet health dashboard",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Fee bumping support in Caravan",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improve Testing of Caravan",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Wallet Health Dashboard in Caravan Coordinator",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "QR Code Based Interactions in Caravan",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ChatBTC",
+      "description": "AI-assisted Bitcoin coding and learning tools.",
+      "website": "https://github.com/AKASHnagesh/chatbtc",
+      "logoUrl": "",
+      "category": "Education",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "topics": [
+        "AI",
+        "Bitcoin",
+        "Education"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Bitcoin AI-Assisted Coding Tools",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin AI-Assisted Coding Tools",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin AI-Assisted Coding Tools",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin AI-Assisted Coding Tools",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin AI-Assisted Coding Tools",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coinswap",
+      "description": "A protocol for trustless atomic swaps with improved privacy.",
+      "website": "https://github.com/AKASHnagesh/coinswap",
+      "logoUrl": "",
+      "category": "Privacy",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Privacy",
+        "Bitcoin",
+        "Atomic Swaps"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "BDK Wallet Infrastructure",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Sync Taker via CBF",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "BDK Wallet Infrastructure",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Event Loop Library for Efficient I/O Management",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Wallet Encryption and Backup Mechanism",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Fix Taker Private Key Handover Exploit",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Core Lightning",
+      "description": "A Lightning Network implementation in C, focused on spec compliance and extensibility.",
+      "website": "https://github.com/ElementsProject/lightning",
+      "logoUrl": "https://avatars.githubusercontent.com/u/21978224",
+      "category": "Lightning",
+      "technologies": [
+        "C",
+        "Python",
+        "Rust"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Node",
+        "Plugins"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Implementing a web socket in native JavaScript for communicating with LN nodes, decoding/creating messages and BOLT12 offers/invoice_request/invoices.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Static channel backups for c-lightning",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Plugin Support for rust-clightnining-rpc",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Implement a GUI for Importing to the Wallet, Convert non-wallet tests to use Python MiniWallet, Tor Support, Plugin Support for lndart.clightning, Breez Point-of-Sale Enhancements, Breez Podcast Player Enhancements",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Plugin Support for lndart.clightning",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improve examples and documentation, Plugin Support for lndart.clightning",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Automated and Reliable Peer Backups for Lightning Channels",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Lightning Protocol: Private Connection Address",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "CLN: Research Project on CLN Pay Plugin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "CLN: Research Project on CLN Pay Plugin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Core Lightning Toolkit",
+      "description": "Cross-platform tools and apps for managing Core Lightning nodes.",
+      "website": "https://github.com/AKASHnagesh/cln-toolkit",
+      "logoUrl": "",
+      "category": "Lightning",
+      "technologies": [
+        "Dart",
+        "Flutter",
+        "Python"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Tooling",
+        "Core Lightning"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "New actions for CLNAPP: a cross-platform app for Core Lightning",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "New commands for a plugin manager in Core Lightning",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cryptoanarchy Debian",
+      "description": "Debian packages to easily deploy freedom-enabling tools including Bitcoin and Lightning.",
+      "website": "https://github.com/AKASHnagesh/cryptoanarchy-debian",
+      "logoUrl": "",
+      "category": "Infrastructure",
+      "technologies": [
+        "Shell",
+        "Nix",
+        "Debian"
+      ],
+      "topics": [
+        "Packaging",
+        "Debian",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Polishing CADR-guide, CI for CADR, Packaging new applications into CADR",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cypherock",
+      "description": "An open-source hardware wallet with Shamir Secret Sharing for key management.",
+      "website": "https://github.com/AKASHnagesh/cypherock",
+      "logoUrl": "",
+      "category": "Hardware Wallet",
+      "technologies": [
+        "C",
+        "Rust",
+        "TypeScript"
+      ],
+      "topics": [
+        "Hardware Wallet",
+        "Security",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Extend Bitcoin blockchain support in Cypherock X1",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "UI/UX Design for Bitcoin HWI & Bitcoin-Only Firmware on Cypherock X1",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin HWI (Hardware Wallet Interface) for Cypherock X1 to Integrate Software Wallets like Sparrow Wallet using Cypherock SDK",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin-Only Firmware for Cypherock X1 Hardware Wallet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Demand",
+      "description": "An open-source mining pool proxy for Bitcoin.",
+      "website": "https://github.com/demand-open-source",
+      "logoUrl": "https://avatars.githubusercontent.com/u/175616393",
+      "category": "Mining",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Mining",
+        "Bitcoin",
+        "Pool"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add Support for Multiple Upstream",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Create Transaction selection Dashboard",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Implement a Transparency System for Demand Pool Proxy",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eclair",
+      "description": "A Scala-based Lightning Network implementation by ACINQ.",
+      "website": "https://github.com/ACINQ/eclair",
+      "logoUrl": "https://avatars.githubusercontent.com/u/21256949",
+      "category": "Lightning",
+      "technologies": [
+        "Scala",
+        "Java"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Node",
+        "Scala"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Breez Podcast Player Enhancements, Eclair Node Monitoring",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Make eclair-cli awesome",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrs",
+      "description": "An efficient Electrum Server implementation in Rust.",
+      "website": "https://github.com/AKASHnagesh/electrs",
+      "logoUrl": "",
+      "category": "Infrastructure",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Electrum",
+        "Server",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Choosing a better DB for electrs",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrum Wallet",
+      "description": "A lightweight Bitcoin wallet focused on speed and simplicity.",
+      "website": "https://github.com/AKASHnagesh/electrum",
+      "logoUrl": "",
+      "category": "Wallet",
+      "technologies": [
+        "Python"
+      ],
+      "topics": [
+        "Wallets",
+        "Bitcoin",
+        "SPV"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Implement various SIGHASH methods in Electrum wallet.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "GUI improvements to Electrum wallet.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Esplora",
+      "description": "A block explorer for Bitcoin and Liquid built by Blockstream.",
+      "website": "https://github.com/AKASHnagesh/esplora",
+      "logoUrl": "",
+      "category": "Explorer",
+      "technologies": [
+        "JavaScript",
+        "Rust"
+      ],
+      "topics": [
+        "Block Explorer",
+        "Bitcoin",
+        "Liquid"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Exploring the Lightning Network",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eye of Satoshi",
+      "description": "A Lightning watchtower implementation to protect channels from malicious closures.",
+      "website": "https://github.com/AKASHnagesh/eye-of-satoshi",
+      "logoUrl": "",
+      "category": "Lightning",
+      "technologies": [
+        "Rust",
+        "Python"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Watchtower",
+        "Security"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Memory outsourcing for hardware wallets, Plugin Support for lndart.clightning, Plugin Support for rust-clightnining-rpc, Generalize rust-teos to support different SQL engines, Use LND as a PayJoin client, Generalize rust-teos to support different SQL engines",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Manual CPFP for Revault managers, Improve Payment Routing, Add Lightning as transport for rust-teos",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Generalize rust-teos to run in accountable and non-accountable modes",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Create a web-based GUI for teosd",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Generalize rust-teos to support different SQL engines",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fedimint",
+      "description": "A federated e-cash mint built on Bitcoin and Lightning.",
+      "website": "https://github.com/fedimint/fedimint",
+      "logoUrl": "https://avatars.githubusercontent.com/u/100279624",
+      "category": "E-Cash",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Federated",
+        "E-Cash",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Building a nix module for MiniMint",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Graphical Wallet for MiniMint using WASM",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Explore improvements or alternatives to HBBFT consensus algorithm",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Federate all the things!",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Write a fedimint module",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Fedimint Web Wallet using WebSDK",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improving Fedimint WebSDK",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Floresta",
+      "description": "A lightweight Bitcoin full node implementation in Rust.",
+      "website": "https://github.com/AKASHnagesh/floresta",
+      "logoUrl": "",
+      "category": "Node",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Bitcoin",
+        "Full Node",
+        "Lightweight"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improve Floresta's testing",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Move Floresta from async-std to tokio",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Move Floresta from async-std to tokio",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Formstr",
+      "description": "A Nostr-based form builder for decentralized data collection.",
+      "website": "https://github.com/abh3po/nostr-forms",
+      "logoUrl": "",
+      "category": "Nostr",
+      "technologies": [
+        "TypeScript",
+        "React"
+      ],
+      "topics": [
+        "Nostr",
+        "Forms",
+        "Decentralized"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Formstr: Ollama Integration",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Galoy",
+      "description": "Open-source Bitcoin banking infrastructure powering the Bitcoin Beach wallet (Blink).",
+      "website": "https://github.com/GaloyMoney",
+      "logoUrl": "https://avatars.githubusercontent.com/u/67789857",
+      "category": "Banking",
+      "technologies": [
+        "TypeScript",
+        "Rust",
+        "GraphQL"
+      ],
+      "topics": [
+        "Banking",
+        "Lightning Network",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "rust-hwi improvements, Get Galoy instance running on Azure or AWS",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Handle database migrations, Improving Coinselection in BDK, Refactor BDK Integration tests, Access tokens for the REST API, Review and test bcoin PR#811 Replace-by-fee, add feature to wallet, Proof of Reserves for Open Source Bitcoin Banking",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "CLI client for Galoy Backend in Rust - Galoy CLI",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "LNURL-Withdraw LN Service",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Multi account feature in galoy-mobile / Blink Wallet app",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Optimization and Security Enhancements for Galoy/Blink",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add AWS to Galoy-Infra",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Upgrade Bria to Bitcoin Development Kit (BDK) 1.0",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Here Comes Bitcoin",
+      "description": "Creative content and puppet-based education initiatives for Bitcoin.",
+      "website": "https://github.com/AKASHnagesh/here-comes-bitcoin",
+      "logoUrl": "",
+      "category": "Education",
+      "technologies": [
+        "Design",
+        "Content"
+      ],
+      "topics": [
+        "Education",
+        "Content",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Calling All Puppet Enthusiasts, Spiral is Looking for Creative Contributors",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Calling All Puppet Enthusiasts, Spiral is Looking for Creative Contributors",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hexawallet",
+      "description": "A Bitcoin wallet with social features and multi-device support.",
+      "website": "https://github.com/AKASHnagesh/hexawallet",
+      "logoUrl": "",
+      "category": "Wallet",
+      "technologies": [
+        "React Native",
+        "TypeScript"
+      ],
+      "topics": [
+        "Wallets",
+        "Social",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Use the hash of phone number to uniquely identify a wallet owner",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin and Friends - Secure chat like interface for the interaction between wallets | Design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin and Friends - Secure chat like interface for the interaction between wallets | Design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin and Friends - Secure chat like interface for the interaction between wallets | Design, A wallet that teaches bitcoin as you use them | Design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Use the hash of phone number to uniquely identify a wallet owner",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jam",
+      "description": "A modern web UI for JoinMarket, making CoinJoin accessible.",
+      "website": "https://github.com/joinmarket-webui/jam",
+      "logoUrl": "https://avatars.githubusercontent.com/u/100895038",
+      "category": "Privacy",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Python"
+      ],
+      "topics": [
+        "CoinJoin",
+        "Privacy",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "\"Coin Control\" for Jam",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Redesign fidelity bond creation flow",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "\"Improved Scheduled Transactions\" for Jam",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Jam v2 UI",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "JoinMarket",
+      "description": "A CoinJoin implementation for Bitcoin privacy with a maker-taker model.",
+      "website": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
+      "logoUrl": "https://avatars.githubusercontent.com/u/14207068",
+      "category": "Privacy",
+      "technologies": [
+        "Python"
+      ],
+      "topics": [
+        "CoinJoin",
+        "Privacy",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Build an interactive interface for JoinMarket to enable end-users make Coinjoin transactions easily, using Flask and react.js.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Developing a JavaScript webapp to remotely control a JoinMarket instance.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LDK",
+      "description": "Lightning Dev Kit - a flexible Lightning implementation as a library.",
+      "website": "https://github.com/lightningdevkit",
+      "logoUrl": "https://avatars.githubusercontent.com/u/49367625",
+      "category": "Lightning",
+      "technologies": [
+        "Rust",
+        "Java",
+        "Swift"
+      ],
+      "topics": [
+        "Lightning Network",
+        "SDK",
+        "Library"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Enable Last Hop Hints in routing from Payer to Payee based on Lightning Invoice (Bolt 11).",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improvements to Zeus.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improve Payment Routing",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "General codebase improvement, lnprototest in LDK",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Custom HTLC TLVs + LDK-TEOS ChannelMonitor Integration",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Integrate LDK into lnprototest",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "LDK iOS Sample Wallet (Swift)",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "LSP Integration for LDK Node",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Unified QR code support for LDK Node",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LN Capital",
+      "description": "Tools for Lightning Network node management and design.",
+      "website": "https://github.com/AKASHnagesh/ln-capital",
+      "logoUrl": "",
+      "category": "Lightning",
+      "technologies": [
+        "Design",
+        "TypeScript"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Design",
+        "Node"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Designing Padawan Wallet | Design, Design System for Torq | Design, Rethink Payment Transaction Lists | Design, Rethinking the digital presence of Bitcoin Core | Design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Convert non-wallet tests to use Python MiniWallet, Routing Node research and automation, Add a cool Specter plugin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LN History",
+      "description": "Platform to store and analyse gossip messages of the Lightning Network.",
+      "website": "https://github.com/AKASHnagesh/ln-history",
+      "logoUrl": "",
+      "category": "Lightning",
+      "technologies": [
+        "Rust",
+        "Python"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Analysis",
+        "Gossip"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "ln-history: platform to store and analyse gossip messages of the Lightning Network",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LND",
+      "description": "Lightning Network Daemon - the leading Go implementation of Lightning.",
+      "website": "https://github.com/lightningnetwork/lnd",
+      "logoUrl": "https://avatars.githubusercontent.com/u/26930280",
+      "category": "Lightning",
+      "technologies": [
+        "Go"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Node",
+        "Go"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Implement keysend in LDK to allow lightning payments without invoices.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Contributing to v14.0-beta release for LND and improvements in watchtowers.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Lightning application to send and receive payments using LND nodes.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improve the LND wallet kit, Batch chain backend requests in lnd",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Watchtower insights, Batch chain backend requests in lnd, Improve the LND wallet kit",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Optimized Neutrino Sync",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Distributed Mission Control",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Continuous Fuzzing for LND",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ledger Bitcoin App",
+      "description": "The Bitcoin application for Ledger hardware wallets.",
+      "website": "https://github.com/AKASHnagesh/ledger-bitcoin-app",
+      "logoUrl": "",
+      "category": "Hardware Wallet",
+      "technologies": [
+        "C",
+        "Python"
+      ],
+      "topics": [
+        "Hardware Wallet",
+        "Bitcoin",
+        "Signing"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "General purpose hot signing service for miniscript policies",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lightning Network",
+      "description": "Research and development for the Lightning Network protocol.",
+      "website": "https://github.com/lightningnetwork",
+      "logoUrl": "https://avatars.githubusercontent.com/u/26930280",
+      "category": "Lightning",
+      "technologies": [
+        "Go",
+        "Python"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Research",
+        "Protocol"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Cross testing in libsecp256k1, Batch Verification Interface in libsecp256k1, Efficient Min Convex Cost Flow Solver for Lightning Network Payment Delivery",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Price of Anarchy in Selfish Routing on the Lightning Network",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "LN spec tests for lnprototest, lnprototest in LDK",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Price of Anarchy in Selfish Routing on the Lightning Network",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Fuzzing Lightning Implementations",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mempool",
+      "description": "The Mempool Open Source Project - Bitcoin blockchain explorer and visualizer.",
+      "website": "https://github.com/mempool/mempool",
+      "logoUrl": "https://avatars.githubusercontent.com/u/82188674",
+      "category": "Explorer",
+      "technologies": [
+        "TypeScript",
+        "Angular",
+        "Rust"
+      ],
+      "topics": [
+        "Block Explorer",
+        "Mempool",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Reviewing, testing and fixing issues in Mempool.space. Developing and integrating a Lightning Network Explorer.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Add a Lightning Network explorer to Mempool.space.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nostr Components",
+      "description": "Embeddable Nostr content components for any website.",
+      "website": "https://github.com/AKASHnagesh/nostr-components",
+      "logoUrl": "",
+      "category": "Nostr",
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "topics": [
+        "Nostr",
+        "Web Components",
+        "Embed"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Nostr Components: Take Nostr content beyond Nostr clients - embed it anywhere on the internet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "P2Pool",
+      "description": "A decentralized mining pool for Bitcoin.",
+      "website": "https://github.com/AKASHnagesh/p2pool",
+      "logoUrl": "",
+      "category": "Mining",
+      "technologies": [
+        "Rust",
+        "C++"
+      ],
+      "topics": [
+        "Mining",
+        "P2P",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "NS3 Simulation for P2Poolv2's Sharechain With Uncles",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Provide DoS prevention for P2Poolv2 Networking Stack",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Build atomic swap from P2Pool to Ark",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Padawan Wallet",
+      "description": "An educational Bitcoin wallet built to teach testnet transactions.",
+      "website": "https://github.com/AKASHnagesh/padawan-wallet",
+      "logoUrl": "",
+      "category": "Wallet",
+      "technologies": [
+        "Kotlin",
+        "Android"
+      ],
+      "topics": [
+        "Wallets",
+        "Education",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improvements to Padawan wallet.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improvements to Padawan wallet.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Designing Padawan Wallet | Design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Designing Padawan Wallet | Design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Designing Padawan Wallet | Design",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Build advanced bitcoin features on Padawan Wallet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Advanced bitcoin features on Padawan Wallet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Photon SDK",
+      "description": "A React Native SDK for Bitcoin wallet integration.",
+      "website": "https://github.com/AKASHnagesh/photon-sdk",
+      "logoUrl": "",
+      "category": "SDK",
+      "technologies": [
+        "React Native",
+        "JavaScript"
+      ],
+      "topics": [
+        "Mobile",
+        "SDK",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Implement a react native library in Photon-SDK based on Bitcoin-Wallet-UI kit.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pyasic",
+      "description": "A Python library for interacting with ASIC Bitcoin miners.",
+      "website": "https://github.com/AKASHnagesh/pyasic",
+      "logoUrl": "",
+      "category": "Mining",
+      "technologies": [
+        "Python"
+      ],
+      "topics": [
+        "Mining",
+        "ASIC",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add firmware update functionality",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Add standardized pool metrics",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RTL",
+      "description": "Ride The Lightning - a full-function web UI for managing Lightning nodes.",
+      "website": "https://github.com/Ride-The-Lightning/RTL",
+      "logoUrl": "https://avatars.githubusercontent.com/u/51054708",
+      "category": "Lightning",
+      "technologies": [
+        "TypeScript",
+        "Angular"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Node Management",
+        "UI"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Adding enhanced logger, supporting CPFP (child-pays-for-parent) feature and BOLT12 in RTL.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "RTL-Quickpay Browser extension, Review and test bcoin PR#811 Replace-by-fee, add feature to wallet, WebLN Support, Test Automation",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Revault",
+      "description": "A multi-party vault architecture for Bitcoin custody using covenants.",
+      "website": "https://github.com/AKASHnagesh/revault",
+      "logoUrl": "",
+      "category": "Custody",
+      "technologies": [
+        "Rust",
+        "Python"
+      ],
+      "topics": [
+        "Custody",
+        "Vault",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Rust implementation of the Revault protocol.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Rust implementation of the Revault protocol.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Robosats",
+      "description": "A peer-to-peer Bitcoin exchange over the Lightning Network.",
+      "website": "https://github.com/RoboSats/robosats",
+      "logoUrl": "https://avatars.githubusercontent.com/u/100270503",
+      "category": "Exchange",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "Rust"
+      ],
+      "topics": [
+        "P2P",
+        "Exchange",
+        "Lightning Network"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Super private P2P onchain pipeline for RoboSats",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "RoboSats torified desktop app (Windows / MacOS / Linux)",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Super private P2P onchain pipeline for RoboSats",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Let's make RoboSats pretty (UI/UX design)",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rust Miniscript",
+      "description": "Miniscript implementation in Rust for composable Bitcoin script policies.",
+      "website": "https://github.com/rust-bitcoin/rust-miniscript",
+      "logoUrl": "https://avatars.githubusercontent.com/u/43224899",
+      "category": "Library",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Miniscript",
+        "Bitcoin Script",
+        "Rust"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add support for Taproot in rust-miniscript library.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Bitcoin-s multipeer neutrino, Price of Anarchy in Selfish Routing on the Lightning Network, Access tokens for the REST API, Tapscript Compiler in miniscript",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Implement FSChaCha20 in rust bitcoin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Key availability-based spend planning in rust-miniscript",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Implementation of BIP370(psbtv2) in rust-bitcoin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saving Satoshi",
+      "description": "An educational Bitcoin RPG game to teach Bitcoin concepts.",
+      "website": "https://github.com/AKASHnagesh/saving-satoshi",
+      "logoUrl": "",
+      "category": "Education",
+      "technologies": [
+        "TypeScript",
+        "React"
+      ],
+      "topics": [
+        "Education",
+        "Gaming",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Saving Satoshi - An educational bitcoin RPG",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Saving Satoshi - An educational bitcoin RPG",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SeedSigner",
+      "description": "An open-source, air-gapped DIY Bitcoin signing device using Raspberry Pi.",
+      "website": "https://github.com/SeedSigner/seedsigner",
+      "logoUrl": "https://avatars.githubusercontent.com/u/82068866",
+      "category": "Hardware Wallet",
+      "technologies": [
+        "Python",
+        "MicroPython"
+      ],
+      "topics": [
+        "Signing",
+        "Air-gapped",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "SeedSigner Enhancement - Add Support for BIP-39 Passphrase Accented Characters",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "SeedSigner Enhancement - SeedXOR",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Update SeedSigner BIP-85 implementation",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Code Cleanup for SeedSigner Loading Screens",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "SeedSigner Enhancement - Create Seed with Coinflips",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Create SeedSigner User Guide",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "SeedSigner Enhancement - Silent Payments BIP-352",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shopstr",
+      "description": "A Nostr-based marketplace for Bitcoin commerce.",
+      "website": "https://github.com/AKASHnagesh/shopstr",
+      "logoUrl": "",
+      "category": "Commerce",
+      "technologies": [
+        "TypeScript",
+        "React"
+      ],
+      "topics": [
+        "Nostr",
+        "Commerce",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Shopstr nodeless merchant",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Payment Escrow and Processing",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "BOLT 12 and Greenlight Integration",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Specter Desktop",
+      "description": "A desktop GUI for Bitcoin Core with multisig and hardware wallet support.",
+      "website": "https://github.com/AKASHnagesh/specter",
+      "logoUrl": "",
+      "category": "Wallet",
+      "technologies": [
+        "Python",
+        "JavaScript"
+      ],
+      "topics": [
+        "Multisig",
+        "Hardware Wallet",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "CLI improvements for Specter Desktop.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "CLI improvements for Specter Desktop.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Unit test automation framework for Bitcoin wallet, Test Automation, Exploring the Lightning Network, Make payment transactions smart with structured metadata, Access tokens for the REST API, Fix frontend-related issues and improve the overall design, Access tokens for the REST API",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Spotbit Specter plugin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Access tokens for the REST API, Make payment transactions smart with structured metadata, Bring the Alby Browser Wallet to Mobile, Foundations of Open Source Development, Hexa Wallet - Split bill, split expenses, Packaging new applications into CADR, Loans plugin, Add a cool Specter plugin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Access tokens for the REST API, Loans plugin, Warden Specter plugin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StratumV2",
+      "description": "The next-generation mining protocol for Bitcoin.",
+      "website": "https://github.com/stratum-mining/stratum",
+      "logoUrl": "https://avatars.githubusercontent.com/u/85513848",
+      "category": "Mining",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Mining",
+        "Protocol",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improve examples and documentation, General codebase improvement, Explore Coinbase Negotiator role",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Add Sv1 support to message-generator",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Add benchmarks",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Utreexo",
+      "description": "A hash-based dynamic accumulator for Bitcoin UTXO set compression.",
+      "website": "https://github.com/mit-dci/utreexo",
+      "logoUrl": "https://avatars.githubusercontent.com/u/17363734",
+      "category": "Core",
+      "technologies": [
+        "Go",
+        "Rust"
+      ],
+      "topics": [
+        "UTXO",
+        "Accumulator",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improvements to utreexo.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Reviewing, testing and fixing issues in Utreexo project.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Visualize Utreexo Algorithms",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Transaction Conflicts in simulaterawtransaction, Add Benchmarks to the libutreexo library",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Bitcoin Core - Functional test for coin selection, Batch Verification Interface in libsecp256k1, Rust Utreexo library",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Implement downloading blocks from multiple peers in utreexod/btcd, Improve Payment Routing, Mempool.space integration in BDK",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Implement new getcfilters message for utreexo roots",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "VLS",
+      "description": "Validating Lightning Signer - a secure remote signer for Lightning nodes.",
+      "website": "https://github.com/AKASHnagesh/vls",
+      "logoUrl": "",
+      "category": "Lightning",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Signing",
+        "Security"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Embedded Validating Lightning Signer Demo, UTXO Set Oracle",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "VLS Performance Tuning",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "VLS Test Coverage Improvement",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zeus",
+      "description": "A mobile Bitcoin and Lightning wallet and node manager.",
+      "website": "https://github.com/AKASHnagesh/zeus",
+      "logoUrl": "",
+      "category": "Wallet",
+      "technologies": [
+        "React Native",
+        "TypeScript"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Mobile",
+        "Wallets"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Activity CSV Report Export Feature",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "View Connected and Disconnected Peers in Zeus",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Extending Message Signing & Verification with On-Chain Address Keys",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Fiat Currency Toggle in Invoice Creation",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bcoin",
+      "description": "A full node Bitcoin implementation in JavaScript/Node.js.",
+      "website": "https://github.com/bcoin-org/bcoin",
+      "logoUrl": "https://avatars.githubusercontent.com/u/22380064",
+      "category": "Node",
+      "technologies": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "topics": [
+        "Bitcoin",
+        "Full Node",
+        "JavaScript"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improvements to bcoin project in areas of test coverage, prune node services, compact block filters and BIP49 and BIP84 implementation.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Improving the test coverage for bcoin, and updating it to be at par with the latest improvements in Bitcoin core such as bech32m addresses, BIP49, BIP84, pruned node services and other taproot features.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Implement branch-and-bound coin selection in bcoin wallet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Update bcoin networking protocol: pruning and compact blocks, Implement compact block filter service and Neutrino client in bcoin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Update bcoin RPC API and add tests, Update bcoin networking protocol: pruning and compact blocks, Implement compact block filter service and Neutrino client in bcoin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Update bcoin networking protocol: pruning and compact blocks",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Review and test bcoin PR#811 Replace-by-fee, add feature to wallet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Add full Taproot validation to bcoin full node and wallet",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Use PGP keys to prove an address belongs to you, Use the hash of phone number to uniquely identify a wallet owner, Build advanced bitcoin features on Padawan Wallet, Implement compact block filter service and Neutrino client in bcoin, Access tokens for the REST API",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Building a neutrino client",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Add support for output script descriptors",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "braidpool",
+      "description": "A decentralized mining pool using a DAG (braided) structure.",
+      "website": "https://github.com/AKASHnagesh/braidpool",
+      "logoUrl": "",
+      "category": "Mining",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Mining",
+        "DAG",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Develop Channel Based Payouts for Braidpool",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Initial Bead Download (IBD) for Braidpool",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Braidpool Monitoring Dashboard",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Committed Mempool",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Committed Mempool",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Committed Mempool",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Braidpool Monitoring Dashboard",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gocoin",
+      "description": "A Bitcoin full node and wallet implementation in Go.",
+      "website": "https://github.com/AKASHnagesh/gocoin",
+      "logoUrl": "",
+      "category": "Node",
+      "technologies": [
+        "Go"
+      ],
+      "topics": [
+        "Bitcoin",
+        "Full Node",
+        "Go"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Make Gocoin wallet remotely controllable from client's Web UI",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lampo",
+      "description": "A Lightning node implementation focused on experimentation and extensibility.",
+      "website": "https://github.com/AKASHnagesh/lampo",
+      "logoUrl": "",
+      "category": "Lightning",
+      "technologies": [
+        "Rust"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Node",
+        "Experimental"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "RGB support with an experimental version of lampo #191",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "Implementing a PoC for VLS signer",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Lampo: Tests, PoC and clap-cli",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "libbitcoin",
+      "description": "A collection of cross-platform C++ libraries for building Bitcoin applications.",
+      "website": "https://github.com/AKASHnagesh/libbitcoin",
+      "logoUrl": "",
+      "category": "Library",
+      "technologies": [
+        "C++"
+      ],
+      "topics": [
+        "Bitcoin",
+        "Library",
+        "C++"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "SQLite Database for libbitcoin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            },
+            {
+              "title": "SQLite Database for libbitcoin",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "libsecp256k1",
+      "description": "An optimized C library for ECDSA signatures and secret/public key operations on the secp256k1 curve.",
+      "website": "https://github.com/bitcoin-core/secp256k1",
+      "logoUrl": "https://avatars.githubusercontent.com/u/528860",
+      "category": "Cryptography",
+      "technologies": [
+        "C"
+      ],
+      "topics": [
+        "Cryptography",
+        "ECDSA",
+        "Bitcoin"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Improvements to test coverage for the chacha20 streamcipher and SchnorrSig implementation in bitcoin core. Work on human-readable error messages and CSV benchmark outputs for the secp256k1 library used by Bitcoin core.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2022,
+          "cohort": "2022",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Batch Verification Interface in libsecp256k1",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        },
+        {
+          "program": "sob",
+          "year": 2023,
+          "cohort": "2023",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "BIP 340 Adaptor Signatures Module for libsecp256k1-zkp",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lnprototest",
+      "description": "A test framework for the Lightning Network protocol.",
+      "website": "https://github.com/AKASHnagesh/lnprototest",
+      "logoUrl": "",
+      "category": "Testing",
+      "technologies": [
+        "Python"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Testing",
+        "Protocol"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2025,
+          "cohort": "2025",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "LNprototest Message Flow Visualizer",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "node-lightning",
+      "description": "A Node.js implementation of the Lightning Network.",
+      "website": "https://github.com/AKASHnagesh/node-lightning",
+      "logoUrl": "",
+      "category": "Lightning",
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "topics": [
+        "Lightning Network",
+        "Node.js"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2021,
+          "cohort": "2021",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Node.js implementation of LN.",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "python-bitcoin-utils",
+      "description": "Python utilities for working with Bitcoin transactions and scripting.",
+      "website": "https://github.com/AKASHnagesh/python-bitcoin-utils",
+      "logoUrl": "",
+      "category": "Library",
+      "technologies": [
+        "Python"
+      ],
+      "topics": [
+        "Bitcoin",
+        "Python",
+        "Utilities"
+      ],
+      "participations": [
+        {
+          "program": "sob",
+          "year": 2024,
+          "cohort": "2024",
+          "status": "historical",
+          "sourceUrl": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js",
+          "verifiedAt": "2026-09-28T07:51:44.075Z",
+          "fetchedAt": "2026-09-28T07:51:44.075Z",
+          "sourceRevision": "8c73ebd590c90f68660ba8b8a629299c84641ebe",
+          "sourceNote": "Historical participation from the community-maintained SoB Organizations dataset; not independently verified against an official year archive. Some repository links in the source are forks.",
+          "projects": [
+            {
+              "title": "Bitcoin Block Parser",
+              "url": "https://github.com/Jaydeep869/SOB_Organizations/blob/8c73ebd590c90f68660ba8b8a629299c84641ebe/src/data.js"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

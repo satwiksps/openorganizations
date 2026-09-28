@@ -1,0 +1,27 @@
+{
+  "name": "openorganizations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A source-backed directory of organizations across open-source programs.",
+  "license": "GPL-3.0-only",
+  "repository": "https://github.com/satwiksps/openorganizations",
+  "engines": { "node": ">=22.13 <25" },
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "dev": "node scripts/build-data.mjs && gatsby develop -H 127.0.0.1 -p 8000",
+    "start": "pnpm dev",
+    "build": "node scripts/build-data.mjs && node scripts/validate-data.mjs && gatsby build && node scripts/postbuild.mjs",
+    "serve": "gatsby serve -H 127.0.0.1 -p 9000",
+    "test": "node --test src/lib/*.test.mjs scripts/*.test.mjs",
+    "data:build": "node scripts/build-data.mjs",
+    "data:validate": "node scripts/validate-data.mjs",
+    "data:refresh": "node scripts/refresh-data.mjs",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.15.0",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
