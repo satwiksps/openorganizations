@@ -23,7 +23,7 @@ export default function OrganizationCard({ organization, filters, programs, toda
           {organization.category && <span className="organization-category">{organization.category}</span>}
         </div>
         <p className="organization-description">{organization.description}</p>
-        {(organization.subOrganizationCount>0 || organization.proposalCount>0)&&<p className="card-resources">{organization.subOrganizationCount>0&&<span>{organization.subOrganizationCount} sub-organizations</span>}{organization.proposalCount>0&&<span>{organization.proposalCount} proposal examples</span>}</p>}
+        {(organization.subOrganizationCount>0 || organization.proposalCount>0)&&<p className="card-resources">{organization.subOrganizationCount>0&&<span>{organization.subOrganizationCount} sub-organizations</span>}{organization.proposalCount>0&&<span>{organization.proposalCount} {organization.proposalCount === 1 ? 'proposal' : 'proposals'}</span>}</p>}
         <div className="organization-programs" aria-label="Programs">
           {programIds.map(id => <span className={`program-badge program-${id}`} key={id}>{programs.find(program => program.id === id)?.label || id}</span>)}
         </div>

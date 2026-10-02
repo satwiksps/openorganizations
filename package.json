@@ -5,7 +5,9 @@
   "description": "A source-backed directory of organizations across open-source programs.",
   "license": "GPL-3.0-only",
   "repository": "https://github.com/satwiksps/openorganizations",
-  "engines": { "node": ">=22.13 <25" },
+  "engines": {
+    "node": ">=22.13 <25"
+  },
   "packageManager": "pnpm@11.25.0",
   "scripts": {
     "dev": "node scripts/build-data.mjs && gatsby develop -H 127.0.0.1 -p 8000",
@@ -17,10 +19,11 @@
     "data:validate": "node scripts/validate-data.mjs",
     "data:refresh": "node scripts/refresh-data.mjs",
     "data:history": "node scripts/import-gsoc-history.mjs",
-    "data:resources": "node scripts/import-resources.mjs",
+    "data:resources": "node scripts/import-resources.mjs && node scripts/import-python-communities.mjs",
     "logos:cache": "node scripts/cache-logos.mjs",
     "repo:refresh": "node scripts/refresh-repository.mjs",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "data:communities": "node scripts/import-community-resources.mjs"
   },
   "dependencies": {
     "gatsby": "^5.15.0",

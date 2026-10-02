@@ -7,8 +7,10 @@ exports.createPages = async ({ actions }) => {
   const resources = JSON.parse(fs.readFileSync(path.resolve('data/proposals.json'),'utf8'))
   const umbrellas = JSON.parse(fs.readFileSync(path.resolve('data/umbrellas.json'),'utf8'))
   const logos = JSON.parse(fs.readFileSync(path.resolve('data/logos.json'),'utf8')).logos
+  const communities = JSON.parse(fs.readFileSync(path.resolve('data/community-resources.json'),'utf8')).communities
   const proposals = attachProposals(data.organizations, resources.proposals)
   for (const org of data.organizations) {
+    org.resources=communities[org.slug] || null
     org.localLogo=logos[org.slug]?.path || ''
     org.logoKind=logos[org.slug]?.kind || ''
     org.proposals=proposals.filter(p=>p.organizationSlug===org.slug)
@@ -22,7 +24,7 @@ exports.createPages = async ({ actions }) => {
     logoUrl: org.logoUrl, localLogo:org.localLogo,logoKind:org.logoKind, category: org.category, technologies: org.technologies, topics: org.topics,
     proposalCount:org.proposals.length,subOrganizationCount:org.subOrganizations.length,subOrganizationNames:org.subOrganizations.map(child=>child.name),
     participations: org.participations.map(p => ({
-      program: p.program, year: p.year,
+      program: p.program, year: p.year, cohort: p.cohort, projectCount: p.projects.length,
       ...(p.status === "open" ? { status: p.status, verifiedAt: p.verifiedAt, applicationDeadline: p.applicationDeadline, applicationStart: p.applicationStart } : {}),
     })),
   }))

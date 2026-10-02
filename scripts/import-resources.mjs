@@ -2,6 +2,7 @@ import { createHash } from 'node:crypto'
 import { atomicWriteJson, cleanText } from './build-data.mjs'
 const checkedAt = new Date().toISOString()
 const sources = [
+  {repo:'devweekends/open-source-proposals',revision:'f09b802e5466e8b5b1e9a2c01b29b728f6cd9f9a',label:'Open Source Proposals Archive',layout:'program-year'},
   {repo: 'Google-Summer-of-Code-Archive/gsoc-proposals-archive', revision: '20dc27bac2647cc7ebe6ed13f3cb500b109e76d0', label: 'Community GSoC proposal archive'},
   {repo: 'satwiksps/GSoC_archive_2026', revision: '52321020fdeda5dc5cd57a21df4e7e85525f23cd', label: 'GSoC 2026 community archive', year: 2026},
 ]
@@ -11,17 +12,21 @@ async function get(url) {
   return response.text()
 }
 const encoded = path => path.split('/').map(encodeURIComponent).join('/')
-const proposals = []
+const proposals = [], seenBlobs = new Set()
 for (const source of sources) {
   const tree = JSON.parse(await get(`https://api.github.com/repos/${source.repo}/git/trees/${source.revision}?recursive=1`))
   if (tree.truncated || !tree.tree?.length) throw new Error('Incomplete proposal tree')
   for (const file of tree.tree.filter(file => file.type === 'blob' && /\.(?:pdf|docx|mdown)$/i.test(file.path))) {
-    const parts = file.path.split('/'), year = source.year || Number(parts.shift())
+    const parts = file.path.split('/');
+    const program = source.layout ? ({GSoC:'gsoc',LFX:'lfx','Summer of Bitcoin':'sob'}[parts.shift()]) : 'gsoc';
+    const year = source.year || Number(parts.shift());
+    if(!program || seenBlobs.has(file.sha)) continue;
     if (!year || parts.length < 2) continue
     const organizationName = parts[0]
-    const outcome = source.year ? (/\/accepted\//i.test(file.path) ? 'accepted' : /\/rejected\//i.test(file.path) ? 'rejected' : 'unknown') : 'accepted'
+    const outcome = source.layout ? (file.path.includes('/_rejected/')?'rejected':'accepted') : source.year ? (/\/accepted\//i.test(file.path) ? 'accepted' : /\/rejected\//i.test(file.path) ? 'rejected' : 'unknown') : 'accepted'
     const url = `https://github.com/${source.repo}/blob/${source.revision}/${encoded(file.path)}`
-    proposals.push({id: createHash('sha256').update(url).digest('hex').slice(0,12), program:'gsoc', year, organizationName,
+    seenBlobs.add(file.sha);
+    proposals.push({blobSha:file.sha,id: createHash('sha256').update(url).digest('hex').slice(0,12), program, year, organizationName,
       title: cleanText(parts.at(-1).replace(/\.(pdf|docx|mdown)$/i,'').replace(/_/g,' '), 250), outcome, url,
       sourceUrl:`https://github.com/${source.repo}`, sourceLabel:source.label, checkedAt,
       outcomeNote: 'Outcome is reported by the archive maintainers, not independently verified by this directory.'})

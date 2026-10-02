@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+import {HISTORY_REVISION,HISTORY_TERMS,parseLfxHistory} from './lfx-history.mjs';
 /**
  * Refresh reviewed public program snapshots. Node 20+, no dependencies.
  * Run: node scripts/import-supplemental.mjs [--check] [--only=lfx,outreachy,...]
@@ -165,6 +165,23 @@ async function importLfx() {
       projects: [{ title: r.program_name_short, url: r.upstream_issue_url || r.issue_url, applicationUrl: r.lfx_url, sourceStatus: 'accepted' }],
       ...(safeUrl(r.lfx_url) ? { applicationUrl: r.lfx_url } : {}),
     });
+  }
+  for (const [file,year,cohort] of HISTORY_TERMS) {
+    const resource='programs/lfx-mentorship/'+file;
+    const sourceUrl='https://github.com/cncf/mentoring/blob/'+HISTORY_REVISION+'/'+resource;
+    const text=await fetchText('https://raw.githubusercontent.com/cncf/mentoring/'+HISTORY_REVISION+'/'+resource);
+    const records=parseLfxHistory(text,sourceUrl,year,file);
+    assert(records.length>=3, 'Incomplete historical LFX source: '+file);
+    if (year >= 2021) {
+      const linked = uniq(text.match(/https:\/\/mentorship\.lfx\.linuxfoundation\.org\/project\/[^\s<>\])]+/g) || []);
+      assert(linked.every(url => records.some(record => record.applicationUrl === url)), 'Historical LFX parser missed a linked project: '+file);
+    }
+    for(const r of records) add(map,org(r.name,sourceUrl,r.name+' mentorship projects from the CNCF archive.','Infrastructure and cloud',[],['Cloud native'],true),{
+      program:'lfx',year,cohort,status:'historical',...provenance(sourceUrl,text,HISTORY_REVISION),
+      sourceNote:year<2021?'CNCF CommunityBridge archive, the predecessor to LFX Mentorship.':'CNCF published participating or accepted projects.',
+      projects:[{title:r.title,url:r.url,...(r.applicationUrl?{applicationUrl:r.applicationUrl}:{}),sourceStatus:'accepted'}]
+    });
+    console.log('lfx '+file+': '+records.length+' published projects');
   }
   return [...map.values()];
 }

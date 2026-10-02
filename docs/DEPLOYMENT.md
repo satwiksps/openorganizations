@@ -71,7 +71,7 @@ window.__ooAdsConsent = true; // Only after the CMP reports valid ad consent.
 window.dispatchEvent(new Event('openorganizations:ads-consent'));
 ```
 
-For refusal or withdrawal, set the value to `false` and dispatch the same event. The component hides its ad slot when consent is false, but an already-loaded third-party script cannot be fully unloaded by removing markup. Wire withdrawal to the CMP's revocation procedure and reload the page after persisting the refusal, so the next page starts without loading the ad script. Initialize the bridge to false/absent until the CMP confirms consent. Continued browsing, the visitor's inferred region, and elapsed time are never treated as consent by the component.
+For refusal or withdrawal, set the value to `false` and dispatch the same event. The component removes the ad content when consent is false while preserving the reserved space, but an already-loaded third-party script cannot be fully unloaded by removing markup. Wire withdrawal to the CMP's revocation procedure and reload the page after persisting the refusal, so the next page starts without loading the ad script. Initialize the bridge to false/absent until the CMP confirms consent. Continued browsing, the visitor's inferred region, and elapsed time are never treated as consent by the component.
 
 Before enabling ads, update the privacy page for the actual providers, contact information, cookie use, and controls. Follow [Google's required privacy disclosures](https://support.google.com/adsense/answer/1348695?hl=en) and [consent-management requirements](https://support.google.com/adsense/answer/13554116?hl=en). Reserved ad slots remain separate from organization links. Test refusal, withdrawal, and ad blockers; browsing should work in each case.
 
@@ -79,6 +79,14 @@ Before enabling ads, update the privacy page for the actual providers, contact i
 
 Every production build creates deterministic `public/source.tar.gz` with Node's built-in USTAR writer and gzip implementation. It includes project source, scripts, data snapshots, Gatsby/pnpm configuration, the lockfile, documentation, workflow files, static fonts, and retained license/attribution files. It excludes installed dependencies, `.git`, `.reference`, `public`, caches, `.env` files, and recognized secret-file names. `.env.example` is included as a nonsecret configuration example.
 
-The `/sources/` page links this archive, allowing public source downloads even if the working repository is private. Users can extract it, install the pinned dependencies, and rebuild with the commands in README. Do not replace it with a link to an inaccessible private repository. Rebuild the archive in the same deployment as any source change, retain third-party notices, and check the archive if new build inputs are added outside the allowlist.
+The `/sources/` page links this archive, allowing public source downloads even if the working repository is private. Users can extract it, install the pinned dependencies, and rebuild with the commands in [the project guide](PROJECT.md#run-locally). Do not replace it with a link to an inaccessible private repository. Rebuild the archive in the same deployment as any source change, retain third-party notices, and check the archive if new build inputs are added outside the allowlist.
 
 The postbuild step rejects a source archive at or above the Pages 25 MiB single-file limit instead of silently removing source access. It also emits `sitemap.xml` and `robots.txt` from actual built routes, excluding the 404 route. Production domain changes require a rebuild.
+
+### Ad placement limits
+
+One optional ad unit per page: after the sixth organization card (only with further results), after the eighth proposal card, or between the profile chart and participation list. Nothing overlays search, filters, navigation or buttons. Slots reserve space and request an ad only within 300px of the viewport after consent. No timed refresh, sticky units, popups or interstitials are implemented. Disable AdSense Auto ads to keep these placement limits.
+
+Optional `GATSBY_ADSENSE_PROFILE_SLOT` and `GATSBY_ADSENSE_PROPOSALS_SLOT` can use separate reporting units; both fall back to `GATSBY_ADSENSE_SLOT`. Test desktop and mobile with approved ad units before launch. No configured publisher means no slot or empty ad space.
+
+For placement review only, append `?ad-preview=1` to a localhost URL. This renders labeled placeholders without loading advertising scripts. It has no effect on public hostnames.

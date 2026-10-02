@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-02T16:27:30.296Z",
+  "checkedAt": "2026-10-02T17:59:07.855Z",
   "groups": [
     {
       "parentSlug": "numfocus",
@@ -5289,6 +5289,743 @@
       "sourceUrl": "https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship",
       "program": "lfx",
       "candidates": []
+    },
+    {
+      "parentSlug": "python-software-foundation",
+      "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/tree/51ceb6a8e0446d36b20d45564dd10045f133420b",
+      "candidates": [
+        {
+          "name": "MNE-Python",
+          "aliases": [],
+          "website": "https://mne.tools/dev",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://mne.discourse.group",
+              "label": "Mailing List"
+            },
+            {
+              "url": "https://github.com/mne-tools/mne-python/",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "FURY",
+          "aliases": [],
+          "website": "https://fury.gl",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://github.com/fury-gl/fury/discussions/categories/gsoc-gsod",
+              "label": "Discussions"
+            },
+            {
+              "url": "https://mail.python.org/mailman3/lists/fury.python.org/",
+              "label": "Mailing List"
+            },
+            {
+              "url": "https://github.com/fury-gl/fury",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "CVE Binary Tool",
+          "aliases": [],
+          "website": "https://cve-bin-tool.readthedocs.io/en/latest/",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://gitter.im/cve-bin-tool/community",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/intel/cve-bin-tool",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "MSS - Mission Support System",
+          "aliases": [],
+          "website": "https://open-mss.github.io/about/",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://web.libera.chat/?nick=Guest&#mss-gsoc",
+              "label": "Chat"
+            },
+            {
+              "url": "https://open-mss.github.io/",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "EOS Design System",
+          "aliases": [],
+          "website": "https://brand.eosdesignsystem.com/",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://eos-community.slack.com/",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/EOS-uiux-Solutions/",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "DFFML",
+          "aliases": [],
+          "website": "https://intel.github.io/dffml/",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://gitter.im/dffml/community",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/intel/dffml",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Scrapy",
+          "aliases": [],
+          "website": "https://www.zyte.com/",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://discord.gg/mv3yErfpvq",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/scrapy",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Python Argentina",
+          "aliases": [],
+          "website": "http://ac.python.org.ar/",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://t.me/PyArGSoC",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/PyAr",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Tern",
+          "aliases": [],
+          "website": "https://github.com/tern-tools/tern",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://vmwarecode.slack.com/messages/tern",
+              "label": "Chat"
+            }
+          ]
+        },
+        {
+          "name": "SciPy",
+          "aliases": [],
+          "website": "https://scipy.org/",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://mail.python.org/mailman3/lists/scipy-dev.python.org/",
+              "label": "Mailing List"
+            },
+            {
+              "url": "https://github.com/scipy/scipy",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Activeloop",
+          "aliases": [],
+          "website": "https://docs.activeloop.ai",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://github.com/activeloopai/hub",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "PyData/Sparse",
+          "aliases": [],
+          "website": "https://sparse.pydata.org/",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2021/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://gitter.im/pydata/sparse",
+              "label": "Chat"
+            }
+          ]
+        },
+        {
+          "name": "GNU Mailman",
+          "aliases": [],
+          "website": "https://docs.mailman3.org/en/latest/",
+          "ideaYears": [
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://web.libera.chat/#mailman",
+              "label": "Chat"
+            },
+            {
+              "url": "https://gitlab.com/",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "LPython",
+          "aliases": [],
+          "website": "https://lpython.org/",
+          "ideaYears": [
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://lfortran.zulipchat.com/",
+              "label": "Chat"
+            },
+            {
+              "url": "https://groups.io/g/lfortran",
+              "label": "Mailing List"
+            },
+            {
+              "url": "https://github.com/lcompilers/lpython",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "PyElastica",
+          "aliases": [],
+          "website": "https://www.cosseratrods.org",
+          "ideaYears": [
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://gitter.im/PyElastica/community?utm_source=badge&utm_medium=badge&utm_cam",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/GazzolaLab/PyElastica",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Towhee",
+          "aliases": [],
+          "website": "https://towhee.io",
+          "ideaYears": [
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2022/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://slack.towhee.io/",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/towhee-io/towhee",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Borg Collective",
+          "aliases": [],
+          "website": "https://vorta.borgbase.com/",
+          "ideaYears": [
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://www.reddit.com/r/BorgBackup/",
+              "label": "Reddit"
+            },
+            {
+              "url": "https://github.com/borgbase/vorta/",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "D-SEAMS",
+          "aliases": [],
+          "website": "https://dseams.info/",
+          "ideaYears": [
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://github.com/d-SEAMS/seams-core",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "DIPY",
+          "aliases": [],
+          "website": "https://dipy.org",
+          "ideaYears": [
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://github.com/dipy/dipy/discussions/categories/-gsoc-gsod",
+              "label": "Discussions"
+            },
+            {
+              "url": "https://mail.python.org/mailman3/lists/dipy.python.org/",
+              "label": "Mailing List"
+            },
+            {
+              "url": "https://github.com/dipy/dipy",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "xbitinfo",
+          "aliases": [],
+          "website": "https://xbitinfo.readthedocs.io/",
+          "ideaYears": [
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2023/ideas.html"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://github.com/observingClouds/xbitinfo",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "pocketpy",
+          "aliases": [],
+          "website": "https://pocketpy.dev/",
+          "ideaYears": [
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://discord.gg/WWaq72GzXv",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/pocketpy/pocketpy",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Seldon-code",
+          "aliases": [],
+          "website": "https://github.com/seldon-code",
+          "ideaYears": [
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://github.com/Seldon-code",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Pwndbg",
+          "aliases": [],
+          "website": "https://pwndbg.re/",
+          "ideaYears": [
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2024/ideas.html"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://discord.gg/x47DssnGwm",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/pwndbg/pwndbg/",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Tölvera",
+          "aliases": [],
+          "website": "https://tolvera.is",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://discord.gg/ER7tWds9vM",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/afhverjuekki/tolvera",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "ilastik",
+          "aliases": [],
+          "website": "https://ilastik.org",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://github.com/ilastik/ilastik",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "PyLadiesCon",
+          "aliases": [],
+          "website": "https://conference.pyladies.com/",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://discord.gg/2fUN4ddVfP",
+              "label": "Chat"
+            },
+            {
+              "url": "https://github.com/pyladies/pyladiescon-portal/",
+              "label": "Source Code"
+            }
+          ]
+        },
+        {
+          "name": "Open World Holidays Framework",
+          "aliases": [],
+          "website": "https://pypi.org/project/holidays/",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/2025/ideas.html"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/python-gsoc/python-gsoc.github.io/blob/51ceb6a8e0446d36b20d45564dd10045f133420b/ideas.html"
+            }
+          ],
+          "communityLinks": [
+            {
+              "url": "https://join.slack.com/t/vacanza-team/shared_invite/zt-31jz9je5t-dl0vayg0iJ3DEzDh82~8Sg",
+              "label": "Slack Invite"
+            },
+            {
+              "url": "https://vacanza-team.slack.com/archives/gsoc",
+              "label": "Slack Channel"
+            },
+            {
+              "url": "https://github.com/vacanza/holidays/",
+              "label": "Source Code"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

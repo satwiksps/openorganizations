@@ -1,6 +1,6 @@
 export const PAGE_SIZE = 24;
 export const DEFAULT_FILTERS = Object.freeze({
-  q: "", program: "all", years: [], categories: [], technologies: [], topics: [],
+  q: "", program: "all", years: [], terms: [], categories: [], technologies: [], topics: [],
   applicationsOpen: false, sort: "name", page: 1,
 });
 
@@ -14,6 +14,7 @@ export function normalizeFilters(input = {}) {
   return {
     q: typeof input.q === "string" ? input.q.slice(0, 300) : "",
     program: typeof input.program === "string" && input.program ? input.program : "all",
+    terms: unique(input.terms),
     years: unique(input.years).filter(year => /^\d{4}$/.test(year)),
     categories: facetValues(input.categories), technologies: facetValues(input.technologies), topics: facetValues(input.topics),
     applicationsOpen: input.applicationsOpen === true,
@@ -26,7 +27,7 @@ export function parseDirectoryQuery(search = "") {
   const query = new URLSearchParams(search);
   return normalizeFilters({
     q: query.get("q") || "", program: query.get("program") || "all",
-    years: query.getAll("year"), categories: query.getAll("category"),
+    terms: query.getAll("term"), years: query.getAll("year"), categories: query.getAll("category"),
     technologies: query.getAll("tech"), topics: query.getAll("topic"),
     applicationsOpen: query.get("open") === "1", sort: query.get("sort"), page: query.get("page") || 1,
   });
@@ -37,7 +38,7 @@ export function serializeDirectoryQuery(input) {
   const query = new URLSearchParams();
   if (filters.q) query.set("q", filters.q);
   if (filters.program !== "all") query.set("program", filters.program);
-  for (const [key, values] of [["year", filters.years], ["category", filters.categories], ["tech", filters.technologies], ["topic", filters.topics]]) {
+  for (const [key, values] of [["term", filters.terms], ["year", filters.years], ["category", filters.categories], ["tech", filters.technologies], ["topic", filters.topics]]) {
     [...values].sort(compare).forEach(value => query.append(key, value));
   }
   if (filters.applicationsOpen) query.set("open", "1");
@@ -68,6 +69,7 @@ export function getMatchingParticipations(organization, input = {}, today) {
   const filters = normalizeFilters(input);
   return (organization.participations || []).filter(participation =>
     (filters.program === "all" || participation.program === filters.program) &&
+    (!filters.terms.length || filters.terms.includes(participation.cohort)) &&
     (!filters.years.length || filters.years.includes(String(participation.year))) &&
     (!filters.applicationsOpen || isParticipationOpen(participation, today))
   );
@@ -115,15 +117,15 @@ export function filterOrganizations(organizations, input = {}, today) {
 export function getDirectoryFacets(organizations, input = {}, today) {
   const filters = normalizeFilters(input);
   const facets = {};
-  for (const key of ["years", "categories", "technologies", "topics"]) {
+  for (const key of ["years", "terms", "categories", "technologies", "topics"]) {
     const labels = key === "years" ? new Map() : facetLabels(organizations, key);
     const withoutFacet = { ...filters, [key]: [] };
     const matching = filterOrganizations(organizations, withoutFacet, today);
     const counts = new Map();
     for (const organization of matching) {
-      const values = key === "years" ? getMatchingParticipations(organization, withoutFacet, today).map(participation => String(participation.year))
+      const values = key === "terms" ? getMatchingParticipations(organization, withoutFacet, today).map(p => p.cohort).filter(Boolean) : key === "years" ? getMatchingParticipations(organization, withoutFacet, today).map(participation => String(participation.year))
         : key === "categories" ? [organization.category] : strings(organization[key]);
-      (key === "years" ? unique(values) : facetValues(values)).forEach(value => counts.set(value, (counts.get(value) || 0) + 1));
+      (["years", "terms"].includes(key) ? unique(values) : facetValues(values)).forEach(value => counts.set(value, (counts.get(value) || 0) + 1));
     }
     filters[key].forEach(value => { if (!counts.has(value)) counts.set(value, 0); });
     facets[key] = [...counts].map(([value, count]) => ({ value, label: labels.get(value) || value, count }))
@@ -134,7 +136,7 @@ export function getDirectoryFacets(organizations, input = {}, today) {
 
 export function getProgramCounts(organizations, programs, input = {}, today) {
   const filters = normalizeFilters(input);
-  return Object.fromEntries(["all", ...programs.map(program => program.id)].map(program => [program, filterOrganizations(organizations, { ...filters, program }, today).length]));
+  return Object.fromEntries(["all", ...programs.map(program => program.id)].map(program => [program, filterOrganizations(organizations, { ...filters, program, terms: program === "lfx" ? filters.terms : [] }, today).length]));
 }
 
 export function paginateOrganizations(organizations, requestedPage = 1, pageSize = PAGE_SIZE) {

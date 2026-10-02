@@ -1,0 +1,44 @@
+[
+  {
+    "program": "gsoc",
+    "url": "https://summerofcode.withgoogle.com/assets/favicons/apple-touch-icon.png",
+    "path": "/programs/gsoc.png",
+    "checkedAt": "2026-10-02T18:06:48.050Z"
+  },
+  {
+    "program": "lfx",
+    "url": "https://cdn.platform.linuxfoundation.org/assets/lf-favicon.png",
+    "path": "/programs/lfx.png",
+    "checkedAt": "2026-10-02T18:06:48.610Z"
+  },
+  {
+    "program": "sob",
+    "url": "https://assets.softr-files.com/applications/5abf9a13-d06f-44d6-b50c-187328a34a81/assets/7bb32994-3855-4123-82c9-4e48cc0a746e.png?rnd=1633327566656",
+    "path": "/programs/sob.png",
+    "checkedAt": "2026-10-02T18:06:48.950Z"
+  },
+  {
+    "program": "esoc",
+    "url": "https://www.esoc.dev/esoc-icon.webp",
+    "path": "/programs/esoc.webp",
+    "checkedAt": "2026-10-02T18:06:49.627Z"
+  },
+  {
+    "program": "outreachy",
+    "url": "https://www.outreachy.org/media/images/outreachy-logo-500x100.max-200x200.png",
+    "path": "/programs/outreachy.png",
+    "checkedAt": "2026-10-02T18:06:50.659Z"
+  },
+  {
+    "program": "c4gt",
+    "url": "https://codeforgoodtech.in/logo.png",
+    "path": "/programs/c4gt.png",
+    "checkedAt": "2026-10-02T18:06:51.009Z"
+  },
+  {
+    "program": "sok",
+    "url": "https://mentorship.kde.org/apple-touch-icon.png",
+    "path": "/programs/sok.png",
+    "checkedAt": "2026-10-02T18:06:51.743Z"
+  }
+]
