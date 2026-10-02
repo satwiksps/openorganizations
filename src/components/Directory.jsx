@@ -4,13 +4,14 @@ import { ArrowLeft, ArrowRight, Github, Grid2X2, Search, SlidersHorizontal, X } 
 import FilterSidebar from "./FilterSidebar";
 import OrganizationCard from "./OrganizationCard";
 import AdSlot from "./AdSlot";
+import RepoStars from './RepoStars';
 import { DEFAULT_FILTERS, PAGE_SIZE, filterOrganizations, getDirectoryFacets, getProgramCounts, normalizeFilters, paginateOrganizations, parseDirectoryQuery, serializeDirectoryQuery } from "../lib/directory.mjs";
 
 const PRIMARY_PROGRAMS = ["gsoc", "lfx", "sob", "esoc", "outreachy", "c4gt"];
 const FACET_LABELS = { years: "Year", categories: "Category", technologies: "Technology", topics: "Topic" };
 
 function Brand({ mobile = false, onNavigate }) {
-  return <Link className={`directory-brand${mobile ? " mobile-brand" : ""}`} to="/" onClick={onNavigate} aria-label="OpenOrganizations home"><span className="brand-mark" aria-hidden="true"><Grid2X2 size={22} /></span><span><span className="brand-name">OpenOrganizations</span><span className="brand-subtitle">Find your open source community</span></span></Link>;
+  return <Link className={`directory-brand${mobile ? " mobile-brand" : ""}`} to="/" onClick={onNavigate} aria-label="OpenOrganizations home"><img className="brand-symbol" src="/brand-mark.svg" width="36" height="36" alt=""/><span><span className="brand-name">OpenOrganizations</span><span className="brand-subtitle">Find your open source community</span></span></Link>;
 }
 
 export default function Directory({ organizations = [], programs = [], generatedAt = "", location }) {
@@ -99,12 +100,13 @@ export default function Directory({ organizations = [], programs = [], generated
         <Brand onNavigate={resetFilters} />
         <nav className="sidebar-nav" aria-label="Main navigation"><Link to="/" onClick={resetFilters} className="is-active" aria-current="page"><Grid2X2 size={16} aria-hidden="true" />Organizations</Link><Link to="/programs/">Programs<span>{programs.length}</span></Link></nav>
         <FilterSidebar {...sidebarProps} />
-        <div className="sidebar-footer"><nav aria-label="Information"><Link to="/about/">About</Link><Link to="/sources/">Data & sources</Link><Link to="/privacy/">Privacy</Link></nav><a href="https://github.com/satwiksps/openorganizations" target="_blank" rel="noreferrer"><Github size={15} aria-hidden="true" />Contribute on GitHub<ArrowRight size={13} aria-hidden="true" /></a></div>
+        <Link className="sidebar-proposals" to="/proposals/">Explore proposal examples <ArrowRight size={14}/></Link>
+        <div className="sidebar-footer"><nav aria-label="Information"><Link to="/about/">About</Link><Link to="/sources/">Data & sources</Link><Link to="/privacy/">Privacy</Link></nav><RepoStars/></div>
       </aside>
 
       <main className="directory-main" id="main-content" tabIndex={-1}>
         <header className="directory-header">
-          <div className="directory-topbar"><Brand mobile onNavigate={resetFilters} /><Link className="mobile-programs-link" to="/programs/">Programs</Link></div>
+          <div className="directory-topbar"><Brand mobile onNavigate={resetFilters} /><nav className="mobile-resources"><Link to="/programs/">Programs</Link><Link to="/proposals/">Proposals</Link></nav></div>
           <h1 className="visually-hidden">Open source organizations across mentorship programs</h1>
           <div className="search-field"><Search className="search-icon" size={20} aria-hidden="true" /><input ref={searchRef} type="search" aria-label="Search organizations, technologies, or topics" placeholder="Search organizations, technologies, or topics…" value={filters.q} onChange={event => updateFilters({ q: event.target.value }, { replace: true })} />{filters.q && <button className="search-clear" type="button" aria-label="Clear search" onClick={() => { updateFilters({ q: "" }, { replace: true }); searchRef.current?.focus(); }}><X size={16} aria-hidden="true" /></button>}<kbd aria-hidden="true">Search</kbd></div>
           <div className="program-tabs" role="group" aria-label="Filter by program">
@@ -123,6 +125,7 @@ export default function Directory({ organizations = [], programs = [], generated
           </div>
           {matching.length > 0 && <nav className="pagination" aria-label="Results pages"><p className="pagination-summary">Showing {visibleStart}–{visibleEnd} of {matching.length.toLocaleString("en-US")}</p><div className="pagination-controls"><button type="button" aria-label="Previous page" disabled={pagination.page === 1} onClick={() => changePage(pagination.page - 1)}><ArrowLeft size={16} aria-hidden="true" /><span>Previous</span></button><span>Page <strong>{pagination.page}</strong> of {pagination.totalPages}</span><button type="button" aria-label="Next page" disabled={pagination.page === pagination.totalPages} onClick={() => changePage(pagination.page + 1)}><span>Next</span><ArrowRight size={16} aria-hidden="true" /></button></div></nav>}
           <AdSlot />
+          <div className="mobile-star-footer"><RepoStars compact/></div>
           <p className="directory-data-note">Participation history is not a promise of an open application. <Link to="/sources/">Check our sources and coverage.</Link></p>
         </section>
       </main>

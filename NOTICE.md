@@ -12,3 +12,10 @@ OpenOrganizations uses familiar directory interaction patterns inspired by [GSoC
 Project code is GPL-3.0-only, as reproduced in `LICENSE`. This does not replace the third-party licenses above. Program names, organization logos, trademarks, external descriptions, linked websites, and project materials retain their respective owners' rights. Linked logos are served from upstream hosts and are not repackaged into this project's source archive.
 
 Build and dependency versions are recorded in `package.json` and `pnpm-lock.yaml`. Gatsby, React, Lucide, and other installed dependencies retain their own license notices. The source archive includes the lockfile and installation instructions rather than installed dependencies or credentials.
+# Additional sources
+
+Historical GSoC 2009–2015 records are derived from Vaibhav Gupta's MIT-licensed `dojutsu-user/GSoC-Data-Analyser`, revision `51e1a4beffa4bb489562be07172ed55463a8f62f`. The original notice is retained in `vendor/gsoc-history-LICENSE`. Original Google Melange links may redirect; the pinned community mirror remains the evidence source.
+
+Proposal documents are linked to their public repositories, not copied. Reported outcomes come from archive maintainers. NumFOCUS ideas-list links and the Apache project catalog identify umbrella communities; named-title frequencies are explicitly incomplete and are not acceptance rates.
+
+Cached organization images and website icons retain their respective owners' trademark and copyright rights. `data/logos.json` records each image's source URL and fetch date; the GPL license on project code does not relicense these marks. Missing images use generated text initials rather than an invented official logo.

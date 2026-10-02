@@ -1,0 +1,5294 @@
+{
+  "checkedAt": "2026-10-02T16:27:30.296Z",
+  "groups": [
+    {
+      "parentSlug": "numfocus",
+      "name": "NumFOCUS",
+      "sourceUrl": "https://github.com/numfocus/gsoc/tree/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16",
+      "candidates": [
+        {
+          "name": "Julia",
+          "aliases": [
+            "Julia"
+          ],
+          "website": "https://julialang.org/soc/ideas-page.html",
+          "ideaYears": [
+            {
+              "year": 2015,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2015/ideas-list.md"
+            },
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Software Carpentry",
+          "aliases": [
+            "Software Carpentry"
+          ],
+          "website": "https://github.com/numfocus/gsoc/blob/master/2016/ideas-list-swc.md",
+          "ideaYears": [
+            {
+              "year": 2015,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2015/ideas-list.md"
+            },
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "SymPy",
+          "aliases": [
+            "SymPy"
+          ],
+          "website": "https://github.com/sympy/sympy/wiki/GSoC-2015-Ideas",
+          "ideaYears": [
+            {
+              "year": 2015,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2015/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "biocore",
+          "aliases": [
+            "biocore"
+          ],
+          "website": "https://github.com/numfocus/gsoc/blob/master/2016/ideas-list-biocore.md",
+          "ideaYears": [
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "bokeh",
+          "aliases": [
+            "bokeh",
+            "Bokeh"
+          ],
+          "website": "https://github.com/bokeh/bokeh/wiki/GSOC-2020-Ideas-Page",
+          "ideaYears": [
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "DyND",
+          "aliases": [
+            "DyND"
+          ],
+          "website": "https://github.com/numfocus/gsoc/blob/master/2016/ideas-list-dynd.md",
+          "ideaYears": [
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Data Retriever",
+          "aliases": [
+            "EcoData Retriever",
+            "Data Retriever"
+          ],
+          "website": "https://github.com/weecology/retriever/wiki/GSoC-2026-Project-Ideas",
+          "ideaYears": [
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            },
+            {
+              "year": 2017,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2017/ideas-list.md"
+            },
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            },
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Gensim",
+          "aliases": [
+            "Gensim",
+            "gensim"
+          ],
+          "website": "https://github.com/RaRe-Technologies/gensim/wiki/GSoC-2018-project-ideas",
+          "ideaYears": [
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            },
+            {
+              "year": 2017,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2017/ideas-list.md"
+            },
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "JuliaOpt",
+          "aliases": [
+            "JuliaOpt"
+          ],
+          "website": "https://github.com/numfocus/gsoc/blob/master/2016/ideas-list-juliaopt.md",
+          "ideaYears": [
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "JuliaQuantum",
+          "aliases": [
+            "JuliaQuantum"
+          ],
+          "website": "https://github.com/numfocus/gsoc/blob/master/2016/ideas-list-juliaquantum.md",
+          "ideaYears": [
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Matplotlib",
+          "aliases": [
+            "matplotlib",
+            "Matplotlib"
+          ],
+          "website": "https://github.com/matplotlib/matplotlib/wiki/Matplotlib-GSoC-2026-Ideas",
+          "ideaYears": [
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            },
+            {
+              "year": 2017,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2017/ideas-list.md"
+            },
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Pandas",
+          "aliases": [
+            "Pandas"
+          ],
+          "website": "https://github.com/pydata/pandas/wiki/Google-Summer-of-Code",
+          "ideaYears": [
+            {
+              "year": 2016,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2016/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "conda-forge",
+          "aliases": [
+            "conda-forge"
+          ],
+          "website": "https://hackmd.io/@conda-forge/ryxecoj2j",
+          "ideaYears": [
+            {
+              "year": 2017,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2017/ideas-list.md"
+            },
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "FEniCS",
+          "aliases": [
+            "FEniCS",
+            "FEniCS Project"
+          ],
+          "website": "https://github.com/fenics/gsoc/blob/gsoc-2024/2024/fenics-ideas-list.md",
+          "ideaYears": [
+            {
+              "year": 2017,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2017/ideas-list.md"
+            },
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            },
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "nteract",
+          "aliases": [
+            "nteract"
+          ],
+          "website": "https://github.com/nteract/nteract/wiki/GSoC-2020-Ideas",
+          "ideaYears": [
+            {
+              "year": 2017,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2017/ideas-list.md"
+            },
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "MDAnalysis",
+          "aliases": [
+            "MDAnalysis"
+          ],
+          "website": "https://github.com/MDAnalysis/mdanalysis/wiki/GSoC-2019-Project-Ideas",
+          "ideaYears": [
+            {
+              "year": 2017,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2017/ideas-list.md"
+            },
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            },
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "PyMC",
+          "aliases": [
+            "PyMC3",
+            "PyMC"
+          ],
+          "website": "https://github.com/pymc-devs/pymc/wiki/GSoC-2026-projects",
+          "ideaYears": [
+            {
+              "year": 2017,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2017/ideas-list.md"
+            },
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            },
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Stan",
+          "aliases": [
+            "Stan"
+          ],
+          "website": "https://github.com/stan-dev/stan/wiki/GSOC-2026-Proposed-Projects",
+          "ideaYears": [
+            {
+              "year": 2017,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2017/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Cantera",
+          "aliases": [
+            "Cantera"
+          ],
+          "website": "https://github.com/Cantera/cantera/wiki/GSoC-2020-Ideas",
+          "ideaYears": [
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            },
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "yt",
+          "aliases": [
+            "yt"
+          ],
+          "website": "https://github.com/yt-project/gsoc-2018",
+          "ideaYears": [
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Shogun",
+          "aliases": [
+            "Shogun"
+          ],
+          "website": "https://github.com/shogun-toolbox/shogun/wiki/Google-Summer-of-Code-2018-Projects",
+          "ideaYears": [
+            {
+              "year": 2018,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2018/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "ArviZ",
+          "aliases": [
+            "ArviZ"
+          ],
+          "website": "https://github.com/arviz-devs/arviz/wiki/GSoC-2026-projects",
+          "ideaYears": [
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Chainer",
+          "aliases": [
+            "Chainer"
+          ],
+          "website": "https://github.com/chainer/chainer/wiki/GSoC-2019-Project-Ideas",
+          "ideaYears": [
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "CuPy",
+          "aliases": [
+            "CuPy"
+          ],
+          "website": "https://github.com/cupy/cupy/wiki/GSoC-2024-Project-Ideas",
+          "ideaYears": [
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Dask",
+          "aliases": [
+            "Dask"
+          ],
+          "website": "https://github.com/dask/dask/wiki/GSOC-2021-Project-Ideas",
+          "ideaYears": [
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "JuMP",
+          "aliases": [
+            "JuMP"
+          ],
+          "website": "https://github.com/jump-dev/GSOC",
+          "ideaYears": [
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "QuTiP",
+          "aliases": [
+            "QuTiP",
+            "Qutip"
+          ],
+          "website": "https://github.com/qutip/qutip/wiki//Google-Summer-of-Code-current",
+          "ideaYears": [
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            },
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Yellowbrick",
+          "aliases": [
+            "Yellowbrick"
+          ],
+          "website": "https://github.com/wagner2010/gsoc/blob/wagner2010-patch-1/templates/ideas-page-prema.md",
+          "ideaYears": [
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Blosc",
+          "aliases": [
+            "Blosc"
+          ],
+          "website": "https://github.com/Blosc/c-blosc2/wiki/GSOC-2019-Project-Ideas",
+          "ideaYears": [
+            {
+              "year": 2019,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2019/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "AiiDA",
+          "aliases": [
+            "AiiDA"
+          ],
+          "website": "https://github.com/aiidateam/aiida-core/wiki/GSoC-2026-Projects",
+          "ideaYears": [
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Clawpack",
+          "aliases": [
+            "Clawpack"
+          ],
+          "website": "https://github.com/clawpack/clawpack/wiki/Google-Summer-of-Code-2020",
+          "ideaYears": [
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Colour Science",
+          "aliases": [
+            "Colour",
+            "Colour Science"
+          ],
+          "website": "https://github.com/colour-science/GSoC/blob/master/2023/GSoC-2023-Project-Ideas.md",
+          "ideaYears": [
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Econ-ARK",
+          "aliases": [
+            "Econ-Ark",
+            "Econ-ARK"
+          ],
+          "website": "https://github.com/econ-ark/OverARK/wiki/GSoC-2022-Project-Ideas",
+          "ideaYears": [
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Effective Quadratures",
+          "aliases": [
+            "Effective Quadratures"
+          ],
+          "website": "https://github.com/Effective-Quadratures/equadratures/wiki/GSoC-2021-Projects",
+          "ideaYears": [
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Optuna",
+          "aliases": [
+            "Optuna"
+          ],
+          "website": "https://github.com/optuna/optuna/wiki/Optuna-GSoC-2024",
+          "ideaYears": [
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "pvlib",
+          "aliases": [
+            "pvlib"
+          ],
+          "website": "https://github.com/pvlib/pvlib-python/wiki/GSoC-2026-Projects",
+          "ideaYears": [
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "PySAL",
+          "aliases": [
+            "PySAL"
+          ],
+          "website": "https://github.com/pysal/pysal/wiki/Google-Summer-of-Code-2026",
+          "ideaYears": [
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "signac",
+          "aliases": [
+            "signac"
+          ],
+          "website": "https://github.com/glotzerlab/signac/wiki/GSoC-2022-Projects",
+          "ideaYears": [
+            {
+              "year": 2020,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2020/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "CB-Geo MPM",
+          "aliases": [
+            "CB-Geo MPM"
+          ],
+          "website": "https://github.com/cb-geo/mpm/issues/744",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "GeoPandas",
+          "aliases": [
+            "GeoPandas"
+          ],
+          "website": "https://github.com/geopandas/geopandas/wiki/Google-Summer-of-Code-2022",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Gridap",
+          "aliases": [
+            "Gridap"
+          ],
+          "website": "https://github.com/gridap/GSoC/blob/main/2026/ideas-list.md",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "LFortran",
+          "aliases": [
+            "LFortran"
+          ],
+          "website": "https://gitlab.com/lfortran/lfortran/-/wikis/GSoC%202022%20Ideas",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "NetworkX",
+          "aliases": [
+            "NetworkX"
+          ],
+          "website": "https://networkx.org/documentation/latest/developer/projects.html",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "PyBaMM",
+          "aliases": [
+            "PyBaMM"
+          ],
+          "website": "https://pybamm.org/gsoc/2025/",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "PyTorch-Ignite",
+          "aliases": [
+            "PyTorch-Ignite",
+            "pytorch-ignite"
+          ],
+          "website": "https://github.com/pytorch/ignite/wiki/GSoC-2026-project-idea",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "SciML",
+          "aliases": [
+            "SciML"
+          ],
+          "website": "https://sciml.ai/dev/#google_summer_of_code",
+          "ideaYears": [
+            {
+              "year": 2021,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2021/ideas-list.md"
+            },
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "CVXPY",
+          "aliases": [
+            "CVXPY"
+          ],
+          "website": "https://github.com/cvxpy/GSOC",
+          "ideaYears": [
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "FluxML",
+          "aliases": [
+            "FluxML"
+          ],
+          "website": "https://fluxml.ai/gsoc",
+          "ideaYears": [
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Taskflow",
+          "aliases": [
+            "Taskflow"
+          ],
+          "website": "https://github.com/taskflow/GSoC2024",
+          "ideaYears": [
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Zarr",
+          "aliases": [
+            "Zarr"
+          ],
+          "website": "https://github.com/zarr-developers/gsoc/blob/main/2025/ideas-list.md",
+          "ideaYears": [
+            {
+              "year": 2022,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2022/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Mesa",
+          "aliases": [
+            "Mesa"
+          ],
+          "website": "https://github.com/projectmesa/mesa/wiki/Projects-for-Google-Summer-of-Code-2023",
+          "ideaYears": [
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "OpenFHE",
+          "aliases": [
+            "OpenFHE"
+          ],
+          "website": "https://github.com/openfheorg/openfhe-development/wiki/GSOC-2023",
+          "ideaYears": [
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Open Science Labs",
+          "aliases": [
+            "Open Science Labs"
+          ],
+          "website": "https://github.com/OpenScienceLabs/gsoc/blob/main/project-ideas/gsoc2024.md",
+          "ideaYears": [
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "PyLops",
+          "aliases": [
+            "PyLops"
+          ],
+          "website": "https://github.com/PyLops/pylops/wiki/GSoC-2023-Project-Ideas",
+          "ideaYears": [
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "TNL",
+          "aliases": [
+            "TNL"
+          ],
+          "website": "https://gitlab.com/tnl-project/tnl/-/wikis/GSoC-2025",
+          "ideaYears": [
+            {
+              "year": 2023,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2023/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "aeon",
+          "aliases": [
+            "aeon"
+          ],
+          "website": "https://github.com/aeon-toolkit/aeon-admin/blob/main/gsoc/gsoc-2025-projects.md",
+          "ideaYears": [
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            },
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Bambi",
+          "aliases": [
+            "Bambi"
+          ],
+          "website": "https://github.com/bambinos/bambi/wiki/GSoC-2024-projects",
+          "ideaYears": [
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "biocommons",
+          "aliases": [
+            "biocommons"
+          ],
+          "website": "https://github.com/orgs/biocommons/projects/8/views/1",
+          "ideaYears": [
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "conda",
+          "aliases": [
+            "conda"
+          ],
+          "website": "https://hackmd.io/@conda-community/conda-gsoc-ideas-2024",
+          "ideaYears": [
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "GOSST",
+          "aliases": [
+            "GOSST"
+          ],
+          "website": "https://github.com/numfocus/gsoc/wiki/GSoC-2024-GOSST",
+          "ideaYears": [
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "JupyterLab",
+          "aliases": [
+            "JupyterLab"
+          ],
+          "website": "https://github.com/orgs/jupyterlab/projects/8/views/1?pane=info",
+          "ideaYears": [
+            {
+              "year": 2024,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2024/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "conda / rattler",
+          "aliases": [
+            "conda / rattler"
+          ],
+          "website": "https://github.com/conda/rattler/issues/1058",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "DISCOVER Cookbook",
+          "aliases": [
+            "DISCOVER Cookbook"
+          ],
+          "website": "https://github.com/numfocus/DISCOVER-Cookbook/discussions/208",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "igraph",
+          "aliases": [
+            "igraph"
+          ],
+          "website": "https://github.com/igraph/igraph/wiki/Mentored-Projects",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "mlpack",
+          "aliases": [
+            "mlpack"
+          ],
+          "website": "https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "Open2C",
+          "aliases": [
+            "Open2C"
+          ],
+          "website": "https://github.com/open2c/open2c.github.io/wiki/GSoC-2025",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "optimagic",
+          "aliases": [
+            "optimagic"
+          ],
+          "website": "https://github.com/optimagic-dev/optimagic/discussions/559",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "sbi",
+          "aliases": [
+            "sbi"
+          ],
+          "website": "https://github.com/sbi-dev/sbi/wiki/GSoC%E2%80%902026%E2%80%90Projects",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "toqito",
+          "aliases": [
+            "toqito"
+          ],
+          "website": "https://github.com/vprusso/toqito/wiki/GSoC-2026-Projects",
+          "ideaYears": [
+            {
+              "year": 2025,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2025/ideas-list.md"
+            },
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "gammapy",
+          "aliases": [
+            "gammapy"
+          ],
+          "website": "https://github.com/gammapy/gammapy/wiki/GSoC-2026-Project",
+          "ideaYears": [
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "GRASS",
+          "aliases": [
+            "GRASS"
+          ],
+          "website": "https://grasswiki.osgeo.org/wiki/GRASS_GSoC_Ideas_2026",
+          "ideaYears": [
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "HoloViz",
+          "aliases": [
+            "HoloViz"
+          ],
+          "website": "https://github.com/holoviz/holoviz/wiki/2026-GSoC-Project-List",
+          "ideaYears": [
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        },
+        {
+          "name": "scikit-bio",
+          "aliases": [
+            "scikit-bio"
+          ],
+          "website": "https://github.com/scikit-bio/scikit-bio/wiki/GSOC-2026-project-ideas",
+          "ideaYears": [
+            {
+              "year": 2026,
+              "sourceUrl": "https://github.com/numfocus/gsoc/blob/b999b4f9e54d0c1cbd238388d2546ebdbc8d8f16/2026/ideas-list.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "parentSlug": "the-apache-software-foundation",
+      "name": "Apache Software Foundation",
+      "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+      "candidates": [
+        {
+          "name": "Apache Accumulo",
+          "aliases": [
+            "Accumulo",
+            "accumulo"
+          ],
+          "website": "https://accumulo.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Fluo",
+          "aliases": [
+            "Fluo",
+            "accumulo-fluo"
+          ],
+          "website": "https://fluo.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Fluo Recipes",
+          "aliases": [
+            "Fluo Recipes",
+            "accumulo-fluo_recipes"
+          ],
+          "website": "https://fluo.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Fluo YARN",
+          "aliases": [
+            "Fluo YARN",
+            "accumulo-fluo_yarn"
+          ],
+          "website": "https://fluo.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ActiveMQ",
+          "aliases": [
+            "ActiveMQ",
+            "activemq"
+          ],
+          "website": "http://activemq.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache AGE",
+          "aliases": [
+            "AGE"
+          ],
+          "website": "https://age.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Airavata",
+          "aliases": [
+            "Airavata",
+            "airavata"
+          ],
+          "website": "http://airavata.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Airflow",
+          "aliases": [
+            "Airflow",
+            "airflow"
+          ],
+          "website": "https://airflow.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Allura",
+          "aliases": [
+            "Allura",
+            "allura"
+          ],
+          "website": "http://allura.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Ambari",
+          "aliases": [
+            "Ambari",
+            "ambari"
+          ],
+          "website": "https://ambari.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Answer",
+          "aliases": [
+            "Answer",
+            "answer"
+          ],
+          "website": "https://answer.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Ant",
+          "aliases": [
+            "Ant"
+          ],
+          "website": "http://ant.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache AntUnit",
+          "aliases": [
+            "AntUnit",
+            "ant-antunit"
+          ],
+          "website": "http://ant.apache.org/antlibs/antunit/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Compress Ant Library",
+          "aliases": [
+            "Compress Ant Library",
+            "ant-compress"
+          ],
+          "website": "http://ant.apache.org/antlibs/compress/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache CycloneDX Ant Library",
+          "aliases": [
+            "CycloneDX Ant Library",
+            "ant-cyclonedx"
+          ],
+          "website": "http://ant.apache.org/antlibs/cyclonedx/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Ivy",
+          "aliases": [
+            "Ivy",
+            "ant-ivy"
+          ],
+          "website": "http://ant.apache.org/ivy/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache IvyDE",
+          "aliases": [
+            "IvyDE",
+            "ant-ivyde"
+          ],
+          "website": "http://ant.apache.org/ivyde/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Props Ant Library",
+          "aliases": [
+            "Props Ant Library",
+            "ant-props"
+          ],
+          "website": "http://ant.apache.org/antlibs/props/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Apisix",
+          "aliases": [
+            "Apisix",
+            "apisix"
+          ],
+          "website": "https://apisix.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Portable Runtime",
+          "aliases": [
+            "Portable Runtime",
+            "apr-portable_runtime"
+          ],
+          "website": "https://apr.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Aries",
+          "aliases": [
+            "Aries",
+            "aries"
+          ],
+          "website": "https://aries.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Arrow",
+          "aliases": [
+            "Arrow",
+            "arrow"
+          ],
+          "website": "https://arrow.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Artemis",
+          "aliases": [
+            "Artemis",
+            "artemis"
+          ],
+          "website": "https://artemis.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Asterixdb",
+          "aliases": [
+            "Asterixdb",
+            "asterixdb"
+          ],
+          "website": "https://asterixdb.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Atlas",
+          "aliases": [
+            "Atlas",
+            "atlas"
+          ],
+          "website": "https://atlas.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Any23",
+          "aliases": [
+            "Any23",
+            "attic-any23"
+          ],
+          "website": "http://any23.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Apex",
+          "aliases": [
+            "Apex",
+            "attic-apex"
+          ],
+          "website": "http://apex.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Archiva",
+          "aliases": [
+            "Archiva",
+            "attic-archiva"
+          ],
+          "website": "https://archiva.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Beehive",
+          "aliases": [
+            "Beehive",
+            "attic-beehive"
+          ],
+          "website": "http://beehive.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Buildr",
+          "aliases": [
+            "Buildr",
+            "attic-buildr"
+          ],
+          "website": "http://buildr.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Chemistry",
+          "aliases": [
+            "Chemistry",
+            "attic-chemistry"
+          ],
+          "website": "http://chemistry.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Chukwa",
+          "aliases": [
+            "Chukwa",
+            "attic-chukwa"
+          ],
+          "website": "http://chukwa.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Clerezza",
+          "aliases": [
+            "Clerezza",
+            "attic-clerezza"
+          ],
+          "website": "http://clerezza.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Click",
+          "aliases": [
+            "Click",
+            "attic-click"
+          ],
+          "website": "http://click.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Cocoon",
+          "aliases": [
+            "Cocoon",
+            "attic-cocoon"
+          ],
+          "website": "http://cocoon.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Continuum",
+          "aliases": [
+            "Continuum",
+            "attic-continuum"
+          ],
+          "website": "http://continuum.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Crunch",
+          "aliases": [
+            "Crunch",
+            "attic-crunch"
+          ],
+          "website": "http://crunch.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Deltacloud",
+          "aliases": [
+            "Deltacloud",
+            "attic-deltacloud"
+          ],
+          "website": "http://deltacloud.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache DeviceMap",
+          "aliases": [
+            "DeviceMap",
+            "attic-devicemap"
+          ],
+          "website": "http://devicemap.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache DirectMemory",
+          "aliases": [
+            "DirectMemory",
+            "attic-directmemory"
+          ],
+          "website": "http://directmemory.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ECS",
+          "aliases": [
+            "ECS",
+            "attic-ecs"
+          ],
+          "website": "http://jakarta.apache.org/ecs/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ESME",
+          "aliases": [
+            "ESME",
+            "attic-esme"
+          ],
+          "website": "http://esme.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Etch",
+          "aliases": [
+            "Etch",
+            "attic-etch"
+          ],
+          "website": "http://etch.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Excalibur",
+          "aliases": [
+            "Excalibur",
+            "attic-excalibur"
+          ],
+          "website": "http://excalibur.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Falcon",
+          "aliases": [
+            "Falcon",
+            "attic-falcon"
+          ],
+          "website": "http://falcon.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Forrest",
+          "aliases": [
+            "Forrest",
+            "attic-forrest"
+          ],
+          "website": "http://forrest.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Giraph",
+          "aliases": [
+            "Giraph",
+            "attic-giraph"
+          ],
+          "website": "http://giraph.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Gora",
+          "aliases": [
+            "Gora",
+            "attic-gora"
+          ],
+          "website": "http://gora.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Griffin",
+          "aliases": [
+            "Griffin",
+            "attic-griffin"
+          ],
+          "website": "http://griffin.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Hama",
+          "aliases": [
+            "Hama",
+            "attic-hama"
+          ],
+          "website": "http://hama.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Harmony",
+          "aliases": [
+            "Harmony",
+            "attic-harmony"
+          ],
+          "website": "http://harmony.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Hivemind",
+          "aliases": [
+            "Hivemind",
+            "attic-hivemind"
+          ],
+          "website": "http://hivemind.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Jakarta Cactus",
+          "aliases": [
+            "Jakarta Cactus",
+            "attic-jakarta_cactus"
+          ],
+          "website": "http://jakarta.apache.org/cactus",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache jclouds",
+          "aliases": [
+            "jclouds",
+            "attic-jclouds"
+          ],
+          "website": "http://jclouds.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Kibble",
+          "aliases": [
+            "Kibble",
+            "attic-kibble"
+          ],
+          "website": "https://kibble.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Lens",
+          "aliases": [
+            "Lens",
+            "attic-lens"
+          ],
+          "website": "http://lens.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Lenya",
+          "aliases": [
+            "Lenya",
+            "attic-lenya"
+          ],
+          "website": "http://lenya.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Lucy",
+          "aliases": [
+            "Lucy",
+            "attic-lucy"
+          ],
+          "website": "http://lucy.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Marmotta",
+          "aliases": [
+            "Marmotta",
+            "attic-marmotta"
+          ],
+          "website": "http://marmotta.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Mesos",
+          "aliases": [
+            "Mesos",
+            "attic-mesos"
+          ],
+          "website": "http://mesos.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache MetaModel",
+          "aliases": [
+            "MetaModel",
+            "attic-metamodel"
+          ],
+          "website": "http://metamodel.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache MRUnit",
+          "aliases": [
+            "MRUnit",
+            "attic-mrunit"
+          ],
+          "website": "http://mrunit.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache MXNet",
+          "aliases": [
+            "MXNet",
+            "attic-mxnet"
+          ],
+          "website": "https://mxnet.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ODE",
+          "aliases": [
+            "ODE",
+            "attic-ode"
+          ],
+          "website": "http://ode.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Olingo",
+          "aliases": [
+            "Olingo",
+            "attic-olingo"
+          ],
+          "website": "http://olingo.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Oltu - Parent",
+          "aliases": [
+            "Oltu - Parent",
+            "attic-oltu_-_parent"
+          ],
+          "website": "https://oltu.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache OODT",
+          "aliases": [
+            "OODT",
+            "attic-oodt"
+          ],
+          "website": "http://oodt.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Oozie",
+          "aliases": [
+            "Oozie",
+            "attic-oozie"
+          ],
+          "website": "http://oozie.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Open Climate Workbench",
+          "aliases": [
+            "Open Climate Workbench",
+            "attic-open_climate_workbench"
+          ],
+          "website": "http://climate.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ORO",
+          "aliases": [
+            "ORO",
+            "attic-oro"
+          ],
+          "website": "http://jakarta.apache.org/oro/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Petri",
+          "aliases": [
+            "Petri",
+            "attic-petri"
+          ],
+          "website": "http://petri.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Pivot",
+          "aliases": [
+            "Pivot",
+            "attic-pivot"
+          ],
+          "website": "http://pivot.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Polygene",
+          "aliases": [
+            "Polygene",
+            "attic-polygene"
+          ],
+          "website": "https://polygene.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Portals",
+          "aliases": [
+            "Portals",
+            "attic-portals"
+          ],
+          "website": "http://portals.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache PredictionIO",
+          "aliases": [
+            "PredictionIO",
+            "attic-predictionio"
+          ],
+          "website": "http://predictionio.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache REEF",
+          "aliases": [
+            "REEF",
+            "attic-reef"
+          ],
+          "website": "http://reef.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Regexp",
+          "aliases": [
+            "Regexp",
+            "attic-regexp"
+          ],
+          "website": "http://jakarta.apache.org/regexp/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache River",
+          "aliases": [
+            "River",
+            "attic-river"
+          ],
+          "website": "http://river.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ServiceMix",
+          "aliases": [
+            "ServiceMix",
+            "attic-servicemix"
+          ],
+          "website": "http://servicemix.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Shale",
+          "aliases": [
+            "Shale",
+            "attic-shale"
+          ],
+          "website": "http://shale.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Shindig",
+          "aliases": [
+            "Shindig",
+            "attic-shindig"
+          ],
+          "website": "http://shindig.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Sqoop",
+          "aliases": [
+            "Sqoop",
+            "attic-sqoop"
+          ],
+          "website": "http://sqoop.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Stanbol",
+          "aliases": [
+            "Stanbol",
+            "attic-stanbol"
+          ],
+          "website": "http://stanbol.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Stratos",
+          "aliases": [
+            "Stratos",
+            "attic-stratos"
+          ],
+          "website": "http://stratos.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Submarine",
+          "aliases": [
+            "Submarine",
+            "attic-submarine"
+          ],
+          "website": "https://submarine.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tajo",
+          "aliases": [
+            "Tajo",
+            "attic-tajo"
+          ],
+          "website": "http://tajo.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tiles",
+          "aliases": [
+            "Tiles",
+            "attic-tiles"
+          ],
+          "website": "http://tiles.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Traffic Control",
+          "aliases": [
+            "Traffic Control",
+            "attic-traffic_control"
+          ],
+          "website": "https://trafficcontrol.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Trafodion",
+          "aliases": [
+            "Trafodion",
+            "attic-trafodion"
+          ],
+          "website": "http://trafodion.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tuscany",
+          "aliases": [
+            "Tuscany",
+            "attic-tuscany"
+          ],
+          "website": "http://tuscany.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache VXQuery",
+          "aliases": [
+            "VXQuery",
+            "attic-vxquery"
+          ],
+          "website": "http://vxquery.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Whirr",
+          "aliases": [
+            "Whirr",
+            "attic-whirr"
+          ],
+          "website": "http://whirr.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Wink",
+          "aliases": [
+            "Wink",
+            "attic-wink"
+          ],
+          "website": "http://wink.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Wookie",
+          "aliases": [
+            "Wookie",
+            "attic-wookie"
+          ],
+          "website": "http://wookie.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Xindice",
+          "aliases": [
+            "Xindice",
+            "attic-xindice"
+          ],
+          "website": "http://xml.apache.org/xindice/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Auron",
+          "aliases": [
+            "Auron",
+            "auron"
+          ],
+          "website": "https://auron.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Avro",
+          "aliases": [
+            "Avro",
+            "avro"
+          ],
+          "website": "https://avro.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Axis2",
+          "aliases": [
+            "Axis2",
+            "axis-axis2"
+          ],
+          "website": "http://axis.apache.org/axis2/java/core",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Sandesha2",
+          "aliases": [
+            "Sandesha2",
+            "axis-sandesha2"
+          ],
+          "website": "http://axis.apache.org/axis2/java/sandesha/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Beam",
+          "aliases": [
+            "Beam",
+            "beam"
+          ],
+          "website": "https://beam.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Bigtop",
+          "aliases": [
+            "Bigtop",
+            "bigtop"
+          ],
+          "website": "http://bigtop.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache BookKeeper",
+          "aliases": [
+            "BookKeeper",
+            "bookkeeper"
+          ],
+          "website": "http://bookkeeper.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Brooklyn",
+          "aliases": [
+            "Brooklyn",
+            "brooklyn"
+          ],
+          "website": "http://brooklyn.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache bRPC",
+          "aliases": [
+            "bRPC",
+            "brpc"
+          ],
+          "website": "https://brpc.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Buildstream",
+          "aliases": [
+            "Buildstream",
+            "buildstream"
+          ],
+          "website": "https://buildstream.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache BVal",
+          "aliases": [
+            "BVal",
+            "bval"
+          ],
+          "website": "http://bval.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Calcite",
+          "aliases": [
+            "Calcite",
+            "calcite"
+          ],
+          "website": "https://calcite.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Camel",
+          "aliases": [
+            "Camel",
+            "camel"
+          ],
+          "website": "https://camel.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache CarbonData",
+          "aliases": [
+            "CarbonData",
+            "carbondata"
+          ],
+          "website": "https://carbondata.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Cassandra",
+          "aliases": [
+            "Cassandra",
+            "cassandra"
+          ],
+          "website": "http://cassandra.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Causeway",
+          "aliases": [
+            "Causeway",
+            "causeway"
+          ],
+          "website": "https://causeway.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Cayenne",
+          "aliases": [
+            "Cayenne",
+            "cayenne"
+          ],
+          "website": "https://cayenne.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Celeborn",
+          "aliases": [
+            "Celeborn",
+            "celeborn"
+          ],
+          "website": "https://celeborn.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Celix",
+          "aliases": [
+            "Celix",
+            "celix"
+          ],
+          "website": "https://celix.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache CloudStack",
+          "aliases": [
+            "CloudStack",
+            "cloudstack"
+          ],
+          "website": "http://cloudstack.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Community Development",
+          "aliases": [
+            "Community Development",
+            "comdev-community_development"
+          ],
+          "website": "https://community.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons BCEL",
+          "aliases": [
+            "Commons BCEL",
+            "commons-bcel"
+          ],
+          "website": "http://commons.apache.org/bcel/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons BeanUtils",
+          "aliases": [
+            "Commons BeanUtils",
+            "commons-beanutils"
+          ],
+          "website": "https://commons.apache.org/beanutils/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons BSF",
+          "aliases": [
+            "Commons BSF",
+            "commons-bsf"
+          ],
+          "website": "http://commons.apache.org/bsf/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Chain (Dormant)",
+          "aliases": [
+            "Commons Chain (Dormant)",
+            "commons-chain__dormant_"
+          ],
+          "website": "http://commons.apache.org/chain/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons CLI",
+          "aliases": [
+            "Commons CLI",
+            "commons-cli"
+          ],
+          "website": "http://commons.apache.org/cli/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Codec",
+          "aliases": [
+            "Commons Codec",
+            "commons-codec"
+          ],
+          "website": "http://commons.apache.org/codec/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Collections",
+          "aliases": [
+            "Commons Collections",
+            "commons-collections"
+          ],
+          "website": "http://commons.apache.org/collections/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Compress",
+          "aliases": [
+            "Commons Compress",
+            "commons-compress"
+          ],
+          "website": "http://commons.apache.org/compress/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Configuration",
+          "aliases": [
+            "Commons Configuration",
+            "commons-configuration"
+          ],
+          "website": "http://commons.apache.org/configuration/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Crypto",
+          "aliases": [
+            "Commons Crypto",
+            "commons-crypto"
+          ],
+          "website": "http://commons.apache.org/crypto/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons CSV",
+          "aliases": [
+            "Commons CSV",
+            "commons-csv"
+          ],
+          "website": "http://commons.apache.org/csv/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Daemon",
+          "aliases": [
+            "Commons Daemon",
+            "commons-daemon"
+          ],
+          "website": "http://commons.apache.org/daemon/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons DBCP",
+          "aliases": [
+            "Commons DBCP",
+            "commons-dbcp"
+          ],
+          "website": "http://commons.apache.org/dbcp/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons DbUtils",
+          "aliases": [
+            "Commons DbUtils",
+            "commons-dbutils"
+          ],
+          "website": "http://commons.apache.org/dbutils/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Digester",
+          "aliases": [
+            "Commons Digester",
+            "commons-digester"
+          ],
+          "website": "http://commons.apache.org/digester/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Email",
+          "aliases": [
+            "Commons Email",
+            "commons-email"
+          ],
+          "website": "http://commons.apache.org/email/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Exec",
+          "aliases": [
+            "Commons Exec",
+            "commons-exec"
+          ],
+          "website": "http://commons.apache.org/exec/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons FileUpload",
+          "aliases": [
+            "Commons FileUpload",
+            "commons-fileupload"
+          ],
+          "website": "http://commons.apache.org/fileupload/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Functor (Dormant)",
+          "aliases": [
+            "Commons Functor (Dormant)",
+            "commons-functor__dormant_"
+          ],
+          "website": "http://commons.apache.org/functor/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Geometry",
+          "aliases": [
+            "Commons Geometry",
+            "commons-geometry"
+          ],
+          "website": "http://commons.apache.org/geometry/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Imaging",
+          "aliases": [
+            "Commons Imaging",
+            "commons-imaging"
+          ],
+          "website": "http://commons.apache.org/imaging/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons IO",
+          "aliases": [
+            "Commons IO",
+            "commons-io"
+          ],
+          "website": "http://commons.apache.org/io/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons JCI",
+          "aliases": [
+            "Commons JCI",
+            "commons-jci"
+          ],
+          "website": "http://commons.apache.org/jci/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons JCS",
+          "aliases": [
+            "Commons JCS",
+            "commons-jcs"
+          ],
+          "website": "http://commons.apache.org/jcs/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Jelly",
+          "aliases": [
+            "Commons Jelly",
+            "commons-jelly"
+          ],
+          "website": "http://commons.apache.org/jelly/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons JEXL",
+          "aliases": [
+            "Commons JEXL",
+            "commons-jexl"
+          ],
+          "website": "http://commons.apache.org/jexl/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons JXPath",
+          "aliases": [
+            "Commons JXPath",
+            "commons-jxpath"
+          ],
+          "website": "http://commons.apache.org/jxpath/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Lang",
+          "aliases": [
+            "Commons Lang",
+            "commons-lang"
+          ],
+          "website": "http://commons.apache.org/lang/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Logging",
+          "aliases": [
+            "Commons Logging",
+            "commons-logging"
+          ],
+          "website": "http://commons.apache.org/logging/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Math",
+          "aliases": [
+            "Commons Math",
+            "commons-math"
+          ],
+          "website": "http://commons.apache.org/math/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Net",
+          "aliases": [
+            "Commons Net",
+            "commons-net"
+          ],
+          "website": "http://commons.apache.org/net/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Numbers",
+          "aliases": [
+            "Commons Numbers",
+            "commons-numbers"
+          ],
+          "website": "http://commons.apache.org/numbers/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons OGNL (Dormant)",
+          "aliases": [
+            "Commons OGNL (Dormant)",
+            "commons-ognl__dormant_"
+          ],
+          "website": "http://commons.apache.org/ognl/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Pool",
+          "aliases": [
+            "Commons Pool",
+            "commons-pool"
+          ],
+          "website": "http://commons.apache.org/pool/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Proxy (Dormant)",
+          "aliases": [
+            "Commons Proxy (Dormant)",
+            "commons-proxy__dormant_"
+          ],
+          "website": "http://commons.apache.org/proxy/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons RDF",
+          "aliases": [
+            "Commons RDF",
+            "commons-rdf"
+          ],
+          "website": "https://commons.apache.org/rdf/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons RNG",
+          "aliases": [
+            "Commons RNG",
+            "commons-rng"
+          ],
+          "website": "https://commons.apache.org/rng/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons SCXML",
+          "aliases": [
+            "Commons SCXML",
+            "commons-scxml"
+          ],
+          "website": "http://commons.apache.org/scxml/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Statistics",
+          "aliases": [
+            "Commons Statistics",
+            "commons-statistics"
+          ],
+          "website": "http://commons.apache.org/statistics/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Text",
+          "aliases": [
+            "Commons Text",
+            "commons-text"
+          ],
+          "website": "http://commons.apache.org/text/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Validator",
+          "aliases": [
+            "Commons Validator",
+            "commons-validator"
+          ],
+          "website": "http://commons.apache.org/validator/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons VFS",
+          "aliases": [
+            "Commons VFS",
+            "commons-vfs"
+          ],
+          "website": "http://commons.apache.org/vfs/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons Weaver",
+          "aliases": [
+            "Commons Weaver",
+            "commons-weaver"
+          ],
+          "website": "http://commons.apache.org/weaver/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Cordova",
+          "aliases": [
+            "Cordova",
+            "cordova"
+          ],
+          "website": "https://cordova.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache CouchDB",
+          "aliases": [
+            "CouchDB",
+            "couchdb"
+          ],
+          "website": "https://couchdb.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Rat",
+          "aliases": [
+            "Rat",
+            "creadur-rat"
+          ],
+          "website": "http://creadur.apache.org/rat/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tentacles",
+          "aliases": [
+            "Tentacles",
+            "creadur-tentacles"
+          ],
+          "website": "http://creadur.apache.org/tentacles",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Whisker",
+          "aliases": [
+            "Whisker",
+            "creadur-whisker"
+          ],
+          "website": "http://creadur.apache.org/whisker",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache cTAKES",
+          "aliases": [
+            "cTAKES",
+            "ctakes"
+          ],
+          "website": "https://github.com/apache/ctakes",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Curator",
+          "aliases": [
+            "Curator",
+            "curator"
+          ],
+          "website": "http://curator.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache CXF",
+          "aliases": [
+            "CXF"
+          ],
+          "website": "https://cxf.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Daffodil",
+          "aliases": [
+            "Daffodil",
+            "daffodil"
+          ],
+          "website": "https://daffodil.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache DataFu",
+          "aliases": [
+            "DataFu",
+            "datafu"
+          ],
+          "website": "http://datafu.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache DataFusion",
+          "aliases": [
+            "DataFusion",
+            "datafusion"
+          ],
+          "website": "https://datafusion.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache DataSketches",
+          "aliases": [
+            "DataSketches",
+            "datasketches"
+          ],
+          "website": "https://datasketches.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Derby",
+          "aliases": [
+            "Derby",
+            "db-derby"
+          ],
+          "website": "http://db.apache.org/derby",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache JDO",
+          "aliases": [
+            "JDO",
+            "db-jdo"
+          ],
+          "website": "https://db.apache.org/jdo/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Torque",
+          "aliases": [
+            "Torque",
+            "db-torque"
+          ],
+          "website": "https://db.apache.org/torque/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache DeltaSpike",
+          "aliases": [
+            "DeltaSpike",
+            "deltaspike"
+          ],
+          "website": "http://deltaspike.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Devlake",
+          "aliases": [
+            "Devlake",
+            "devlake"
+          ],
+          "website": "https://devlake.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Fortress",
+          "aliases": [
+            "Fortress",
+            "directory-fortress"
+          ],
+          "website": "https://directory.apache.org/fortress/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Kerby",
+          "aliases": [
+            "Kerby",
+            "directory-kerby"
+          ],
+          "website": "https://directory.apache.org/kerby/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Directory LDAP API",
+          "aliases": [
+            "Directory LDAP API",
+            "directory-ldap_api"
+          ],
+          "website": "https://directory.apache.org/api",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Directory Server",
+          "aliases": [
+            "Directory Server",
+            "directory-server"
+          ],
+          "website": "https://directory.apache.org/apacheds",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Directory Studio",
+          "aliases": [
+            "Directory Studio",
+            "directory-studio"
+          ],
+          "website": "https://directory.apache.org/studio/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Dolphinscheduler",
+          "aliases": [
+            "Dolphinscheduler",
+            "dolphinscheduler"
+          ],
+          "website": "https://dolphinscheduler.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Doris",
+          "aliases": [
+            "Doris",
+            "doris"
+          ],
+          "website": "https://doris.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Drill",
+          "aliases": [
+            "Drill",
+            "drill"
+          ],
+          "website": "http://drill.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Druid",
+          "aliases": [
+            "Druid",
+            "druid"
+          ],
+          "website": "https://druid.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Dubbo",
+          "aliases": [
+            "Dubbo",
+            "dubbo"
+          ],
+          "website": "https://dubbo.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ECharts",
+          "aliases": [
+            "ECharts",
+            "echarts"
+          ],
+          "website": "https://echarts.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Empire-db",
+          "aliases": [
+            "Empire-db",
+            "empire-db"
+          ],
+          "website": "https://empire-db.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache EventMesh",
+          "aliases": [
+            "EventMesh",
+            "eventmesh"
+          ],
+          "website": "https://eventmesh.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Felix",
+          "aliases": [
+            "Felix",
+            "felix"
+          ],
+          "website": "http://felix.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Fineract",
+          "aliases": [
+            "Fineract",
+            "fineract"
+          ],
+          "website": "https://fineract.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Flagon",
+          "aliases": [
+            "Flagon",
+            "flagon"
+          ],
+          "website": "https://flagon.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Flex",
+          "aliases": [
+            "Flex",
+            "flex"
+          ],
+          "website": "http://flex.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Flink",
+          "aliases": [
+            "Flink",
+            "flink"
+          ],
+          "website": "http://flink.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Fluss",
+          "aliases": [
+            "Fluss",
+            "fluss"
+          ],
+          "website": "https://fluss.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Fory",
+          "aliases": [
+            "Fory",
+            "fory"
+          ],
+          "website": "https://fory.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache FreeMarker",
+          "aliases": [
+            "FreeMarker",
+            "freemarker"
+          ],
+          "website": "https://freemarker.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Geode",
+          "aliases": [
+            "Geode",
+            "geode"
+          ],
+          "website": "https://geode.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Geronimo",
+          "aliases": [
+            "Geronimo",
+            "geronimo"
+          ],
+          "website": "http://geronimo.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Gluten",
+          "aliases": [
+            "Gluten",
+            "gluten"
+          ],
+          "website": "https://gluten.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Gobblin",
+          "aliases": [
+            "Gobblin",
+            "gobblin"
+          ],
+          "website": "https://gobblin.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Grails",
+          "aliases": [
+            "Grails",
+            "grails"
+          ],
+          "website": "https://grails.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Gravitino",
+          "aliases": [
+            "Gravitino",
+            "gravitino"
+          ],
+          "website": "https://gravitino.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Groovy",
+          "aliases": [
+            "Groovy",
+            "groovy"
+          ],
+          "website": "http://groovy.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Guacamole",
+          "aliases": [
+            "Guacamole",
+            "guacamole"
+          ],
+          "website": "http://guacamole.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Gump",
+          "aliases": [
+            "Gump",
+            "gump"
+          ],
+          "website": "http://gump.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Hadoop",
+          "aliases": [
+            "Hadoop",
+            "hadoop"
+          ],
+          "website": "https://hadoop.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache HBase",
+          "aliases": [
+            "HBase",
+            "hbase"
+          ],
+          "website": "https://hbase.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Helix",
+          "aliases": [
+            "Helix",
+            "helix"
+          ],
+          "website": "http://helix.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Hertzbeat",
+          "aliases": [
+            "Hertzbeat",
+            "hertzbeat"
+          ],
+          "website": "https://hertzbeat.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Hive",
+          "aliases": [
+            "Hive",
+            "hive"
+          ],
+          "website": "http://hive.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Hop",
+          "aliases": [
+            "Hop"
+          ],
+          "website": "https://hop.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache HttpComponents Client",
+          "aliases": [
+            "HttpComponents Client",
+            "httpcomponents-client"
+          ],
+          "website": "http://hc.apache.org/httpcomponents-client/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Commons HttpClient",
+          "aliases": [
+            "Commons HttpClient",
+            "httpcomponents-commons_httpclient"
+          ],
+          "website": "http://hc.apache.org/httpclient-3.x/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache HttpComponents Core",
+          "aliases": [
+            "HttpComponents Core",
+            "httpcomponents-core"
+          ],
+          "website": "http://hc.apache.org/httpcomponents-core/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache HTTP Server",
+          "aliases": [
+            "HTTP Server",
+            "httpd-http_server"
+          ],
+          "website": "https://httpd.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache mod_ftp",
+          "aliases": [
+            "mod_ftp",
+            "httpd-mod_ftp"
+          ],
+          "website": "https://httpd.apache.org/mod_ftp/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Hudi",
+          "aliases": [
+            "Hudi",
+            "hudi"
+          ],
+          "website": "https://hudi.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Hugegraph",
+          "aliases": [
+            "Hugegraph",
+            "hugegraph"
+          ],
+          "website": "https://hugegraph.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Iceberg",
+          "aliases": [
+            "Iceberg",
+            "iceberg"
+          ],
+          "website": "https://iceberg.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Iggy",
+          "aliases": [
+            "Iggy",
+            "iggy"
+          ],
+          "website": "https://iggy.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Ignite",
+          "aliases": [
+            "Ignite",
+            "ignite"
+          ],
+          "website": "http://ignite.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Impala",
+          "aliases": [
+            "Impala",
+            "impala"
+          ],
+          "website": "https://impala.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Annotator",
+          "aliases": [
+            "Annotator",
+            "incubator-annotator"
+          ],
+          "website": "http://annotator.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache PouchDB",
+          "aliases": [
+            "PouchDB",
+            "incubator-pouchdb"
+          ],
+          "website": "https://pouchdb.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache InLong",
+          "aliases": [
+            "InLong",
+            "inlong"
+          ],
+          "website": "https://inlong.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache IoTDB",
+          "aliases": [
+            "IoTDB",
+            "iotdb"
+          ],
+          "website": "http://iotdb.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Jackrabbit",
+          "aliases": [
+            "Jackrabbit",
+            "jackrabbit"
+          ],
+          "website": "http://jackrabbit.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache JAMES",
+          "aliases": [
+            "JAMES",
+            "james"
+          ],
+          "website": "http://james.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Jena",
+          "aliases": [
+            "Jena",
+            "jena"
+          ],
+          "website": "http://jena.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache JMeter",
+          "aliases": [
+            "JMeter",
+            "jmeter"
+          ],
+          "website": "http://jmeter.apache.org/index.html",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Johnzon",
+          "aliases": [
+            "Johnzon",
+            "johnzon"
+          ],
+          "website": "https://johnzon.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache JSPWiki",
+          "aliases": [
+            "JSPWiki",
+            "jspwiki"
+          ],
+          "website": "http://jspwiki.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Juneau",
+          "aliases": [
+            "Juneau",
+            "juneau"
+          ],
+          "website": "https://juneau.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Kafka",
+          "aliases": [
+            "Kafka",
+            "kafka"
+          ],
+          "website": "https://kafka.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Karaf",
+          "aliases": [
+            "Karaf",
+            "karaf"
+          ],
+          "website": "http://karaf.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Knox",
+          "aliases": [
+            "Knox",
+            "knox"
+          ],
+          "website": "https://knox.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Kudu",
+          "aliases": [
+            "Kudu",
+            "kudu"
+          ],
+          "website": "https://kudu.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Kvrocks",
+          "aliases": [
+            "Kvrocks",
+            "kvrocks"
+          ],
+          "website": "https://kvrocks.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Kylin",
+          "aliases": [
+            "Kylin",
+            "kylin"
+          ],
+          "website": "https://kylin.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Kyuubi",
+          "aliases": [
+            "Kyuubi",
+            "kyuubi"
+          ],
+          "website": "https://kyuubi.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Libcloud",
+          "aliases": [
+            "Libcloud",
+            "libcloud"
+          ],
+          "website": "http://libcloud.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Linkis",
+          "aliases": [
+            "Linkis",
+            "linkis"
+          ],
+          "website": "https://linkis.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Livy",
+          "aliases": [
+            "Livy",
+            "livy"
+          ],
+          "website": "https://livy.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Chainsaw",
+          "aliases": [
+            "Chainsaw",
+            "logging-chainsaw"
+          ],
+          "website": "http://logging.apache.org/log4j/docs/chainsaw.html",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Flume",
+          "aliases": [
+            "Flume",
+            "logging-flume"
+          ],
+          "website": "http://flume.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache log4cxx",
+          "aliases": [
+            "log4cxx",
+            "logging-log4cxx"
+          ],
+          "website": "https://logging.apache.org/log4cxx",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Log4j",
+          "aliases": [
+            "Log4j",
+            "logging-log4j"
+          ],
+          "website": "https://logging.apache.org/log4j/2.x/index.html",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache log4net",
+          "aliases": [
+            "log4net",
+            "logging-log4net"
+          ],
+          "website": "https://logging.apache.org/log4net/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache log4php",
+          "aliases": [
+            "log4php",
+            "logging-log4php"
+          ],
+          "website": "http://logging.apache.org/log4php/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Lucene Core",
+          "aliases": [
+            "Lucene Core",
+            "lucene-core"
+          ],
+          "website": "https://lucene.apache.org/core/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache PyLucene",
+          "aliases": [
+            "PyLucene",
+            "lucene-pylucene"
+          ],
+          "website": "https://lucene.apache.org/pylucene/index.html",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Lucene.Net",
+          "aliases": [
+            "Lucene.Net",
+            "lucenenet-lucenedotnet"
+          ],
+          "website": "http://lucenenet.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Magpie",
+          "aliases": [
+            "Magpie",
+            "magpie"
+          ],
+          "website": "https://github.com/apache/magpie",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Mahout",
+          "aliases": [
+            "Mahout",
+            "mahout"
+          ],
+          "website": "http://mahout.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ManifoldCF",
+          "aliases": [
+            "ManifoldCF",
+            "manifoldcf"
+          ],
+          "website": "https://manifoldcf.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Maven",
+          "aliases": [
+            "Maven",
+            "maven"
+          ],
+          "website": "https://maven.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Maven Doxia",
+          "aliases": [
+            "Maven Doxia",
+            "maven-doxia"
+          ],
+          "website": "https://maven.apache.org/doxia/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache MINA",
+          "aliases": [
+            "MINA",
+            "mina"
+          ],
+          "website": "http://mina.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache FtpServer",
+          "aliases": [
+            "FtpServer",
+            "mina-ftpserver"
+          ],
+          "website": "http://mina.apache.org/ftpserver-project",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache SSHD",
+          "aliases": [
+            "SSHD",
+            "mina-sshd"
+          ],
+          "website": "http://mina.apache.org/sshd-project",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Vysper",
+          "aliases": [
+            "Vysper",
+            "mina-vysper"
+          ],
+          "website": "http://mina.apache.org/vysper-project",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache MyFaces",
+          "aliases": [
+            "MyFaces",
+            "myfaces"
+          ],
+          "website": "http://myfaces.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tobago",
+          "aliases": [
+            "Tobago",
+            "myfaces-tobago"
+          ],
+          "website": "http://myfaces.apache.org/#/tobago",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Mynewt",
+          "aliases": [
+            "Mynewt",
+            "mynewt"
+          ],
+          "website": "https://mynewt.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache NetBeans",
+          "aliases": [
+            "NetBeans",
+            "netbeans"
+          ],
+          "website": "https://netbeans.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache NiFi",
+          "aliases": [
+            "NiFi",
+            "nifi"
+          ],
+          "website": "https://nifi.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Nutch",
+          "aliases": [
+            "Nutch",
+            "nutch"
+          ],
+          "website": "https://nutch.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Nuttx",
+          "aliases": [
+            "Nuttx",
+            "nuttx"
+          ],
+          "website": "https://nuttx.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache OFBiz",
+          "aliases": [
+            "OFBiz",
+            "ofbiz"
+          ],
+          "website": "http://ofbiz.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache OpenDAL",
+          "aliases": [
+            "OpenDAL",
+            "opendal"
+          ],
+          "website": "https://opendal.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache OpenJPA",
+          "aliases": [
+            "OpenJPA",
+            "openjpa"
+          ],
+          "website": "http://openjpa.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache OpenMeetings",
+          "aliases": [
+            "OpenMeetings",
+            "openmeetings"
+          ],
+          "website": "https://openmeetings.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache OpenNLP",
+          "aliases": [
+            "OpenNLP",
+            "opennlp"
+          ],
+          "website": "http://opennlp.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache OpenOffice",
+          "aliases": [
+            "OpenOffice",
+            "openoffice"
+          ],
+          "website": "https://openoffice.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache OpenWebBeans",
+          "aliases": [
+            "OpenWebBeans",
+            "openwebbeans"
+          ],
+          "website": "http://openwebbeans.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Openwhisk",
+          "aliases": [
+            "Openwhisk",
+            "openwhisk"
+          ],
+          "website": "https://openwhisk.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ORC",
+          "aliases": [
+            "ORC"
+          ],
+          "website": "https://orc.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Ozone",
+          "aliases": [
+            "Ozone",
+            "ozone"
+          ],
+          "website": "https://ozone.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Paimon",
+          "aliases": [
+            "Paimon",
+            "paimon"
+          ],
+          "website": "https://paimon.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Parquet",
+          "aliases": [
+            "Parquet",
+            "parquet"
+          ],
+          "website": "http://parquet.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache PDFBox",
+          "aliases": [
+            "PDFBox",
+            "pdfbox"
+          ],
+          "website": "https://pdfbox.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Pekko",
+          "aliases": [
+            "Pekko",
+            "pekko"
+          ],
+          "website": "https://pekko.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache mod_perl",
+          "aliases": [
+            "mod_perl",
+            "perl-mod_perl"
+          ],
+          "website": "http://perl.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Phoenix",
+          "aliases": [
+            "Phoenix",
+            "phoenix"
+          ],
+          "website": "http://phoenix.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Pig",
+          "aliases": [
+            "Pig"
+          ],
+          "website": "http://pig.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Pinot",
+          "aliases": [
+            "Pinot",
+            "pinot"
+          ],
+          "website": "https://pinot.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache PLC4X",
+          "aliases": [
+            "PLC4X",
+            "plc4x"
+          ],
+          "website": "https://plc4x.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache POI",
+          "aliases": [
+            "POI"
+          ],
+          "website": "https://poi.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache XMLBeans",
+          "aliases": [
+            "XMLBeans",
+            "poi-xmlbeans"
+          ],
+          "website": "https://xmlbeans.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Polaris",
+          "aliases": [
+            "Polaris",
+            "polaris"
+          ],
+          "website": "https://polaris.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Pony Mail",
+          "aliases": [
+            "Pony Mail",
+            "ponymail-pony_mail"
+          ],
+          "website": "https://ponymail.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Pulsar",
+          "aliases": [
+            "Pulsar",
+            "pulsar"
+          ],
+          "website": "https://pulsar.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Qpid",
+          "aliases": [
+            "Qpid",
+            "qpid"
+          ],
+          "website": "http://qpid.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Ranger",
+          "aliases": [
+            "Ranger",
+            "ranger"
+          ],
+          "website": "https://ranger.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Ratis",
+          "aliases": [
+            "Ratis",
+            "ratis"
+          ],
+          "website": "https://ratis.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Reqsign",
+          "aliases": [
+            "Reqsign",
+            "reqsign"
+          ],
+          "website": "https://reqsign.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Resilientdb",
+          "aliases": [
+            "Resilientdb",
+            "resilientdb"
+          ],
+          "website": "https://resilientdb.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Rocketmq",
+          "aliases": [
+            "Rocketmq",
+            "rocketmq"
+          ],
+          "website": "https://rocketmq.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Roller",
+          "aliases": [
+            "Roller",
+            "roller"
+          ],
+          "website": "http://roller.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Royale",
+          "aliases": [
+            "Royale",
+            "royale"
+          ],
+          "website": "https://royale.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Rya",
+          "aliases": [
+            "Rya"
+          ],
+          "website": "https://rya.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Samza",
+          "aliases": [
+            "Samza",
+            "samza"
+          ],
+          "website": "http://samza.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Santuario",
+          "aliases": [
+            "Santuario",
+            "santuario"
+          ],
+          "website": "https://santuario.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Sdap",
+          "aliases": [
+            "Sdap",
+            "sdap"
+          ],
+          "website": "https://sdap.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache SeaTunnel",
+          "aliases": [
+            "SeaTunnel",
+            "seatunnel"
+          ],
+          "website": "https://seatunnel.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Sedona",
+          "aliases": [
+            "Sedona",
+            "sedona"
+          ],
+          "website": "https://sedona.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Serf",
+          "aliases": [
+            "Serf",
+            "serf"
+          ],
+          "website": "https://serf.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Servicecomb",
+          "aliases": [
+            "Servicecomb",
+            "servicecomb"
+          ],
+          "website": "https://servicecomb.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Shardingsphere",
+          "aliases": [
+            "Shardingsphere",
+            "shardingsphere"
+          ],
+          "website": "https://shardingsphere.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Shenyu",
+          "aliases": [
+            "Shenyu",
+            "shenyu"
+          ],
+          "website": "https://shenyu.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Shiro",
+          "aliases": [
+            "Shiro",
+            "shiro"
+          ],
+          "website": "https://shiro.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Singa",
+          "aliases": [
+            "Singa",
+            "singa"
+          ],
+          "website": "https://singa.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Spatial Information System",
+          "aliases": [
+            "Spatial Information System",
+            "sis-spatial_information_system"
+          ],
+          "website": "http://sis.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache SkyWalking",
+          "aliases": [
+            "SkyWalking",
+            "skywalking"
+          ],
+          "website": "http://skywalking.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Sling",
+          "aliases": [
+            "Sling",
+            "sling"
+          ],
+          "website": "http://sling.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Solr",
+          "aliases": [
+            "Solr",
+            "solr"
+          ],
+          "website": "http://solr.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Solr Operator",
+          "aliases": [
+            "Solr Operator",
+            "solr-operator"
+          ],
+          "website": "https://solr.apache.org/operator",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Sourcelume",
+          "aliases": [
+            "Sourcelume",
+            "sourcelume"
+          ],
+          "website": "https://sourcelume.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache SpamAssassin",
+          "aliases": [
+            "SpamAssassin",
+            "spamassassin"
+          ],
+          "website": "https://spamassassin.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Spark",
+          "aliases": [
+            "Spark",
+            "spark"
+          ],
+          "website": "http://spark.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache STeVe",
+          "aliases": [
+            "STeVe",
+            "steve"
+          ],
+          "website": "https://steve.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Storm",
+          "aliases": [
+            "Storm",
+            "storm"
+          ],
+          "website": "http://storm.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Stormcrawler",
+          "aliases": [
+            "Stormcrawler",
+            "stormcrawler"
+          ],
+          "website": "https://stormcrawler.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Streampark",
+          "aliases": [
+            "Streampark",
+            "streampark"
+          ],
+          "website": "https://streampark.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Streampipes",
+          "aliases": [
+            "Streampipes",
+            "streampipes"
+          ],
+          "website": "https://streampipes.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Struts",
+          "aliases": [
+            "Struts",
+            "struts"
+          ],
+          "website": "http://struts.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Subversion",
+          "aliases": [
+            "Subversion",
+            "subversion"
+          ],
+          "website": "http://subversion.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Superset",
+          "aliases": [
+            "Superset",
+            "superset"
+          ],
+          "website": "https://superset.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Synapse",
+          "aliases": [
+            "Synapse",
+            "synapse"
+          ],
+          "website": "http://synapse.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Syncope",
+          "aliases": [
+            "Syncope",
+            "syncope"
+          ],
+          "website": "http://syncope.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Systemds",
+          "aliases": [
+            "Systemds",
+            "systemds"
+          ],
+          "website": "https://systemds.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tapestry",
+          "aliases": [
+            "Tapestry",
+            "tapestry"
+          ],
+          "website": "http://tapestry.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache rivet",
+          "aliases": [
+            "rivet",
+            "tcl-rivet"
+          ],
+          "website": "https://tcl.apache.org/rivet",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Websh",
+          "aliases": [
+            "Websh",
+            "tcl-websh"
+          ],
+          "website": "http://tcl.apache.org/websh",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Teaclave",
+          "aliases": [
+            "Teaclave",
+            "teaclave"
+          ],
+          "website": "https://teaclave.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tez",
+          "aliases": [
+            "Tez"
+          ],
+          "website": "http://tez.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Thrift",
+          "aliases": [
+            "Thrift",
+            "thrift"
+          ],
+          "website": "https://thrift.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tika",
+          "aliases": [
+            "Tika",
+            "tika"
+          ],
+          "website": "https://tika.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tinkerpop",
+          "aliases": [
+            "Tinkerpop",
+            "tinkerpop"
+          ],
+          "website": "https://tinkerpop.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Tomcat",
+          "aliases": [
+            "Tomcat",
+            "tomcat"
+          ],
+          "website": "http://tomcat.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache TomEE",
+          "aliases": [
+            "TomEE",
+            "tomee"
+          ],
+          "website": "http://tomee.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Traffic Server",
+          "aliases": [
+            "Traffic Server",
+            "trafficserver-traffic_server"
+          ],
+          "website": "https://trafficserver.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Training",
+          "aliases": [
+            "Training",
+            "training"
+          ],
+          "website": "https://training.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache TsFile",
+          "aliases": [
+            "TsFile",
+            "tsfile"
+          ],
+          "website": "https://tsfile.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Turbine",
+          "aliases": [
+            "Turbine",
+            "turbine"
+          ],
+          "website": "https://turbine.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache TVM",
+          "aliases": [
+            "TVM"
+          ],
+          "website": "https://tvm.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache UIMA",
+          "aliases": [
+            "UIMA",
+            "uima"
+          ],
+          "website": "http://uima.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Uniffle",
+          "aliases": [
+            "Uniffle",
+            "uniffle"
+          ],
+          "website": "https://uniffle.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Unomi",
+          "aliases": [
+            "Unomi",
+            "unomi"
+          ],
+          "website": "https://unomi.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache VCL",
+          "aliases": [
+            "VCL"
+          ],
+          "website": "http://vcl.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Velocity",
+          "aliases": [
+            "Velocity",
+            "velocity"
+          ],
+          "website": "http://velocity.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Anakia",
+          "aliases": [
+            "Anakia",
+            "velocity-anakia"
+          ],
+          "website": "http://velocity.apache.org/anakia/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Velocity DVSL",
+          "aliases": [
+            "Velocity DVSL",
+            "velocity-dvsl"
+          ],
+          "website": "http://velocity.apache.org/dvsl/devel/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Texen",
+          "aliases": [
+            "Texen",
+            "velocity-texen"
+          ],
+          "website": "http://velocity.apache.org/texen/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Velocity Tools",
+          "aliases": [
+            "Velocity Tools",
+            "velocity-tools"
+          ],
+          "website": "http://velocity.apache.org/velocity/tools/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Wayang",
+          "aliases": [
+            "Wayang",
+            "wayang"
+          ],
+          "website": "https://wayang.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Whimsy",
+          "aliases": [
+            "Whimsy",
+            "whimsy"
+          ],
+          "website": "http://whimsy.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Wicket",
+          "aliases": [
+            "Wicket",
+            "wicket"
+          ],
+          "website": "https://wicket.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Axiom",
+          "aliases": [
+            "Axiom",
+            "ws-axiom"
+          ],
+          "website": "http://ws.apache.org/axiom/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Neethi",
+          "aliases": [
+            "Neethi",
+            "ws-neethi"
+          ],
+          "website": "https://ws.apache.org/neethi/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Woden",
+          "aliases": [
+            "Woden",
+            "ws-woden"
+          ],
+          "website": "http://ws.apache.org/woden/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache WSS4J",
+          "aliases": [
+            "WSS4J",
+            "ws-wss4j"
+          ],
+          "website": "https://ws.apache.org/wss4j/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache XMLSchema",
+          "aliases": [
+            "XMLSchema",
+            "ws-xmlschema"
+          ],
+          "website": "https://ws.apache.org/xmlschema/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Xalan for C++ XSLT Processor",
+          "aliases": [
+            "Xalan for C++ XSLT Processor",
+            "xalan-for_c++_xslt_processor"
+          ],
+          "website": "http://xalan.apache.org/xalan-c",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Xalan for Java XSLT Processor",
+          "aliases": [
+            "Xalan for Java XSLT Processor",
+            "xalan-for_java_xslt_processor"
+          ],
+          "website": "http://xalan.apache.org/xalan-j/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Xerces for C++ XML Parser",
+          "aliases": [
+            "Xerces for C++ XML Parser",
+            "xerces-for_c++_xml_parser"
+          ],
+          "website": "http://xerces.apache.org/xerces-c/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Xerces for Java XML Parser",
+          "aliases": [
+            "Xerces for Java XML Parser",
+            "xerces-for_java_xml_parser"
+          ],
+          "website": "http://xerces.apache.org/xerces2-j/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Xerces for Perl XML Parser",
+          "aliases": [
+            "Xerces for Perl XML Parser",
+            "xerces-for_perl_xml_parser"
+          ],
+          "website": "http://xerces.apache.org/xerces-p",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache XML Commons External",
+          "aliases": [
+            "XML Commons External",
+            "xerces-xml_commons_external"
+          ],
+          "website": "http://xerces.apache.org/xml-commons/components/external/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache XML Commons Resolver",
+          "aliases": [
+            "XML Commons Resolver",
+            "xerces-xml_commons_resolver"
+          ],
+          "website": "http://xerces.apache.org/xml-commons/components/resolver/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Batik",
+          "aliases": [
+            "Batik",
+            "xmlgraphics-batik"
+          ],
+          "website": "http://xmlgraphics.apache.org/batik/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache FOP",
+          "aliases": [
+            "FOP",
+            "xmlgraphics-fop"
+          ],
+          "website": "http://xmlgraphics.apache.org/fop",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache XML Graphics Commons",
+          "aliases": [
+            "XML Graphics Commons",
+            "xmlgraphics-xml_graphics_commons"
+          ],
+          "website": "http://xmlgraphics.apache.org/commons/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Yetus",
+          "aliases": [
+            "Yetus",
+            "yetus"
+          ],
+          "website": "https://yetus.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache YuniKorn",
+          "aliases": [
+            "YuniKorn",
+            "yunikorn"
+          ],
+          "website": "https://yunikorn.apache.org",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache Zeppelin",
+          "aliases": [
+            "Zeppelin",
+            "zeppelin"
+          ],
+          "website": "http://zeppelin.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        },
+        {
+          "name": "Apache ZooKeeper",
+          "aliases": [
+            "ZooKeeper",
+            "zookeeper"
+          ],
+          "website": "https://zookeeper.apache.org/",
+          "sourceUrl": "https://projects.apache.org/json/foundation/projects.json",
+          "ideaYears": []
+        }
+      ]
+    },
+    {
+      "parentSlug": "cncf",
+      "name": "CNCF",
+      "sourceUrl": "https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship",
+      "program": "lfx",
+      "candidates": []
+    }
+  ]
+}

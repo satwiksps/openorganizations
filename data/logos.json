@@ -1,0 +1,4147 @@
+{
+  "checkedAt": "2026-10-02T16:17:05.453Z",
+  "logos": {
+    "3dtk": {
+      "path": "/logos/bd8d43e1fe6232a890e9.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/5bb1zuSJfNaskJVgD5jO4Mdzamk1udiUH1BXVSzMcM8fB-kIy62kBFS6MtQj1EW445ZkQ1BWlvJL2oXRJNqsYBcmPWpSXng",
+      "checkedAt": "2026-10-02T16:16:46.196Z",
+      "kind": "Organization image"
+    },
+    "aerospaceresearch-net": {
+      "path": "/logos/fd7ec6b523b28cb53fbb.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Cuse4sTixkecf8wRwx4LW93vB8rj1hu6e-cKUrxa_jMrTkLDct_Xhw2nBd0Db6SmwcjMxeGEuN2HG9yp3gkRqXlbLeDdR0NxGJnU07iTeFHJug",
+      "checkedAt": "2026-10-02T16:16:46.240Z",
+      "kind": "Organization image"
+    },
+    "android-graphics-tools-team": {
+      "path": "/logos/bd0b8538a5093e50a19b.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Fim0FTxXCZAngG0K5O1XjS_iEl0SrxtytcdA0Ic0wWFtXqhCyIgrVZgS8eIBWZLp4EFkKTcwx6mph6ZZyQDfORh1vpBBLgqNj5qbbwN_21A",
+      "checkedAt": "2026-10-02T16:16:46.255Z",
+      "kind": "Organization image"
+    },
+    "aimacode": {
+      "path": "/logos/22ecef1635aa528647ad.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/1czpR5YOvFFyaQmLr6y0uEN4jBKMaXZlKoWN64JsMjkaC5ySGpMoBiu3IO4xYrgNJLxEUO3aiFA_YStmVF5B9YDlSnK-Ol8",
+      "checkedAt": "2026-10-02T16:16:46.303Z",
+      "kind": "Organization image"
+    },
+    "amahi": {
+      "path": "/logos/53c387083cb47b3c3ab0.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/UNZ8p6TVEVGoF1EhV0K6FnaGMBhcyQoyQep_9syeXSqWDXC4kcZT6IaWvMTJDbzXfQVs7Ykc5V8zsoGzqiXP81P2e86qbg",
+      "checkedAt": "2026-10-02T16:16:46.311Z",
+      "kind": "Organization image"
+    },
+    "anitab-org-open-source": {
+      "path": "/logos/8363019a7b63af21e0ef.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/j4RwTOlO5-LhK8npgy0HElPub3IjLrPADeBNhWVxbcXlQGGKYcLPyhwq0hUU_JRtqHVVgXBMruM7TxO0zEmN3KpOGR_yJuI",
+      "checkedAt": "2026-10-02T16:16:46.363Z",
+      "kind": "Organization image"
+    },
+    "alby": {
+      "path": "/logos/685138d192f8ff97d05e.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/84262849",
+      "checkedAt": "2026-10-02T16:16:46.482Z",
+      "kind": "Organization image"
+    },
+    "aossie-the-australian-national-university-s-open-source-software-innovation-and-education": {
+      "path": "/logos/c1fce6ce684dc9c706f5.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/XfzAMWazpWFv5aKpdEt9P6PMkHbX4Hz5LFbxdwNWnBiheiQKPYcUlbneEYs7ipnGdYTxnly9g6XCOF9jHm5lF2LxJxLYH0UJ",
+      "checkedAt": "2026-10-02T16:16:46.483Z",
+      "kind": "Organization image"
+    },
+    "ai-on-demand": {
+      "path": "/logos/68b76c0ce17bed578ce4.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/aiondemand?s=160",
+      "checkedAt": "2026-10-02T16:16:46.512Z",
+      "kind": "Organization image"
+    },
+    "angor": {
+      "path": "/logos/a98ada1084e1004239fe.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/block-core?s=160",
+      "checkedAt": "2026-10-02T16:16:46.639Z",
+      "kind": "Organization image"
+    },
+    "api-client-tools-at-google": {
+      "path": "/logos/86440f29c268023b8fa6.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Wz1qKokD67uvVuu1FCoNqyl7dmYk19VC0UzGdQS1heA8QlzKQpzgJZ_DAD1g691sAQ7T_njEX_gP1ZnolJa0KytP6t1_Fds",
+      "checkedAt": "2026-10-02T16:16:46.694Z",
+      "kind": "Organization image"
+    },
+    "aboutcode": {
+      "path": "/logos/f91704c55b10945e6e82.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/aboutcode/v8yhhmpej4djujai-360.png",
+      "checkedAt": "2026-10-02T16:16:46.740Z",
+      "kind": "Organization image"
+    },
+    "alaska": {
+      "path": "/logos/85b95e44c5bc97beb9f1.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/alaska/uuu8lxevgc3jof9c.png",
+      "checkedAt": "2026-10-02T16:16:46.769Z",
+      "kind": "Organization image"
+    },
+    "academy-software-foundation-aswf": {
+      "path": "/logos/981403af89fa1d97b18d.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/academy-software-foundation/80y13ndf7guwxneb-360.png",
+      "checkedAt": "2026-10-02T16:16:46.778Z",
+      "kind": "Organization image"
+    },
+    "appleseedhq": {
+      "path": "/logos/be9fc9177a15c5ad42c8.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/fsKtYgvjsvcdf4l6Uscn9CACN6kGKEyuWCWZwl_GqZF3ZhS10gsfHpEMhwqBJEa0FOF-eJD8JWFALd1hi8LNSLAmHKHQe8Y",
+      "checkedAt": "2026-10-02T16:16:46.781Z",
+      "kind": "Organization image"
+    },
+    "accord-project": {
+      "path": "/logos/d74ab6ff4352075cdbf9.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/accord-project/1q3vpch01xpsriu9-360.png",
+      "checkedAt": "2026-10-02T16:16:46.789Z",
+      "kind": "Organization image"
+    },
+    "afl": {
+      "path": "/logos/a81162f840b264869922.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/aflplusplus/dw8yelaswljerorz-360.png",
+      "checkedAt": "2026-10-02T16:16:46.834Z",
+      "kind": "Organization image"
+    },
+    "arduino": {
+      "path": "/logos/1939a282b4ebc7cec843.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/2Xt9LJ2SMdLr1UqznmcpMfH_7u5F14XBU02NOdNKe0HyxUmQquo3WYBHW6UQoYCxBIaxTYc3v7_4nlL4QMrvxVKRFyJEUg",
+      "checkedAt": "2026-10-02T16:16:46.842Z",
+      "kind": "Organization image"
+    },
+    "ark": {
+      "path": "/logos/6eb8bc4db02d4e4cc9a5.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/147059531",
+      "checkedAt": "2026-10-02T16:16:46.842Z",
+      "kind": "Organization image"
+    },
+    "archc": {
+      "path": "/logos/76e7667c12aa606c6d07.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/oT-xsIDhzuq_vQS6xdoI75pOBRrPXuSOR7XZRP4M3fKHop4kdHn6NtO397Jq6wccVTfqpkdbNhcVMN90-n2Tskp4P7lrvg",
+      "checkedAt": "2026-10-02T16:16:46.853Z",
+      "kind": "Organization image"
+    },
+    "ascend": {
+      "path": "/logos/68745e109cdc42599cdc.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/iCNS56WgOul5y7CrKGsNa3fZb93np1DLHvOJVD0UyfL2f1cXzPMOGBaKz-Lf9M9iJCHq2LgqzuqiyoKR3x48SiiEGCQFBQ",
+      "checkedAt": "2026-10-02T16:16:46.881Z",
+      "kind": "Organization image"
+    },
+    "52-north-initiative-for-geospatial-open-source-software-gmbh": {
+      "path": "/logos/a9dbb02b8c1ac855eecd.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/52north-spatial-information-research-gmbh/gzamo2sqfwcmcobt-360.png",
+      "checkedAt": "2026-10-02T16:16:46.895Z",
+      "kind": "Organization image"
+    },
+    "bazel": {
+      "path": "/logos/1a213695716db5b08ce5.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/9uuJLr6wkmtIJu_M3jGvQdYaW1WlYHnp1PLar1ppxtBrNZSUtYXwNAzOd1Hj5_e-z6za7iwjYhX5Hb35RVPZYo0jotpTVG4",
+      "checkedAt": "2026-10-02T16:16:46.928Z",
+      "kind": "Organization image"
+    },
+    "bcoin": {
+      "path": "/logos/a6a0f8ba1d57e2170dcb.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/22380064",
+      "checkedAt": "2026-10-02T16:16:46.941Z",
+      "kind": "Organization image"
+    },
+    "babel": {
+      "path": "/logos/4719f4d73f2a89bbe7f3.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/SgPfGA3yKtXE8SpqyNFL0dPQlQbXYbawc4QS2A8UvG6pdZvw4zwPECNCkbNVtZ6nXyYIxDDxL_lniJCM2GbrIgQEnLropJk",
+      "checkedAt": "2026-10-02T16:16:46.947Z",
+      "kind": "Organization image"
+    },
+    "aossie": {
+      "path": "/logos/8adc483357e61b116331.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/aossie/oo1wd34pc1ytrq6a-360.png",
+      "checkedAt": "2026-10-02T16:16:46.982Z",
+      "kind": "Organization image"
+    },
+    "beam-community": {
+      "path": "/logos/3a7b04135366acec3be9.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/3NTyFksUJY1s5wfOoxtTI_ky6T1sLQtQsXFwPKtQ6eCsTBu4sEaUSh6QSbeSATr20rZYKwqrEoUkgFhXEmcXznn8rvST0Os",
+      "checkedAt": "2026-10-02T16:16:47.003Z",
+      "kind": "Organization image"
+    },
+    "beeware-project": {
+      "path": "/logos/ec2b7929b80200e37cf9.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/1rn4mBGgb0b0WyJrcK__M074I7LIUzcOIwRFpLYUbw63ADidvYiNjyNQR-ALTJrXp0dlywT9S3EwkIg6trXFFqaFxwm8RjQ",
+      "checkedAt": "2026-10-02T16:16:47.023Z",
+      "kind": "Organization image"
+    },
+    "bench-routes": {
+      "path": "/logos/e716ee4e74bf22cc210b.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/rK-G1cM-h1_eP-_oRcT45I6kjX8h1QdMh2LPbvCZB9aNzHk5JH8UCGY4KcbiDaMEwH8SCrqguzlUz5O5e1CDHEXjxgi3kOusoNHplzSEPgA",
+      "checkedAt": "2026-10-02T16:16:47.038Z",
+      "kind": "Organization image"
+    },
+    "berkman-klein-center-for-internet-and-society": {
+      "path": "/logos/379634afa088e891e5de.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/h3ZbO_8msyWmFXvcts6xk9bJlHL9mjVlBkVsMaKORIvz32yfbpihILKKVBR3QmrOLfEYRnVgpt92mD_YIQLsi3wy7t2YuM6x",
+      "checkedAt": "2026-10-02T16:16:47.074Z",
+      "kind": "Organization image"
+    },
+    "biogears": {
+      "path": "/logos/333e75d6ce2ff3931485.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/hQcH8RXDHGNt9yIvx1BnCI7Gi_cxgOngcq-6zwKRzwwhLmLypv-qb6w997bYmx485y0a46FheMwaEE8RYGMq9A5Tc2E-VA",
+      "checkedAt": "2026-10-02T16:16:47.088Z",
+      "kind": "Organization image"
+    },
+    "bitcoin-core": {
+      "path": "/logos/fabc50c693f00b7629ad.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/528860",
+      "checkedAt": "2026-10-02T16:16:47.125Z",
+      "kind": "Organization image"
+    },
+    "biojs": {
+      "path": "/logos/6b30d7b40d2f93bebdb5.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/NJnR_nyuJm9IpGUdAKb3BZbh85fQ3OqgsPa7kV0Y7eVFXphP7CKOJrMe8fBk_sDl9E99XKGBo4LrmSNaWJPqi5gPOeeZnTkD",
+      "checkedAt": "2026-10-02T16:16:47.148Z",
+      "kind": "Organization image"
+    },
+    "bitcoin-design": {
+      "path": "/logos/68b960d0d77cb5c4c634.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/73498329",
+      "checkedAt": "2026-10-02T16:16:47.154Z",
+      "kind": "Organization image"
+    },
+    "ankidroid": {
+      "path": "/logos/56e8dd415ac806452f33.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/ankidroid/cxtovrlsuuluttgi-360.png",
+      "checkedAt": "2026-10-02T16:16:47.155Z",
+      "kind": "Organization image"
+    },
+    "biomedical-informatics-emory-university": {
+      "path": "/logos/84937cb2b62f4b93b29a.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/L9dxdQ7Eo52IlZ3VEBEuT-_BSXZsymBaqOYXd1Xwl7bDpAlarV-zq26DQRusc5_x7U-IIwcRg7BRPIOEQJS7gdiZ4s2kmPc",
+      "checkedAt": "2026-10-02T16:16:47.155Z",
+      "kind": "Organization image"
+    },
+    "apache-datafusion": {
+      "path": "/logos/0eb1d51f67ac06e8186e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/apache-datafusion/tqdstft3qk2yleu9-360.png",
+      "checkedAt": "2026-10-02T16:16:47.165Z",
+      "kind": "Organization image"
+    },
+    "bitcoin-dev-kit": {
+      "path": "/logos/0eca917e5f739235ed15.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/72170781",
+      "checkedAt": "2026-10-02T16:16:47.171Z",
+      "kind": "Organization image"
+    },
+    "bitcoin-s": {
+      "path": "/logos/c053e6b998fe8f2fcb95.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/23284387",
+      "checkedAt": "2026-10-02T16:16:47.216Z",
+      "kind": "Organization image"
+    },
+    "apertus-association": {
+      "path": "/logos/de13812cc78631be6b82.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/apertus-association/s6253gpj4vdsugib-360.png",
+      "checkedAt": "2026-10-02T16:16:47.216Z",
+      "kind": "Organization image"
+    },
+    "apertium": {
+      "path": "/logos/0614500b2e9dfeeb65ef.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/apertium/bonpbccfuafpa634-360.png",
+      "checkedAt": "2026-10-02T16:16:47.282Z",
+      "kind": "Organization image"
+    },
+    "audacity": {
+      "path": "/logos/796c3968662aa012fc16.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/audacity/7opleanl35jab5va-360.png",
+      "checkedAt": "2026-10-02T16:16:47.364Z",
+      "kind": "Organization image"
+    },
+    "ardupilot": {
+      "path": "/logos/764a6aacf07a76870536.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/ardupilot/oveqvcxkpgkuv8wq-360.png",
+      "checkedAt": "2026-10-02T16:16:47.374Z",
+      "kind": "Organization image"
+    },
+    "api-dash": {
+      "path": "/logos/aee13ac83ab5fc6ae500.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/api-dash/wgtarubdkvdp5qih-360.png",
+      "checkedAt": "2026-10-02T16:16:47.438Z",
+      "kind": "Organization image"
+    },
+    "boost-c-libraries": {
+      "path": "/logos/4f6a3bddb672ca162bc3.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/L2nkbvYerHZT6hivm4I6ErU8MhfH9SXbPE2nqP73bnFwaXm9-KM2wdQAT1jMerAsdjszft_OTFSI8H5KMxOEXC3prbP2IDWilNDoqqOilVk",
+      "checkedAt": "2026-10-02T16:16:47.440Z",
+      "kind": "Organization image"
+    },
+    "bitcoin-fuzz": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:47.480Z",
+      "kind": "Organization image"
+    },
+    "bitcoin-tribe": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:47.492Z",
+      "kind": "Organization image"
+    },
+    "bitcoin-dev-project": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:47.492Z",
+      "kind": "Organization image"
+    },
+    "bitcoinjs": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:47.492Z",
+      "kind": "Organization image"
+    },
+    "bitcoin-keeper": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:47.492Z",
+      "kind": "Organization image"
+    },
+    "beagleboard-org": {
+      "path": "/logos/6a5ee43d35cd5d6981af.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/beagleboardorg/4w6td6bjy31ei9v2-360.png",
+      "checkedAt": "2026-10-02T16:16:47.497Z",
+      "kind": "Organization image"
+    },
+    "breez": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:47.516Z",
+      "kind": "Organization image"
+    },
+    "braidpool": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:47.526Z",
+      "kind": "Organization image"
+    },
+    "asyncapi": {
+      "path": "/logos/8d94a4c3cbf76af1c6bf.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/asyncapi/gmnlfvngjaqxjxio.png",
+      "checkedAt": "2026-10-02T16:16:47.527Z",
+      "kind": "Organization image"
+    },
+    "boston-university-xia": {
+      "path": "/logos/16159f36b9b72e51923c.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/ONLvVV8BkeDw6TE8gCnv2Nxa9vVyxSai8MltEzXPNutFuo_ckKtNapfvBvdZSa4nlE8BuaUqezo5v3hCSP1f6PioLeLGE0Y",
+      "checkedAt": "2026-10-02T16:16:47.544Z",
+      "kind": "Organization image"
+    },
+    "buildmlearn": {
+      "path": "/logos/7a4b43651aed6049f596.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/cMBsjiaZFVKFs9mhSPbUqVvyeLXjYc3Cj7cFwCOVSqUn-32FtJvYHTckdoulgYGg5VNT_uLuNO0RJjh9O9C35Y8wdbgqaWea",
+      "checkedAt": "2026-10-02T16:16:47.553Z",
+      "kind": "Organization image"
+    },
+    "cadasta": {
+      "path": "/logos/53055955f233c955f926.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/YGfrXJkJlSLrcsPG3bgmjIiRXthOVmkiGr5r4X2P6ehPEX3zKktgYwuScAcAtZJzjBOURAIEL3xSoVho00Oc7jmWDRbYaGE",
+      "checkedAt": "2026-10-02T16:16:47.572Z",
+      "kind": "Organization image"
+    },
+    "buildroot": {
+      "path": "/logos/c62e0dc560fd2e66443e.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/N59xgAFazsdFH2FnOyaL3aaTd-ZoZZZXLq3obziwVACJG_7onmUl4dqVdiR0yvk3A-Sci-LgPv_MRfOnFAUl75BQsFqITcw",
+      "checkedAt": "2026-10-02T16:16:47.595Z",
+      "kind": "Organization image"
+    },
+    "blockcore": {
+      "path": "/logos/8f5e81db491035f27477.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/51785660",
+      "checkedAt": "2026-10-02T16:16:47.613Z",
+      "kind": "Organization image"
+    },
+    "castor": {
+      "path": "/logos/def94dfb17ca8c99766f.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/oj63z5DyuNFvVEKOI4hyX9UFI6IkKOKZ9l2EbD4-zUMSx6GkJRcc5Jeyv0uYf4-OWJG4alDEYg_KSAPCKrEX2jLNCcHTWhuC1Zkv3LuIuRqYHQ",
+      "checkedAt": "2026-10-02T16:16:47.665Z",
+      "kind": "Organization image"
+    },
+    "btcpayserver": {
+      "path": "/logos/df2524b7b52622d0de84.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/btcpayserver?s=160",
+      "checkedAt": "2026-10-02T16:16:47.806Z",
+      "kind": "Organization image"
+    },
+    "blender-foundation": {
+      "path": "/logos/75586d6c253892a8c28a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/blender-foundation/b3isfbjn0avwbmmf-360.png",
+      "checkedAt": "2026-10-02T16:16:47.814Z",
+      "kind": "Organization image"
+    },
+    "cbmi-uthsc": {
+      "path": "/logos/dde7ae8651a06ec71148.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/UDjaIURrpVtpk7YnU7UdD7cJ12YQR7V1FP-g7QfxhuqwAB3aV4xRIixeKgR3OATLMVJwndX6r2ANXdiUsNJJS7NxvVs5tk0",
+      "checkedAt": "2026-10-02T16:16:47.863Z",
+      "kind": "Organization image"
+    },
+    "canadian-centre-for-computational-genomics-c3g-montreal-node": {
+      "path": "/logos/79960ff9cb4b8f5f8312.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/hXX62uOn8pUlexFTn2Er3l4zM9wSRNIQlIBIzMVDUKcvzO1q_3nxncfItwGxYsKSVOVzR1n0zoZ4JpDGPGlHJQi00q8YVsU",
+      "checkedAt": "2026-10-02T16:16:47.867Z",
+      "kind": "Organization image"
+    },
+    "caravan": {
+      "path": "/logos/d0e33f01a2d709cdfe2f.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/72919658",
+      "checkedAt": "2026-10-02T16:16:47.867Z",
+      "kind": "Organization image"
+    },
+    "celluloid": {
+      "path": "/logos/87a3bc2ee9ef24ce116d.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/nNo3XXt0aWSCoVfB7bZfj-MtQf6HcTMvtvqDfqv5Yws1B0SCH66JBgBp2OZCHf4VBU6dr-UYoAunl5hXxQvBTmtAonUjyQ",
+      "checkedAt": "2026-10-02T16:16:47.910Z",
+      "kind": "Organization image"
+    },
+    "boa": {
+      "path": "/logos/73d739635171d08b55bf.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/boa/vhimc4zkw6j9t8wm-360.png",
+      "checkedAt": "2026-10-02T16:16:47.944Z",
+      "kind": "Organization image"
+    },
+    "cern-sft": {
+      "path": "/logos/51e11b0f24805aeec9e6.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/AJ5vehB5HP9EcHW2Im9tCNJCgeDHWwACiK6kwWiP_JimlFx1hP4uwATxJwG5auOhaUI8LvjhIukd3X2kDpETu7K3RvSgLuM",
+      "checkedAt": "2026-10-02T16:16:48.014Z",
+      "kind": "Organization image"
+    },
+    "c2si": {
+      "path": "/logos/b1ffb5012152ae8d4105.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/c2si/35pwh3uirrpdctn8.png",
+      "checkedAt": "2026-10-02T16:16:48.110Z",
+      "kind": "Organization image"
+    },
+    "carbon-language": {
+      "path": "/logos/28dd2346be18a69ce4c6.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/carbon-language/gsrd8pzheipwksw8-360.png",
+      "checkedAt": "2026-10-02T16:16:48.114Z",
+      "kind": "Organization image"
+    },
+    "casbin": {
+      "path": "/logos/f38784462d4fa3285f22.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/casbin/tiqlcyqhyub20y9z-360.png",
+      "checkedAt": "2026-10-02T16:16:48.144Z",
+      "kind": "Organization image"
+    },
+    "catrobat": {
+      "path": "/logos/9cd91050eba14269c337.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/international-catrobat-association/dfkxzmsqlkyvwi2o-360.png",
+      "checkedAt": "2026-10-02T16:16:48.159Z",
+      "kind": "Organization image"
+    },
+    "chatbtc": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:48.173Z",
+      "kind": "Organization image"
+    },
+    "brl-cad": {
+      "path": "/logos/c83675c8b6c5b2665513.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/brl-cad/4ec07aqdfrvygfed-360.png",
+      "checkedAt": "2026-10-02T16:16:48.173Z",
+      "kind": "Organization image"
+    },
+    "chapel": {
+      "path": "/logos/c85a8092cd2160a6eb3b.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/iZSd2PHRnRgRP4BCokwbqnPV2zONVGnDqp95vx7j0TgtcleFt-_DR1xiBr_HhUPxQjLIG-J8wYW6KC8cbpw6tRwJgeJuse4Ajpqu4XeG0QT4",
+      "checkedAt": "2026-10-02T16:16:48.186Z",
+      "kind": "Organization image"
+    },
+    "cbioportal-for-cancer-genomics": {
+      "path": "/logos/a26e76139abba4d3e0b6.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/cbioportal-for-cancer-genomics/fdxtjhb0urtqcyfe-360.png",
+      "checkedAt": "2026-10-02T16:16:48.230Z",
+      "kind": "Organization image"
+    },
+    "cilium": {
+      "path": "/logos/475e83feea455db240d1.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/VPNqZNIcRxMMfF6D-9o6tvWwn17wdXQzXkmGYaLh5yO_v7DzRd7YQkjte75fFbjRpcDXc6h1VNWLM9ZF-Mgo7fdpFyoVxGaY0heHjj-or6BD",
+      "checkedAt": "2026-10-02T16:16:48.297Z",
+      "kind": "Organization image"
+    },
+    "ccextractor-development": {
+      "path": "/logos/a7bf7977173b00f7da45.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/ccextractor-development/xjqt8fksfnyqyqrd-360.png",
+      "checkedAt": "2026-10-02T16:16:48.410Z",
+      "kind": "Organization image"
+    },
+    "center-for-translational-data-science": {
+      "path": "/logos/e3700c28340ddf284a84.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/center-for-translational-data-science/bc61hj7tocvmpw6p-360.png",
+      "checkedAt": "2026-10-02T16:16:48.464Z",
+      "kind": "Organization image"
+    },
+    "camicroscope": {
+      "path": "/logos/8e2589a1b665960151ec.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/camicroscope/gnuvwzgnlt6gpjwy-360.png",
+      "checkedAt": "2026-10-02T16:16:48.484Z",
+      "kind": "Organization image"
+    },
+    "civicrm": {
+      "path": "/logos/d3707828bd61e254e438.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/eHaSpnLTGYKc5cdRm7xyCei3-mdlOXkiwlJlX8Z-qgnlT0ii6CmKs6KoP7HlLNAXRT9xJvC4gVPmWtVvokPZlh4E0InYVW1dojWfoC9YHRuA1A",
+      "checkedAt": "2026-10-02T16:16:48.509Z",
+      "kind": "Organization image"
+    },
+    "ceph-foundation": {
+      "path": "/logos/3a608a42091475dcc567.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/ceph/rvqqprqtyq0rfrcc-360.png",
+      "checkedAt": "2026-10-02T16:16:48.512Z",
+      "kind": "Organization image"
+    },
+    "classical-language-toolkit": {
+      "path": "/logos/11da73289c164ba9f323.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/zVchi2b6BFxDdaYEWD2I5NupzKFPu9TGTCNCDxW0r7jd_abTVJmZhotPkBvO2otN9_au6rKfv71unBQ-tOccrXucTbiIuYQ",
+      "checkedAt": "2026-10-02T16:16:48.559Z",
+      "kind": "Organization image"
+    },
+    "clips-university-of-antwerp": {
+      "path": "/logos/d3d657390258ee020e40.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/mFF4t3hpgbKBiyg5vaoj4FYXmKP-MfXQxeql6TJh_7Y4zJiT_rEWhs5phw8Hkchf5nmXDMC7VzQ0y5Da-X2s363V8DoOntVD",
+      "checkedAt": "2026-10-02T16:16:48.565Z",
+      "kind": "Organization image"
+    },
+    "center-for-research-in-open-source-software-cross-at-uc-santa-cruz": {
+      "path": "/logos/76eb4405279aa9408ef9.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/center-for-research-in-open-source-software-cross/uhktecwqhmrixy6f-360.png",
+      "checkedAt": "2026-10-02T16:16:48.578Z",
+      "kind": "Organization image"
+    },
+    "cern-hsf": {
+      "path": "/logos/120f67471ff0ea943e65.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/cern-hsf/cjus658sjzba5zhg-360.png",
+      "checkedAt": "2026-10-02T16:16:48.602Z",
+      "kind": "Organization image"
+    },
+    "clojure": {
+      "path": "/logos/2de1ef7518b6c8fefbd6.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/KEb8AaLe8CWqA2rMpvjsmXjY13TxgLjKJj8WG4xYaJyQkYDKozx4-WwRBUKgRMdoOKk8RwCH9pWtfOXVhUBjtAJo16slIw",
+      "checkedAt": "2026-10-02T16:16:48.606Z",
+      "kind": "Organization image"
+    },
+    "cmu-sphinx": {
+      "path": "/logos/426f64291281361201c4.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/_vu_qb7x-5e-HEFLBfIEDvYIVrZoePvwECpa2n5RAJqTUIeOt_vrF8-i9wdz6z-owZ7ikHDuv2ab_BhAjWFUAuS3ogWhNQ",
+      "checkedAt": "2026-10-02T16:16:48.623Z",
+      "kind": "Organization image"
+    },
+    "coala": {
+      "path": "/logos/0fceb7fb3c2a7c68f4db.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/0PqG5lb1LsnualMXfs468WjitwnUq_jx1wefb_QF6EgC8c7LOp4DYPODanM12sQM1f7RlV4vXHaucZ8ZJ8PyiBdlE5kR8s5gQxUSsm_WoxYf",
+      "checkedAt": "2026-10-02T16:16:48.670Z",
+      "kind": "Organization image"
+    },
+    "chromium": {
+      "path": "/logos/8621a994c95d7474eb3b.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/chromium-lj/qiwhezblvq2a0jgc-360.png",
+      "checkedAt": "2026-10-02T16:16:48.709Z",
+      "kind": "Organization image"
+    },
+    "coinswap": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:48.712Z",
+      "kind": "Organization image"
+    },
+    "chaoss-community-health-analytics-open-source-software": {
+      "path": "/logos/543dd324c822baf7288e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/chaoss/omnpzqtoqzjmesi7-360.png",
+      "checkedAt": "2026-10-02T16:16:48.734Z",
+      "kind": "Organization image"
+    },
+    "checkstyle": {
+      "path": "/logos/34acbacd023cda28a5f5.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/checkstyle/e8ubktvaft8eljli-360.png",
+      "checkedAt": "2026-10-02T16:16:48.736Z",
+      "kind": "Organization image"
+    },
+    "computational-biology-university-of-nebraska-lincoln": {
+      "path": "/logos/383f9be38fc67208123a.jpg",
+      "sourceUrl": "https://lh3.googleusercontent.com/chbiX_Gn0VnYNrSHA74K65Mi6iNK00U_cMZE-zqcDED8vHhotLL1ciDcLUGYYrLGCrBb8RspJTMBrXcErjBeN0qBi2SHOTc",
+      "checkedAt": "2026-10-02T16:16:48.778Z",
+      "kind": "Organization image"
+    },
+    "chips-alliance": {
+      "path": "/logos/4a133b2499aa238f5227.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/chips-alliance/6tfmap6dqunmfu0f-360.png",
+      "checkedAt": "2026-10-02T16:16:48.780Z",
+      "kind": "Organization image"
+    },
+    "checker-framework": {
+      "path": "/logos/46d0c503701dd2cb5225.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/checker-framework/zgooweugtqicf1jx-360.png",
+      "checkedAt": "2026-10-02T16:16:48.784Z",
+      "kind": "Organization image"
+    },
+    "continuous-delivery-foundation": {
+      "path": "/logos/e702e490a286fe81462c.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/LIm70oXZmOAwSUXnJnrFu6kj-uICMl6w_uM6scdnz2QXD8DREGO1wML3-5bCcKYOHHhPf7UmAmXWyw002rJhneQP5tkP5Au3u4Fa4txdw7Re",
+      "checkedAt": "2026-10-02T16:16:48.785Z",
+      "kind": "Organization image"
+    },
+    "computational-science-and-engineering-at-tu-wien": {
+      "path": "/logos/57bef98d33106337de57.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/cSBhg7cusl86lHw3cIxt-RXh0oMqmru-6YP3vtxHawiT3iYpfnf_KtrGG2tYPgIndDeg9l3j9Rr_dbHeEhjaLw-EcQXEi7A",
+      "checkedAt": "2026-10-02T16:16:48.788Z",
+      "kind": "Organization image"
+    },
+    "core-lightning-toolkit": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:48.815Z",
+      "kind": "Organization image"
+    },
+    "copyleft-games": {
+      "path": "/logos/b4a476e0e5c23303308d.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/uFYWvVcwmuONpfYFZKxGmQzJiernnb7qI1Eynt9CuNDiB0NJu4-lSUgN3JcKHc9B7_vpgJ2Wwa0CLUTe_ZAtty5I6pCGBURc",
+      "checkedAt": "2026-10-02T16:16:48.832Z",
+      "kind": "Organization image"
+    },
+    "conversations-im": {
+      "path": "/logos/b46feb41bd59af638977.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/DHegsdb0kS2OAqMolz-YYFRha30Z5_d91HjiaHgmQXdGCWina0SCE6u1YxP-W-zNtw34Md_77sUkWWqvpcnIvfBzGIcRkORc",
+      "checkedAt": "2026-10-02T16:16:48.837Z",
+      "kind": "Organization image"
+    },
+    "cryptoanarchy-debian": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:48.859Z",
+      "kind": "Organization image"
+    },
+    "circuitverse-org": {
+      "path": "/logos/58ce1a90a6e5deb8a3e9.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/circuitverseorg/rxan5pn96f3m4yfu-360.png",
+      "checkedAt": "2026-10-02T16:16:48.885Z",
+      "kind": "Organization image"
+    },
+    "cvxpy": {
+      "path": "/logos/7ea2c7292ea793b0c5ea.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/PKHrxxpKa9NMAQlmnpIgVLcxA7ftVdcgBMNhphDBiE4FNv5KXCCemvNhG4u64oR6SYj3Uezl4vxOuTZyHlkZc_2msDjx0A",
+      "checkedAt": "2026-10-02T16:16:48.948Z",
+      "kind": "Organization image"
+    },
+    "cypherock": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:48.991Z",
+      "kind": "Organization image"
+    },
+    "city-of-boston": {
+      "path": "/logos/6f8635917bbef0557fda.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/city-of-boston/yzgdh5rskmjwxham-360.png",
+      "checkedAt": "2026-10-02T16:16:49.011Z",
+      "kind": "Organization image"
+    },
+    "core-lightning": {
+      "path": "/logos/d5bd44f4ea36dd3d65a6.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/21978224",
+      "checkedAt": "2026-10-02T16:16:49.101Z",
+      "kind": "Organization image"
+    },
+    "cncf": {
+      "path": "/logos/002724582fd4933b6d6c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/cncf/jmxijrttlucfutel-360.png",
+      "checkedAt": "2026-10-02T16:16:49.163Z",
+      "kind": "Organization image"
+    },
+    "cloudcv": {
+      "path": "/logos/78958f8d11b2561afd1d.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/cloudcv/mxq9gvskhg4i5lyw-360.png",
+      "checkedAt": "2026-10-02T16:16:49.223Z",
+      "kind": "Organization image"
+    },
+    "cockpit-project": {
+      "path": "/logos/74128e356bbeb0fbd1bf.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/cockpit-project/znjdaamdoskwijzj-360.png",
+      "checkedAt": "2026-10-02T16:16:49.332Z",
+      "kind": "Organization image"
+    },
+    "creative-commons": {
+      "path": "/logos/74eb7b98fc94016c4dc8.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/creative-commons/jvj0y3czaagpnhvz-360.png",
+      "checkedAt": "2026-10-02T16:16:49.376Z",
+      "kind": "Organization image"
+    },
+    "claas": {
+      "path": "/logos/2b39fc6365ac1c938fc6.ico",
+      "sourceUrl": "https://www.claas.com/favicon.ico",
+      "checkedAt": "2026-10-02T16:16:49.416Z",
+      "kind": "Website icon"
+    },
+    "deeppavlov": {
+      "path": "/logos/ff639791d274d51e04df.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/8My3sdK_IV-eO8auuG5u2b4zAtqDSkh8w6IyZFa11hZ9prbIGV6wI_Scgj87kUDcfFI15s9DsVNVyR4n_iY5g4Qnk-QEJzxJQEhB1y900k6c",
+      "checkedAt": "2026-10-02T16:16:49.484Z",
+      "kind": "Organization image"
+    },
+    "cuneiform-digital-library-initiative": {
+      "path": "/logos/d98cc18b5866b206af8a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/cuneiform-digital-library-initiative-cdli/pcifkvibocfw8hiy.png",
+      "checkedAt": "2026-10-02T16:16:49.485Z",
+      "kind": "Organization image"
+    },
+    "cvat": {
+      "path": "/logos/8b89ce7b86e19ca3c737.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/cvat/mqacwujl7ascwcsu.png",
+      "checkedAt": "2026-10-02T16:16:49.495Z",
+      "kind": "Organization image"
+    },
+    "criu-checkpoint-restore-in-user-space": {
+      "path": "/logos/58d59e7b680c2b33ae0c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/criu/ypjxpancpwtdf698-360.png",
+      "checkedAt": "2026-10-02T16:16:49.510Z",
+      "kind": "Organization image"
+    },
+    "dart": {
+      "path": "/logos/8b8fa9c4a677d1d398a6.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/dart/hsghljw4m6popf0x-360.png",
+      "checkedAt": "2026-10-02T16:16:49.543Z",
+      "kind": "Organization image"
+    },
+    "coreboot": {
+      "path": "/logos/39ec2559a73559be82bf.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/coreboot/aq8ne4b9ot7xq8rz-360.png",
+      "checkedAt": "2026-10-02T16:16:49.548Z",
+      "kind": "Organization image"
+    },
+    "developers-italia": {
+      "path": "/logos/392bd6c88602ba92b777.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/cpRI0hsUYnvwREKwSUsiJsUs7izGn-Ym8XZmDrWLkF2A_RGZD4RYQOEf0qB0ZDbXnO6C4iG9ZLglK752WbjwbvB0K10_54k",
+      "checkedAt": "2026-10-02T16:16:49.552Z",
+      "kind": "Organization image"
+    },
+    "digital-impact-alliance-dial-at-un-foundation": {
+      "path": "/logos/d819d0cd6bdc001ea930.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Le5g8nd_b866W_Pry3h8biYJAOYEsQfFrHFNW4Dm05BL3WS9ebElcVrR2DZZqAoykslldW50EO00vlnI7liRUApgfTUEJxY_-QDmKJVc-hG3",
+      "checkedAt": "2026-10-02T16:16:49.583Z",
+      "kind": "Organization image"
+    },
+    "discourse": {
+      "path": "/logos/49d69ead3b3931489228.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/3sa2Hf4LtzL2kBlSkpAP29xgjyPANLS5uegKuI_fk_5KezIY94kPqWKsth2oI6UPgooSGV9Q6Nv_GSa8SHTXIivE-_LjQP8",
+      "checkedAt": "2026-10-02T16:16:49.590Z",
+      "kind": "Organization image"
+    },
+    "distributed-and-unified-numerics-environment-dune": {
+      "path": "/logos/a487e28f6830d49f0546.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/l2vFuvmUfWzb-nh0v58xX3NL6DC_oYaV6ENmgJbTn4r5sqSHqRJCp5ixF0qreW5tWReNLjX4qWRx1h_6ZXOWMOS6FKzLhg",
+      "checkedAt": "2026-10-02T16:16:49.642Z",
+      "kind": "Organization image"
+    },
+    "earth-science-information-partners-esip": {
+      "path": "/logos/7f657125965ec3f4b6f7.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/ZXOtj8mQ7DQDnvENKTCjaBDFpnoMo_1bx8aCoqcEfCJ9glclzmsl52FQcBSgDHSowB5BaFqKynsSQwETWUFb2IkqGeSb5Z4",
+      "checkedAt": "2026-10-02T16:16:49.697Z",
+      "kind": "Organization image"
+    },
+    "d-foundation": {
+      "path": "/logos/5e6c08c471479fd242d3.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/d-language-foundation/u25qvh5ljfkkhkjj.png",
+      "checkedAt": "2026-10-02T16:16:49.697Z",
+      "kind": "Organization image"
+    },
+    "demand": {
+      "path": "/logos/2ae73e12cb1e99899299.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/175616393",
+      "checkedAt": "2026-10-02T16:16:49.746Z",
+      "kind": "Organization image"
+    },
+    "datenlord": {
+      "path": "/logos/fc53c5005aec60cc5852.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/datenlord-6z/wcwd5qgl2ukkkgq4-360.png",
+      "checkedAt": "2026-10-02T16:16:49.748Z",
+      "kind": "Organization image"
+    },
+    "data-for-the-common-good": {
+      "path": "/logos/2efa3ae8ae5636b081d0.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/data-for-the-common-good/tk4snywy4ejlztpt-360.png",
+      "checkedAt": "2026-10-02T16:16:49.808Z",
+      "kind": "Organization image"
+    },
+    "elastic": {
+      "path": "/logos/de31aef82f0b97688953.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/eOXs7ZiMFZkKc1E0CvvS9iN5PO7yCd_Nd70vL2ZoDy8PNNh2Mn897XxFd_TF9iTywyd2M-RCLS17rpDRJ_vfEFJ-XzopHLY",
+      "checkedAt": "2026-10-02T16:16:49.824Z",
+      "kind": "Organization image"
+    },
+    "electrs": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:49.836Z",
+      "kind": "Organization image"
+    },
+    "electrum-wallet": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:49.864Z",
+      "kind": "Organization image"
+    },
+    "elm-software-foundation": {
+      "path": "/logos/4e228c6e0183715cb12b.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/fqsi9UFcYWf2gRtHisTVUL77H0wqC5R8EU7XRoI-yLzd6LESSqOWHS8THAVlDVG1J1lKlhE91MSHSksUrNpNs9b3C2QD8QE2",
+      "checkedAt": "2026-10-02T16:16:49.903Z",
+      "kind": "Organization image"
+    },
+    "elm-tooling": {
+      "path": "/logos/b29cf4de5831811970e1.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/-XNgKxWjgT1sO2zqY9dM86ocsPJAUPj-XM2iojUjf8vaEhyBmAj_gk8MR4mnIpKd8UYx-aXCnSjkPBHrkZM1ypuyaYFJ-hmzjOzdNUP0RQBN",
+      "checkedAt": "2026-10-02T16:16:49.916Z",
+      "kind": "Organization image"
+    },
+    "dbpediaspotlight": {
+      "path": "/logos/bbe9e3001d887a5b201a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/dbpedia/cgjegpmawtu5fr6w-360.png",
+      "checkedAt": "2026-10-02T16:16:49.922Z",
+      "kind": "Organization image"
+    },
+    "debian": {
+      "path": "/logos/269993827c8b302b66b0.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/debian/mmld9soj4mti8bjn-360.png",
+      "checkedAt": "2026-10-02T16:16:49.950Z",
+      "kind": "Organization image"
+    },
+    "embox": {
+      "path": "/logos/b441284eb820c62cab4c.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Wxquhb2hHtXZLzWiMeBePgSdNUrJECbNTYlDvJER1sF-uS2EEK52vTgwaWaQpnS6AhYcOLQcjbjqy2TOi3mBttC5KHCUwA",
+      "checkedAt": "2026-10-02T16:16:49.960Z",
+      "kind": "Organization image"
+    },
+    "environmental-data-and-governance-initiative": {
+      "path": "/logos/7d111393da883ee9901e.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/6M5VZ3XHpr1IpCBDAb1NnmreVjiAW4PPYSh8kJUEspShRoZ4oTx2kPdWG0cJjfXeCwDbtfuYsSArr31ynvZMyAkIhMhrLx9C",
+      "checkedAt": "2026-10-02T16:16:49.965Z",
+      "kind": "Organization image"
+    },
+    "erlang-ecosystem-foundation": {
+      "path": "/logos/e31a85dd796375fc3ea7.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/5uycoUg-xQ6_2bY9fHvMj8N74iBghWqwmDXcCMIrfEc0pe7RB_RIqNuuFH0dtzJfowjQgNdB93DObYni4yDDOICJ7J2LiQ",
+      "checkedAt": "2026-10-02T16:16:49.985Z",
+      "kind": "Organization image"
+    },
+    "esplora": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:49.986Z",
+      "kind": "Organization image"
+    },
+    "eclair": {
+      "path": "/logos/6eae93d27812e5f15c26.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/21256949",
+      "checkedAt": "2026-10-02T16:16:50.008Z",
+      "kind": "Organization image"
+    },
+    "eta": {
+      "path": "/logos/15d982dea410f8900c2b.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/CWx2uyJZ-z2_-0wcJhdTznrSu9d08LqOnoE19wp7OESJ0nj-Vhc0QbqXIp6nXU8lICP39AWtl3wGB-bsrToxqMPclT_uxCo",
+      "checkedAt": "2026-10-02T16:16:50.020Z",
+      "kind": "Organization image"
+    },
+    "eye-of-satoshi": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:50.029Z",
+      "kind": "Organization image"
+    },
+    "deepchem": {
+      "path": "/logos/08fc3767d37723afb548.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/deepchem/ffdofoxp3ba1qqmh-360.png",
+      "checkedAt": "2026-10-02T16:16:50.090Z",
+      "kind": "Organization image"
+    },
+    "dora-rs": {
+      "path": "/logos/c3bbf58aec4dccbefedd.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/dora-rs-tb/u8emntrmqq6vgcih-360.png",
+      "checkedAt": "2026-10-02T16:16:50.115Z",
+      "kind": "Organization image"
+    },
+    "django-software-foundation": {
+      "path": "/logos/6ee46c886c3057ee9469.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/django-software-foundation-8o/685unxpkksrvfugu-360.png",
+      "checkedAt": "2026-10-02T16:16:50.221Z",
+      "kind": "Organization image"
+    },
+    "eclipse-foundation": {
+      "path": "/logos/a94026489e2299a45f29.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/eclipse-foundation/xo1ntao7atq7yjg2-360.png",
+      "checkedAt": "2026-10-02T16:16:50.225Z",
+      "kind": "Organization image"
+    },
+    "drupal": {
+      "path": "/logos/2661c134a78ce3811c13.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/drupal-association/kfbn4ws0uftixkho-360.png",
+      "checkedAt": "2026-10-02T16:16:50.244Z",
+      "kind": "Organization image"
+    },
+    "floresta": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:50.252Z",
+      "kind": "Organization image"
+    },
+    "department-of-biomedical-informatics-bmi-emory-university-school-of-medicine": {
+      "path": "/logos/9cc50a43ac378097075f.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/department-of-biomedical-informatics-emory-university/l9jrm7pdhwnkxh3b-360.png",
+      "checkedAt": "2026-10-02T16:16:50.306Z",
+      "kind": "Organization image"
+    },
+    "fedimint": {
+      "path": "/logos/150a8178ff34cc2cdf80.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/100279624",
+      "checkedAt": "2026-10-02T16:16:50.319Z",
+      "kind": "Organization image"
+    },
+    "fosdem-vzw": {
+      "path": "/logos/77548d206963e2a62200.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/WGA5vsI5s6wgv73iYJG8DD4Q6orAln6Q7N5mMv0vG-Rtun9JgRaFq2evxGkb23WbcofNtrj5MogvVtzDou2VfAzpvctWZ0k",
+      "checkedAt": "2026-10-02T16:16:50.386Z",
+      "kind": "Organization image"
+    },
+    "electron": {
+      "path": "/logos/6e0ffed74e7e10181034.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/electron/vchyhnp6rhabucgj-360.png",
+      "checkedAt": "2026-10-02T16:16:50.446Z",
+      "kind": "Organization image"
+    },
+    "framenet-brasil-at-the-federal-university-of-juiz-de-fora": {
+      "path": "/logos/cf6738f35a610e7db72e.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/4LNL-fV4t3l6MZAA2g-OKLB1hn_lhNlLvf11ppHHRlpt5gEDFhfHFNO1vTa1rvysdir88AjTFzg09XaXPP2V-rar-HgWpP-VF4Qxv-X_iPtn",
+      "checkedAt": "2026-10-02T16:16:50.501Z",
+      "kind": "Organization image"
+    },
+    "erofs-filesystem": {
+      "path": "/logos/423786ed099518f0a9e7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/erofs-filesystem/qrkpvwkzjqmwoyau-360.png",
+      "checkedAt": "2026-10-02T16:16:50.562Z",
+      "kind": "Organization image"
+    },
+    "formstr": {
+      "path": "/logos/4f3bcdf7bd570e664500.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/abh3po?s=160",
+      "checkedAt": "2026-10-02T16:16:50.580Z",
+      "kind": "Organization image"
+    },
+    "eunomia-bpf": {
+      "path": "/logos/7464d541bc10cecdf467.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/eunomia-bpf/xnyotwpqgsmqh6xf.png",
+      "checkedAt": "2026-10-02T16:16:50.597Z",
+      "kind": "Organization image"
+    },
+    "flare": {
+      "path": "/logos/a79830fce947c80a8366.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/flare/6so0wjs76qeewe9v-360.png",
+      "checkedAt": "2026-10-02T16:16:50.597Z",
+      "kind": "Organization image"
+    },
+    "free-uk-genealogy": {
+      "path": "/logos/4e6b0837eb294246f82a.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/VehPukOZevZhe7ahADaiK4mK4tdSqt3JFldLgnPoWzQGuIqrm8O6E30scj04LI7KTqd474SWMzj3wMeCQOsJxMNA6r25HgI",
+      "checkedAt": "2026-10-02T16:16:50.627Z",
+      "kind": "Organization image"
+    },
+    "fedora-project": {
+      "path": "/logos/6acb0f896456f9ac9da9.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/fedora-project/shb5orpvxtdcerqq-360.png",
+      "checkedAt": "2026-10-02T16:16:50.647Z",
+      "kind": "Organization image"
+    },
+    "frescobaldi": {
+      "path": "/logos/9975bf80b1fbf615f05f.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/IRUCAU_NRRzhF33TmMt5o1k7eDlbSlcyfF59CwLJABUgeFMCXGAbRmVtozRAHmQu4xtz9T2H8Y0J2m1dJZlSpj7gHlWfU_sp",
+      "checkedAt": "2026-10-02T16:16:50.691Z",
+      "kind": "Organization image"
+    },
+    "flashrom": {
+      "path": "/logos/804f7450302ea059a4ec.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/flashrom/lbs8lwrrtukrpznk-360.png",
+      "checkedAt": "2026-10-02T16:16:50.691Z",
+      "kind": "Organization image"
+    },
+    "ffmpeg": {
+      "path": "/logos/040261bf676d45fa444e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/ffmpeg/9nltyc13lvn7dqn0-360.png",
+      "checkedAt": "2026-10-02T16:16:50.730Z",
+      "kind": "Organization image"
+    },
+    "ganeti": {
+      "path": "/logos/a07789a4e69e5092690f.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/XlNb_Sabp2jyqUFTPwsSRUKRCErZZs__auwuotRQc8FLDQ0z6nWvTsYt5G9FB2h1G1e71PC0Tnb_-pE15uoGQPaKPyjh6VgG",
+      "checkedAt": "2026-10-02T16:16:50.785Z",
+      "kind": "Organization image"
+    },
+    "fossasia": {
+      "path": "/logos/467d3948c36ebb1de988.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/fossasia-bg/rquaoyo4v86xj21l-360.png",
+      "checkedAt": "2026-10-02T16:16:50.876Z",
+      "kind": "Organization image"
+    },
+    "gdevelop": {
+      "path": "/logos/819e8e9a170b9611a8f1.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/f4WpusIovGhvkq0URnquenWBfSMC62lLjEC3s8wsXI4b2sK-mVRT9JlP7AdIjSWuZV54HCcUX-sU2LWIubZPURUmrU6cfA",
+      "checkedAt": "2026-10-02T16:16:50.933Z",
+      "kind": "Organization image"
+    },
+    "fortran-lang": {
+      "path": "/logos/e3af587f77d8ef58a344.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/fortran-lang/ay9se7mc6vgdwgbn-360.png",
+      "checkedAt": "2026-10-02T16:16:50.950Z",
+      "kind": "Organization image"
+    },
+    "forschungszentrum-julich": {
+      "path": "/logos/2ec85c93b79776fd3172.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/forschungszentrum-julich/lpw2snlqeq5bopxq-360.png",
+      "checkedAt": "2026-10-02T16:16:50.951Z",
+      "kind": "Organization image"
+    },
+    "galoy": {
+      "path": "/logos/2ae73e12cb1e99899299.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/67789857",
+      "checkedAt": "2026-10-02T16:16:50.951Z",
+      "kind": "Organization image"
+    },
+    "fossology": {
+      "path": "/logos/514d4e6761af59bea838.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/fossology/bqfblnvpsqnfg5bh-360.png",
+      "checkedAt": "2026-10-02T16:16:50.958Z",
+      "kind": "Organization image"
+    },
+    "genivi-alliance": {
+      "path": "/logos/ce6e1c859ac797c9e22a.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/ZIkVBgPt74PhZquMA2JwS3soJhYecxQCw9vd2pb1rbM2CTCITvcRvswGS9mb0atbWMAE4id3lijxh8H5mfUf4OMMHE_-Fio",
+      "checkedAt": "2026-10-02T16:16:51.004Z",
+      "kind": "Organization image"
+    },
+    "genes-genomes-and-variation": {
+      "path": "/logos/0f1886952cad008b6358.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/p8PJcwnPwpVUuuesrDQkQxj_TpubhtovFLmyAfwpbnWU28tgkvewYzdXqob_BY0Uh0_061o-IdAYODgEyjUZcthyncDrnw",
+      "checkedAt": "2026-10-02T16:16:51.006Z",
+      "kind": "Organization image"
+    },
+    "free-and-open-source-silicon-foundation": {
+      "path": "/logos/d0005283ed29dd2faf1a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/free-and-open-source-silicon-foundation/aie951otsp3xucok.png",
+      "checkedAt": "2026-10-02T16:16:51.138Z",
+      "kind": "Organization image"
+    },
+    "freifunk": {
+      "path": "/logos/6371a27f51a310f5289c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/freifunk/bpcbaeecusvfzbzk-360.png",
+      "checkedAt": "2026-10-02T16:16:51.169Z",
+      "kind": "Organization image"
+    },
+    "freecad": {
+      "path": "/logos/6e9fb4ea3fdae6155526.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/freecad/hka287elz3d4wvzu.png",
+      "checkedAt": "2026-10-02T16:16:51.175Z",
+      "kind": "Organization image"
+    },
+    "github": {
+      "path": "/logos/e9809eddf7a67e637947.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/TG-4_pSPGaXiAcliIBTLJ7JphpkTPXW73Gku4V0bdiCLfCIL14swJT1xIzlTYvOffnJHu_ycGTCuHUGnGpVKnrDtvZ28wX8",
+      "checkedAt": "2026-10-02T16:16:51.214Z",
+      "kind": "Organization image"
+    },
+    "frrouting": {
+      "path": "/logos/5112ef9ed91607e17bb6.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/frrouting/wvsrcdtt2anax9ej-360.png",
+      "checkedAt": "2026-10-02T16:16:51.218Z",
+      "kind": "Organization image"
+    },
+    "freebsd": {
+      "path": "/logos/11cf40147701c5900c2a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-freebsd-project/4jmspor6mcto9wti-360.png",
+      "checkedAt": "2026-10-02T16:16:51.220Z",
+      "kind": "Organization image"
+    },
+    "gambit-software-tools-for-game-theory": {
+      "path": "/logos/2cd493581c1339461591.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gambit-the-package-for-computation-in-game-theory/09u5sma4pizmwbqt-360.png",
+      "checkedAt": "2026-10-02T16:16:51.318Z",
+      "kind": "Organization image"
+    },
+    "gcp-scanner": {
+      "path": "/logos/447ca20c276f7a5ab5de.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gcp-scanner/llfil1bsqmtp4cyj-360.png",
+      "checkedAt": "2026-10-02T16:16:51.388Z",
+      "kind": "Organization image"
+    },
+    "gemini-cli": {
+      "path": "/logos/87563b91ad11e00d12b8.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gemini-cli/mhi8cx7tyjt91i6n-360.png",
+      "checkedAt": "2026-10-02T16:16:51.477Z",
+      "kind": "Organization image"
+    },
+    "genome-assembly-and-annotation": {
+      "path": "/logos/e2a098566c6482d97451.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/genome-assembly-and-annotation/ixuasrqx18soo7ml-360.png",
+      "checkedAt": "2026-10-02T16:16:51.580Z",
+      "kind": "Organization image"
+    },
+    "gentoo-foundation": {
+      "path": "/logos/4b74cc83c2c45214c355.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gentoo-foundation/lmavef6x2gwpske4-360.png",
+      "checkedAt": "2026-10-02T16:16:51.605Z",
+      "kind": "Organization image"
+    },
+    "geomscale": {
+      "path": "/logos/9c6de356434210453c41.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/geomscale/ongpste986nd7t6p-360.png",
+      "checkedAt": "2026-10-02T16:16:51.660Z",
+      "kind": "Organization image"
+    },
+    "git": {
+      "path": "/logos/0cbbeb8ad646b0ef3837.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/git/mbqqznjbaohwgq80-360.png",
+      "checkedAt": "2026-10-02T16:16:51.682Z",
+      "kind": "Organization image"
+    },
+    "german-center-for-open-source-ai": {
+      "path": "/logos/f613f3a51265e8e5e1d6.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/german-center-for-open-source-ai/mir4i7v7wopcc7wn-360.png",
+      "checkedAt": "2026-10-02T16:16:51.712Z",
+      "kind": "Organization image"
+    },
+    "gocoin": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:51.749Z",
+      "kind": "Organization image"
+    },
+    "gitlab": {
+      "path": "/logos/43213bc82ad5f9379b23.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gitlab/mfhpav5dgegzwg8z-360.png",
+      "checkedAt": "2026-10-02T16:16:51.764Z",
+      "kind": "Organization image"
+    },
+    "gnss-sdr": {
+      "path": "/logos/e437a515c8f3c8ce9fb5.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gnss-sdr/vaciksjfho8cec2g-360.png",
+      "checkedAt": "2026-10-02T16:16:51.778Z",
+      "kind": "Organization image"
+    },
+    "gnome-foundation": {
+      "path": "/logos/811b14c24eb34926909e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gnome-foundation/aqwqx1x6ozjnxsak-360.png",
+      "checkedAt": "2026-10-02T16:16:51.806Z",
+      "kind": "Organization image"
+    },
+    "google-fhir-sdk": {
+      "path": "/logos/69f8f3f6f00913f3ff56.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/wpJ-8b9DbHG_b8H-9PyvvDsnzFQ7_QJ1Z9YFHzFFI3VQSZp1RBRC_vbLEiS-h3KlpsuwBUnrxPi-w5p0knrGBZfMjTvj1XRgrxEUmUEG4dM",
+      "checkedAt": "2026-10-02T16:16:51.831Z",
+      "kind": "Organization image"
+    },
+    "gpac": {
+      "path": "/logos/99b88791fa3b70750c18.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/d3oNDfuyytm6SKBXs4Hg1T9_c1-9H5gyMKsvJYT9Uk4KczL3IQvT7eomOu-XMqyNZeGfyqTic6tAsHT_yQCaoo3-p2V3dWWH",
+      "checkedAt": "2026-10-02T16:16:51.876Z",
+      "kind": "Organization image"
+    },
+    "gnu-compiler-collection-gcc": {
+      "path": "/logos/3737888a2e75088dfc8a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gnu-compiler-collection-gcc/kpspl59nyj0hoxlr-360.png",
+      "checkedAt": "2026-10-02T16:16:52.040Z",
+      "kind": "Organization image"
+    },
+    "gnu-image-manipulation-program": {
+      "path": "/logos/d8cb812a78e8815ff490.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gnu-image-manipulation-program/ocldunfrxwufuvdf.png",
+      "checkedAt": "2026-10-02T16:16:52.046Z",
+      "kind": "Organization image"
+    },
+    "global-alliance-for-genomics-and-health": {
+      "path": "/logos/444311ddd2b5ed8bc714.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/global-alliance-for-genomics-and-health/0bnlmihuhff098xd-360.png",
+      "checkedAt": "2026-10-02T16:16:52.068Z",
+      "kind": "Organization image"
+    },
+    "graphql-foundation": {
+      "path": "/logos/abe5accd63854fba0716.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/bz8lK4PHeuxEVW7wfn9vGjOsHJ5DMdOAVeafZ1yo0kro-tTYJgKPriLO6DtgybXnNQ6uUjaKBBVHZXH7rg6cvsrnJU4nnlw",
+      "checkedAt": "2026-10-02T16:16:52.136Z",
+      "kind": "Organization image"
+    },
+    "green-navigation": {
+      "path": "/logos/6aca79946777daa043c3.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/DcEeK4T4tzqj9U6hsm4k-Bsd9H5mrDPo7VOZ4zAXRVQN0I6LwXfkyMEMbADgjTcmW57pEk3rkVzHjDcWlJuMu6RBRS8fSp4",
+      "checkedAt": "2026-10-02T16:16:52.149Z",
+      "kind": "Organization image"
+    },
+    "gnu-mailman-project": {
+      "path": "/logos/74b4fe97e06c6b3e3c57.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gnu-mailman/cg5sxkouo8rjtjw2-360.png",
+      "checkedAt": "2026-10-02T16:16:52.182Z",
+      "kind": "Organization image"
+    },
+    "grpc": {
+      "path": "/logos/dbec557f56a087de342d.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/PodIa074YoVZQnSBOUczwt9ubSMoI6wuHOHILt4batJpSJzp1K9rq3y6xleifWLBgcI9SmtkBEZsA7_Ag6vckvQG672e2Q",
+      "checkedAt": "2026-10-02T16:16:52.184Z",
+      "kind": "Organization image"
+    },
+    "grr-rapid-response": {
+      "path": "/logos/88e54379139e0517855e.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/9oAVm1kVBef_gKU4Cc0dJkkOZAnIEUdnP5oGij12Up5NBoA--ZrEOiqBt7QevgibIUqxFgK_OFehxfSqInwoHTWniY_s3GwPlFgoAPgqZwP_1w",
+      "checkedAt": "2026-10-02T16:16:52.210Z",
+      "kind": "Organization image"
+    },
+    "gnutls": {
+      "path": "/logos/92cc3ca28c334605ba15.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gnutls/xl8zg8hb6elbg1j4.png",
+      "checkedAt": "2026-10-02T16:16:52.220Z",
+      "kind": "Organization image"
+    },
+    "gvisor": {
+      "path": "/logos/deac9d6bc4a23a3bc207.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/67i_33JFM4ih5X_j_67THr9VDba9TlPP7HYDEI5Z9pOzhMot95CBMb9ygcqFryQe-urdXKPGbDqvgDGBUXz1mAaVHN7D555ffcCjekKGx5ny",
+      "checkedAt": "2026-10-02T16:16:52.241Z",
+      "kind": "Organization image"
+    },
+    "gnu-radio": {
+      "path": "/logos/7559e8c48002675cd456.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gnu-radio/v1g5y6exzlwgfulv-360.png",
+      "checkedAt": "2026-10-02T16:16:52.259Z",
+      "kind": "Organization image"
+    },
+    "gnu-octave": {
+      "path": "/logos/d38514024e68846bd3ba.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gnu-octave/0kc85jo6rl3eo2g0-360.png",
+      "checkedAt": "2026-10-02T16:16:52.264Z",
+      "kind": "Organization image"
+    },
+    "halide": {
+      "path": "/logos/c993e025245d40d75d3d.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/d_WqjV9BKPD1voyOi9cHsmvcso0g7ZrM64byWVK6aMdgg70uYwoknk0xbSkZodrPfyYEsTduI5-6jcBLiJeMxC5t2r8A4wKsa_MIeXGOqAkF",
+      "checkedAt": "2026-10-02T16:16:52.273Z",
+      "kind": "Organization image"
+    },
+    "hazelcast": {
+      "path": "/logos/d379231e1d477cffc4ed.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/r7ugemZ2fI22B5_6ngzQdhgYlXyv3B8xcTHwE9vTcnxWoIAvOei-dxIoS6R6ksClFX0O1jHknEbyEK89hpVFAhbT6mddZ-0",
+      "checkedAt": "2026-10-02T16:16:52.289Z",
+      "kind": "Organization image"
+    },
+    "here-comes-bitcoin": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:52.291Z",
+      "kind": "Organization image"
+    },
+    "hexawallet": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:52.301Z",
+      "kind": "Organization image"
+    },
+    "health-information-systems-programme": {
+      "path": "/logos/39c97ff55f7f01b1b8b5.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/oRe9kPz3kcPnjQlpTvT92A3v3oUoT5_Z_oN_4SYqOmIGPekKT168KZqu2XupxcLScPEiNBIiAmxL4ko-3tYFu6uWuV0A8k0Y",
+      "checkedAt": "2026-10-02T16:16:52.309Z",
+      "kind": "Organization image"
+    },
+    "gnu-project": {
+      "path": "/logos/354d05925995d149b09c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gnu-project-av/aht1h1aunalkojoq-360.png",
+      "checkedAt": "2026-10-02T16:16:52.340Z",
+      "kind": "Organization image"
+    },
+    "illumos-org": {
+      "path": "/logos/6f3a71c39342c8590044.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/2LrctGY6XCtdGS2LOqG1NiguqpMf52KyJWQHkEIBc1we3NM2GYoQUyEZZDFKH-6iN5bX0zBlVOb9WPTHm-OYE7VsilFdlQ",
+      "checkedAt": "2026-10-02T16:16:52.361Z",
+      "kind": "Organization image"
+    },
+    "inclusive-design-institute": {
+      "path": "/logos/a54376608eb12bd258ad.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/XTprn0SsGg4WcXZU0UXeJZ_qSqBCnQ0rZ-TayCndjJoRMVdpddcOTsTeR3SDr0od8Qxo4xzCmqCe4qA-h1HAi_3deWfhzRiN",
+      "checkedAt": "2026-10-02T16:16:52.373Z",
+      "kind": "Organization image"
+    },
+    "google-deepmind": {
+      "path": "/logos/75d78317ab0375f70617.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/google-deepmind-sq/cmdhldmexaj4kpms-360.png",
+      "checkedAt": "2026-10-02T16:16:52.378Z",
+      "kind": "Organization image"
+    },
+    "indic-project": {
+      "path": "/logos/85703edacaa7c844e77b.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/41lr-V9spcB3VXUJbJ1u5varaaApPQSsEPNYBJHM0RcnSJKMbWrrGNUxdQFMD43_2IKLFQAYn2SzJmgz3vzUv_KSlWE3TiFi",
+      "checkedAt": "2026-10-02T16:16:52.387Z",
+      "kind": "Organization image"
+    },
+    "godot-engine": {
+      "path": "/logos/7593cc03fd285dd73d67.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/godot-engine/cggtfgpsfjd23pf0-360.png",
+      "checkedAt": "2026-10-02T16:16:52.402Z",
+      "kind": "Organization image"
+    },
+    "institute-for-artificial-intelligence": {
+      "path": "/logos/fcb7c9b36f203887deb4.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/N4GIct5zS7Z4dZ0WlHZpvFBoJNHYR3OBNcrMKz7uHTXAAbfLheqdFjqUSZJqCLnoJU5JRpbw3tpIkk85BwNI-phsNJKezF4",
+      "checkedAt": "2026-10-02T16:16:52.430Z",
+      "kind": "Organization image"
+    },
+    "inria-foundation": {
+      "path": "/logos/6f8c96fca8ca2ee030b0.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/WNKjpoMWeQuBHnHS8Yi3sORVKFSRGg4OlTtL7cUX4lXsFJkACbH82ZF0L9jHVvkFYG3n3JXk3mvPtbhEuJIEo8JpDgeUaSoX",
+      "checkedAt": "2026-10-02T16:16:52.432Z",
+      "kind": "Organization image"
+    },
+    "grame": {
+      "path": "/logos/6b7cbe7e65530ad1080e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/grame/joff5sziiuapvits-360.png",
+      "checkedAt": "2026-10-02T16:16:52.445Z",
+      "kind": "Organization image"
+    },
+    "institut-fur-angewandte-informatik-infai-e-v": {
+      "path": "/logos/88c6b524f5740851e1a0.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Y79uFbhGMoSQzQEEqzsDDaVpr-W86qL1Lyu4icc0eFr7FrZ79ccIe8KPeVA3Jr70_E6lfzOABKAJ-44IMeHhswgIesoFRmM_",
+      "checkedAt": "2026-10-02T16:16:52.446Z",
+      "kind": "Organization image"
+    },
+    "intermine": {
+      "path": "/logos/ff43b1bd80006770f53c.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/nLqUlbCti7mF0bhmRLoB-4bZAICge6ScN_DbYRSz75qSIhEe0heDD-CSwZtKLjYBVYc_lphqiVku5vrZ5z4cXNejC9KZjOE",
+      "checkedAt": "2026-10-02T16:16:52.494Z",
+      "kind": "Organization image"
+    },
+    "gprmax": {
+      "path": "/logos/438cd2a5ccfbd18cd84e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/gprmax/vm8kavyxz3csja8f-360.png",
+      "checkedAt": "2026-10-02T16:16:52.526Z",
+      "kind": "Organization image"
+    },
+    "internet-systems-consortium": {
+      "path": "/logos/4fba9554f214546931ec.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/t4JetnWDV6gtqVJnb3C32_US8_31ZDGKBkkFido8yFFSApN01eMe-SrIAF9ZDvU6bZ2Pc7mLlP7VeTRQWv7i3IqfB9Hm6nc",
+      "checkedAt": "2026-10-02T16:16:52.579Z",
+      "kind": "Organization image"
+    },
+    "graphite": {
+      "path": "/logos/bdeffc82a7c3646c3805.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/graphite-labs/p5x1ehnbihaxxqoq-360.png",
+      "checkedAt": "2026-10-02T16:16:52.602Z",
+      "kind": "Organization image"
+    },
+    "haskell-org": {
+      "path": "/logos/b48689b3f6bf3d922032.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/haskellorg/ivy7hfguqhoz8onp-360.png",
+      "checkedAt": "2026-10-02T16:16:52.735Z",
+      "kind": "Organization image"
+    },
+    "haiku": {
+      "path": "/logos/fcd81472798b2bf7d049.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/haiku/lnrgd3agfl2kogbo-360.png",
+      "checkedAt": "2026-10-02T16:16:52.842Z",
+      "kind": "Organization image"
+    },
+    "homebrew": {
+      "path": "/logos/1dad1871aff9a19e39dd.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/homebrew/9enfivj2ibae26ot-360.png",
+      "checkedAt": "2026-10-02T16:16:52.900Z",
+      "kind": "Organization image"
+    },
+    "international-neuroinformatics-coordinating-facility": {
+      "path": "/logos/9b2771e3479a6097559c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/incf/gnryoa8kunjogh9a-360.png",
+      "checkedAt": "2026-10-02T16:16:53.009Z",
+      "kind": "Organization image"
+    },
+    "integrated-ocean-observing-system-ioos": {
+      "path": "/logos/442162c260496eecafc8.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/ioos/oe7caipkhwnizoyr-360.png",
+      "checkedAt": "2026-10-02T16:16:53.018Z",
+      "kind": "Organization image"
+    },
+    "intel-media-and-audio-for-linux": {
+      "path": "/logos/47636c1aee786991982f.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/intel-video-and-audio-for-linux/u8hffydro4hyexxd-360.png",
+      "checkedAt": "2026-10-02T16:16:53.056Z",
+      "kind": "Organization image"
+    },
+    "internet-health-report": {
+      "path": "/logos/2cb4ae78d329cd73d120.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/internet-health-report/lifcnmh2qkq9cl5o-360.png",
+      "checkedAt": "2026-10-02T16:16:53.132Z",
+      "kind": "Organization image"
+    },
+    "internet-archive": {
+      "path": "/logos/523bd7f7f3a849c8322c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/internet-archive/uzbgzbb9tvp81c2i.png",
+      "checkedAt": "2026-10-02T16:16:53.139Z",
+      "kind": "Organization image"
+    },
+    "jam": {
+      "path": "/logos/a30868d8bc81a4e50427.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/100895038",
+      "checkedAt": "2026-10-02T16:16:53.149Z",
+      "kind": "Organization image"
+    },
+    "humanai": {
+      "path": "/logos/9285a2024f5d2763ab4a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/humanai/n5oaqivpu4hu4alm-360.png",
+      "checkedAt": "2026-10-02T16:16:53.154Z",
+      "kind": "Organization image"
+    },
+    "jgrapht": {
+      "path": "/logos/cecd4045bde657d7521c.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/1auQDZb--CkyO61mmkOnmovUxWAqFi_PnYXg3l__I-ok0uhmXhtc8zaYJ848c2pvhl3WhzPFXCWtJmJ7hF_ezSWoU1wa2OMM",
+      "checkedAt": "2026-10-02T16:16:53.193Z",
+      "kind": "Organization image"
+    },
+    "invesalius": {
+      "path": "/logos/3628ec34297394e1bd37.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/invesalius/ktlk8dmldhfmlyb2-360.png",
+      "checkedAt": "2026-10-02T16:16:53.220Z",
+      "kind": "Organization image"
+    },
+    "ivy-lets-unify-ai": {
+      "path": "/logos/7e4d7d54f54a540f1328.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/ivy-lets-unifyai/zlfatiyvgun6ec6e-360.png",
+      "checkedAt": "2026-10-02T16:16:53.254Z",
+      "kind": "Organization image"
+    },
+    "inkscape": {
+      "path": "/logos/c5d2853f4515fa8fc1e1.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/inkscape/qiomrjtmocpmomjf-360.png",
+      "checkedAt": "2026-10-02T16:16:53.318Z",
+      "kind": "Organization image"
+    },
+    "jabref": {
+      "path": "/logos/907b49ca682ed8cf6a42.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/jabref-ev/ylevworrwqf9bw9g-360.png",
+      "checkedAt": "2026-10-02T16:16:53.339Z",
+      "kind": "Organization image"
+    },
+    "jquery-foundation": {
+      "path": "/logos/9b4605eb61bd4f813242.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/3y_twCisHNday397Rh2bgpt0BMwEATMtgr6MxmhH_mT_HT_mqCKRULvmYK7FJLar9czJhWnh_LRCk3_vguTf9LkXMDUcsEQ",
+      "checkedAt": "2026-10-02T16:16:53.394Z",
+      "kind": "Organization image"
+    },
+    "jsk-robotics-laboratory": {
+      "path": "/logos/949d12ddf4e233c47155.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/V4f6Ny9M9DvdfuMAgmU_c1SHVpdy5ZK1KuTU9mL-2Y_xF2UgLZzXXilamzydEwVKYsfku91UpC2fKvPdOSh0aIFLrA1u_w",
+      "checkedAt": "2026-10-02T16:16:53.516Z",
+      "kind": "Organization image"
+    },
+    "java-pathfinder-team": {
+      "path": "/logos/580780406e504e2058a0.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-jpf-team-hg/rvqtnz4hyojrfgvw.png",
+      "checkedAt": "2026-10-02T16:16:53.536Z",
+      "kind": "Organization image"
+    },
+    "joinmarket": {
+      "path": "/logos/e1b9af2cdd310d979368.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/14207068",
+      "checkedAt": "2026-10-02T16:16:53.548Z",
+      "kind": "Organization image"
+    },
+    "jboss-community": {
+      "path": "/logos/edac18edfe1f0d430408.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/jboss-community/vno1fifehc0i6aa6-360.png",
+      "checkedAt": "2026-10-02T16:16:53.584Z",
+      "kind": "Organization image"
+    },
+    "k-9-mail": {
+      "path": "/logos/48d6b434aad7150f0143.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/krjdwXw2oDdYr4CiiHmacAQfX7YwdVbKxXofGWXcb5BljoNWIV0Z2OJz3HvKkPMktuU3EY3dWbhQ7ulqQiDGPyVj_WjJQ-HH",
+      "checkedAt": "2026-10-02T16:16:53.602Z",
+      "kind": "Organization image"
+    },
+    "jderobot-universidad-rey-juan-carlos": {
+      "path": "/logos/9a198c87873ba05def64.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/jderobot/xwu8zkcagffmlqdj-360.png",
+      "checkedAt": "2026-10-02T16:16:53.633Z",
+      "kind": "Organization image"
+    },
+    "jax-and-keras": {
+      "path": "/logos/b94d70a1751e65326ef4.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/jax-and-keras/7czut6i8nmxbyzkp-360.png",
+      "checkedAt": "2026-10-02T16:16:53.659Z",
+      "kind": "Organization image"
+    },
+    "kapitan": {
+      "path": "/logos/779ffaa38cb9558109af.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/zircNwClG3cGy7dWVs4jsWn1-wjodnztl3mBi-n6jPXGmME1cz6uFSQFmPrdthHI97lbraFMOeE9K8p6S-tooPbFcyauDpaX",
+      "checkedAt": "2026-10-02T16:16:53.660Z",
+      "kind": "Organization image"
+    },
+    "jenkins-project": {
+      "path": "/logos/ddb9278e4a7e2bf2f5d9.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/jenkins-wp/7qlgfron9nyj194y-360.png",
+      "checkedAt": "2026-10-02T16:16:53.726Z",
+      "kind": "Organization image"
+    },
+    "jina-ai": {
+      "path": "/logos/43a20abf52912ba430f1.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/jina-ai-sb/fzfhdw1ifhstruln-360.png",
+      "checkedAt": "2026-10-02T16:16:53.729Z",
+      "kind": "Organization image"
+    },
+    "knime": {
+      "path": "/logos/9e2e1f2455cf293e8549.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/iH0Kbp7-kU_YMY4NSPqhkc8PTJn5BVK3g6o92I7lkcVDNyqB4sWgVd8GKzKPCAak4nlrpUrT6cY73BQl_TfzbbyCcAGGCaY",
+      "checkedAt": "2026-10-02T16:16:53.776Z",
+      "kind": "Organization image"
+    },
+    "joomla": {
+      "path": "/logos/d9c8d96e96d2ffd1a223.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/joomla/dwntn9vfd52jkr9z.png",
+      "checkedAt": "2026-10-02T16:16:53.809Z",
+      "kind": "Organization image"
+    },
+    "jitsi": {
+      "path": "/logos/ee049c77d6e81786159e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/jitsi/p3456ygkk7vdq0or-360.png",
+      "checkedAt": "2026-10-02T16:16:53.853Z",
+      "kind": "Organization image"
+    },
+    "joplin": {
+      "path": "/logos/54ed875dd8a969ef2fed.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/joplin/0b4z6iftngd1afrp-360.png",
+      "checkedAt": "2026-10-02T16:16:53.912Z",
+      "kind": "Organization image"
+    },
+    "jenkins-x": {
+      "path": "/logos/1cfa80738d8adf15379d.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/jenkins-x/jjkyxgzeyje2m2hr-360.png",
+      "checkedAt": "2026-10-02T16:16:54.052Z",
+      "kind": "Organization image"
+    },
+    "json-schema": {
+      "path": "/logos/1e7eea7517e65f2f1c3c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/json-schema/d3qfjxegxnlrfysi.png",
+      "checkedAt": "2026-10-02T16:16:54.095Z",
+      "kind": "Organization image"
+    },
+    "kde-community": {
+      "path": "/logos/e267ab5b1c3ac1de7736.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kde-community/1mbnnsqwd2ejcmy8-360.png",
+      "checkedAt": "2026-10-02T16:16:54.205Z",
+      "kind": "Organization image"
+    },
+    "kiwix": {
+      "path": "/logos/f88017089e066816dea0.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kiwix/b6zuffwiyoulh0ku-360.png",
+      "checkedAt": "2026-10-02T16:16:54.215Z",
+      "kind": "Organization image"
+    },
+    "lampo": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:54.245Z",
+      "kind": "Organization image"
+    },
+    "kart-project": {
+      "path": "/logos/3124190997b08079ed73.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kart-project/mtb71mb4pzybzrp5-360.png",
+      "checkedAt": "2026-10-02T16:16:54.254Z",
+      "kind": "Organization image"
+    },
+    "languagetool-org": {
+      "path": "/logos/7836d97a17dadf668099.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/1r4hXN5QZPYz4OQt89c6TTc18tP_C2OpV3gnpaS6c6xHh2T8UtGURUTZ99EI4MDMrTl9r453uP0eNUl_xakmjIWuD7qshCG5",
+      "checkedAt": "2026-10-02T16:16:54.296Z",
+      "kind": "Organization image"
+    },
+    "keptn": {
+      "path": "/logos/2d0823c1429262be3f64.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/keptn/ey8vcewiadqdgplv-360.png",
+      "checkedAt": "2026-10-02T16:16:54.303Z",
+      "kind": "Organization image"
+    },
+    "keploy": {
+      "path": "/logos/ee22c7a2dfb7b4f521f0.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/keploy/txoec8qr8fyegtmv-360.png",
+      "checkedAt": "2026-10-02T16:16:54.351Z",
+      "kind": "Organization image"
+    },
+    "kolibrios": {
+      "path": "/logos/45b57b5363dcfd8ef0d4.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kolibrios-project-team/mrtxpzuxixjqff62-360.png",
+      "checkedAt": "2026-10-02T16:16:54.390Z",
+      "kind": "Organization image"
+    },
+    "kornia": {
+      "path": "/logos/a1cdb9f26583d95bdb90.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kornia/p4e366l478clqvvg-360.png",
+      "checkedAt": "2026-10-02T16:16:54.399Z",
+      "kind": "Organization image"
+    },
+    "kotlin-foundation": {
+      "path": "/logos/7d6159c71050c4927c0d.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kotlin-foundation/2wyghqyy8nvvl4cq-360.png",
+      "checkedAt": "2026-10-02T16:16:54.418Z",
+      "kind": "Organization image"
+    },
+    "ledger-bitcoin-app": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:54.446Z",
+      "kind": "Organization image"
+    },
+    "kro-kube-resource-orchestrator": {
+      "path": "/logos/a4bfc67996333964ba88.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kro-kube-resource-orchestrator/qf9flxp0iswvhnli-360.png",
+      "checkedAt": "2026-10-02T16:16:54.455Z",
+      "kind": "Organization image"
+    },
+    "konflux": {
+      "path": "/logos/33eea5cda6282c3fa638.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/konflux/7znpk8j83biro6rn.png",
+      "checkedAt": "2026-10-02T16:16:54.462Z",
+      "kind": "Organization image"
+    },
+    "libbitcoin": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:54.462Z",
+      "kind": "Organization image"
+    },
+    "libre-space-foundation": {
+      "path": "/logos/1eaf47fc767657d62baf.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/yKTJiijknIgJKL-5LXojkyi-tOdVdrZW1ztAlWaPPMM0_X0r_olR9hNakkrVsjHMiortPpajGakaosnfDbU5G6GJEPHGOdoe5BdUpkHNR18",
+      "checkedAt": "2026-10-02T16:16:54.503Z",
+      "kind": "Organization image"
+    },
+    "ldk": {
+      "path": "/logos/b04eeca64aa73f452b3c.jpg",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/49367625",
+      "checkedAt": "2026-10-02T16:16:54.659Z",
+      "kind": "Organization image"
+    },
+    "kubeflow": {
+      "path": "/logos/d3fc273b71eb96a34590.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kubeflow/uqphmd1y7opxpjim-360.png",
+      "checkedAt": "2026-10-02T16:16:54.663Z",
+      "kind": "Organization image"
+    },
+    "libsecp256k1": {
+      "path": "/logos/fabc50c693f00b7629ad.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/528860",
+      "checkedAt": "2026-10-02T16:16:54.700Z",
+      "kind": "Organization image"
+    },
+    "kubevirt": {
+      "path": "/logos/fadfa29ed0ab1b7d0d2f.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kubevirt/pqdi8ojm0atxoo1s-360.png",
+      "checkedAt": "2026-10-02T16:16:54.709Z",
+      "kind": "Organization image"
+    },
+    "lappis": {
+      "path": "/logos/cba3c3523c0858504c2d.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/lappis/o9wx8njgmzlcug4n-360.png",
+      "checkedAt": "2026-10-02T16:16:54.837Z",
+      "kind": "Organization image"
+    },
+    "lablua": {
+      "path": "/logos/ab89c43fb646f86f7a15.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/lablua/thpyrwywpx4z6p6s.png",
+      "checkedAt": "2026-10-02T16:16:54.853Z",
+      "kind": "Organization image"
+    },
+    "linkerd": {
+      "path": "/logos/527808c0ecabfb42e715.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/OC5OtAHv88jewoffOwBhWygdW4jb-33_nrW_BGZSol_KnQGNLwuQg51nvG89fjCqXNl5Ry82c6txYdW3xzBknr41sJ4PHio",
+      "checkedAt": "2026-10-02T16:16:54.900Z",
+      "kind": "Organization image"
+    },
+    "learning-unlimited": {
+      "path": "/logos/d034e53e399d171cea7d.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/learning-unlimited/prqi7cnmji8guahm-360.png",
+      "checkedAt": "2026-10-02T16:16:54.912Z",
+      "kind": "Organization image"
+    },
+    "ln-capital": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:54.938Z",
+      "kind": "Organization image"
+    },
+    "ln-history": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:54.958Z",
+      "kind": "Organization image"
+    },
+    "learning-equality": {
+      "path": "/logos/38c51581a5b6b9b5d5ca.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/learning-equality/iptmmzjiktknrg9p-360.png",
+      "checkedAt": "2026-10-02T16:16:54.959Z",
+      "kind": "Organization image"
+    },
+    "leap-encryption-access-project": {
+      "path": "/logos/8ab371ac3bdb635369ef.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/leap-encryption-access-project/rd167bcc545zvv8w-360.png",
+      "checkedAt": "2026-10-02T16:16:54.976Z",
+      "kind": "Organization image"
+    },
+    "lnprototest": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:55.002Z",
+      "kind": "Organization image"
+    },
+    "lightning-network": {
+      "path": "/logos/11c7963b86777ab8f1e5.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/26930280",
+      "checkedAt": "2026-10-02T16:16:55.003Z",
+      "kind": "Organization image"
+    },
+    "lnd": {
+      "path": "/logos/11c7963b86777ab8f1e5.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/26930280",
+      "checkedAt": "2026-10-02T16:16:55.003Z",
+      "kind": "Organization image"
+    },
+    "lowrisc": {
+      "path": "/logos/c9e451ab197921d76b54.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/nXwbNqY-sFoaSOqayF8cQozzvByH5OO1523rq2G1g1LY99QjrwnBOSxRTBdpzljlgde9flGHfs-usWVQp6MYOWkF3xjMpRI",
+      "checkedAt": "2026-10-02T16:16:55.024Z",
+      "kind": "Organization image"
+    },
+    "librehealth": {
+      "path": "/logos/6d9c1f8f54c2cd7dfd17.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/librehealth/wulnuhdjtsi0ngiv-360.png",
+      "checkedAt": "2026-10-02T16:16:55.032Z",
+      "kind": "Organization image"
+    },
+    "luarocks": {
+      "path": "/logos/ed119cb12daad5a6095b.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/ypThkrucQO6m-pLzB3Xz-D_fmqtnswRC6jmVEHIl8n-1fbWZQtfdvDOUltTNd-Sd3fQiV6uoPLa310yo4gu5hKZn4G1xxD8",
+      "checkedAt": "2026-10-02T16:16:55.036Z",
+      "kind": "Organization image"
+    },
+    "libcamera": {
+      "path": "/logos/199bbe5d6c23fec5e1fd.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/libcamera/p4cgbqxrhkw3igiv-360.png",
+      "checkedAt": "2026-10-02T16:16:55.038Z",
+      "kind": "Organization image"
+    },
+    "librecube-initiative": {
+      "path": "/logos/502ce26175707d428c56.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/librecube-initiative/zkfjswciuihmdxu1-360.png",
+      "checkedAt": "2026-10-02T16:16:55.053Z",
+      "kind": "Organization image"
+    },
+    "mapaction": {
+      "path": "/logos/20f0fc52640535056691.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/MpkPZV1TvcvM6J2Nt7bd63yGfdHcEeFeIsBNX0nl7SU3e1Cx19ADySgpC2ugpGO5kxgg9jI09BkBbrP5iDmo9EtC66drxdPg6jYTrYewG7of",
+      "checkedAt": "2026-10-02T16:16:55.094Z",
+      "kind": "Organization image"
+    },
+    "libreoffice": {
+      "path": "/logos/9aa2d49ea49cde6e2f4c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/libreoffice/3g60m1gvsyzwzvvk-360.png",
+      "checkedAt": "2026-10-02T16:16:55.108Z",
+      "kind": "Organization image"
+    },
+    "libssh": {
+      "path": "/logos/a1155db2cc1b70328ca3.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/libssh/kcfc8lhxh3uyozbu-360.png",
+      "checkedAt": "2026-10-02T16:16:55.255Z",
+      "kind": "Organization image"
+    },
+    "mcgill-space-institute": {
+      "path": "/logos/2587c3ff256eacfab040.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/xYPOD3cQUrdMoAZDukxGEtyUuRyMYYKE0H1z4XCbDn_0RrwcYdD2MtIBjJilqquJF4mT26vbo74tJB5gmEuEqFnAEbI0_MU",
+      "checkedAt": "2026-10-02T16:16:55.315Z",
+      "kind": "Organization image"
+    },
+    "libvirt": {
+      "path": "/logos/6b8dc37b75013c96cf5c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/libvirt/8xb4f5zwejage5pf-360.png",
+      "checkedAt": "2026-10-02T16:16:55.355Z",
+      "kind": "Organization image"
+    },
+    "media-cloud": {
+      "path": "/logos/bb49d335511bbee83d41.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/mBXUpKgF6XBRXAGdU9qKEnXF8nn6WqEtsNF2SgGg9SRZGZUWbdwkOg6vd3poGjfxNkCsLOHeqcX8busN0vJllsvqBPK0ZX5G9ssu65nh19Sr",
+      "checkedAt": "2026-10-02T16:16:55.436Z",
+      "kind": "Organization image"
+    },
+    "liquid-galaxy-project": {
+      "path": "/logos/59eaae9dc275a838bc66.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/liquid-galaxy-project/idbd8hebl6j7ajxn-360.png",
+      "checkedAt": "2026-10-02T16:16:55.507Z",
+      "kind": "Organization image"
+    },
+    "mediapipe": {
+      "path": "/logos/2888e32547d92a1e72cb.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/WRv3Ylxmbfpn_uG9BwUj5j3d6OqT3yavzflhOzFU1peN48OM9hGctXhKup2C1ansJiCm23WZ5pUe6oeUtn6Mn-OTpefqbTrATQfp9YpTAbHD",
+      "checkedAt": "2026-10-02T16:16:55.530Z",
+      "kind": "Organization image"
+    },
+    "mathesar": {
+      "path": "/logos/44d52c8b5f7b679b7765.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mathesar/v96apwcwn80c3uch-360.png",
+      "checkedAt": "2026-10-02T16:16:55.574Z",
+      "kind": "Organization image"
+    },
+    "malariagen": {
+      "path": "/logos/a86f3bb429aa82dfead6.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/malariagen/8dgzolp37fdiwm5h-360.png",
+      "checkedAt": "2026-10-02T16:16:55.612Z",
+      "kind": "Organization image"
+    },
+    "mantis": {
+      "path": "/logos/cafdb8cc46755dc7f77c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mantis/qvsvnpozgrydjrxi-360.png",
+      "checkedAt": "2026-10-02T16:16:55.624Z",
+      "kind": "Organization image"
+    },
+    "mbdyn-department-of-aerospace-science-and-technology-at-politecnico-di-milano": {
+      "path": "/logos/f9b94e7c7a3f749d0a2f.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mbdyn/ambfdghkrcyizd8l-360.png",
+      "checkedAt": "2026-10-02T16:16:55.631Z",
+      "kind": "Organization image"
+    },
+    "mautic": {
+      "path": "/logos/11ebb739f4688b03199e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mautic/p77ddc1xxldz2elv-360.png",
+      "checkedAt": "2026-10-02T16:16:55.642Z",
+      "kind": "Organization image"
+    },
+    "matrix-org": {
+      "path": "/logos/fda404441ea5d1f72df6.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/matrixorg/nyk4qwnzpfwcezz5-360.png",
+      "checkedAt": "2026-10-02T16:16:55.646Z",
+      "kind": "Organization image"
+    },
+    "mayor-s-office-of-new-urban-mechanics-city-of-boston": {
+      "path": "/logos/f4ebfd1134a61e386180.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mayors-office-of-new-urban-mechanics/nu2mgneanw1efocb-360.png",
+      "checkedAt": "2026-10-02T16:16:55.655Z",
+      "kind": "Organization image"
+    },
+    "mggg-redistricting-lab": {
+      "path": "/logos/f0d4874cf237f666a3fa.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/9xQlcXz44y1uWkk2sE8WCIVXRf8bRYtxsGj9AHxn6CJ2Jqag10Rx7RVFpo_eSngn2W_e5Jdaw34FDhRaHwrsk-bI190NSv_QZ2oWQ0ATeN0k",
+      "checkedAt": "2026-10-02T16:16:55.696Z",
+      "kind": "Organization image"
+    },
+    "microkernel-devroom": {
+      "path": "/logos/170d90792ec27a089931.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/XeXZIspaZAf8QZNUxWJBehgrnCcvKiy5WIAja2N9AEGcaQC81kS1lzPkh38BYkJJMkPBVTUmAvMoBAAMnQX-Lw-AgxE19Ab0",
+      "checkedAt": "2026-10-02T16:16:55.729Z",
+      "kind": "Organization image"
+    },
+    "machine-learning-for-science-ml4sci-umbrella-organization": {
+      "path": "/logos/04ae8ee20655e08471c2.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/machine-learning-for-science-ml4sci/rs5cxhuyh9dpwekt-360.png",
+      "checkedAt": "2026-10-02T16:16:55.741Z",
+      "kind": "Organization image"
+    },
+    "mariadb": {
+      "path": "/logos/65bd8b746d90cc3edcc9.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mariadb/0nbzguld3ntsgeqv-360.png",
+      "checkedAt": "2026-10-02T16:16:55.787Z",
+      "kind": "Organization image"
+    },
+    "mempool": {
+      "path": "/logos/b927e4da7f91ce0c9249.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/82188674",
+      "checkedAt": "2026-10-02T16:16:55.827Z",
+      "kind": "Organization image"
+    },
+    "mdanalysis": {
+      "path": "/logos/83e04e22c8c97c61e5ca.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mdanalysis/kf8rugznsqeskumi-360.png",
+      "checkedAt": "2026-10-02T16:16:55.935Z",
+      "kind": "Organization image"
+    },
+    "mobile-robot-programming-toolkit-mrpt": {
+      "path": "/logos/c53c679fccd7146a7bd1.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/w2l4mVMo8PxUGi4V63Zd6mHHOeUc1k1lewYp4bPyltlnLgbvNuVlZJG4MdPW9AxnQ52AJu_t8DFtPTYU--17Tjc99sxqNqw",
+      "checkedAt": "2026-10-02T16:16:55.991Z",
+      "kind": "Organization image"
+    },
+    "modsecurity": {
+      "path": "/logos/85bafa63af68b4eb1b6d.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/bbraUY_kSKjJuWLwpBERcy5TPV8xlVudlVqLDHRZtOENox8UB1iH2QjxyxsVGwCM5a26YdE9zznCAor94xMhtqebI7vc6Bo",
+      "checkedAt": "2026-10-02T16:16:56.064Z",
+      "kind": "Organization image"
+    },
+    "meshery": {
+      "path": "/logos/52f5037081fa94418162.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/meshery/4ywkbdszwd1sw2rq-360.png",
+      "checkedAt": "2026-10-02T16:16:56.159Z",
+      "kind": "Organization image"
+    },
+    "metaflow": {
+      "path": "/logos/2ac3a2df42393bc9f937.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/metaflow/lxpx64opqtnss7yx-360.png",
+      "checkedAt": "2026-10-02T16:16:56.206Z",
+      "kind": "Organization image"
+    },
+    "metabrainz-foundation": {
+      "path": "/logos/2b4fa1ec46cd3f108f2f.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/metabrainz-foundation-inc/m7lax42edddowwnl-360.png",
+      "checkedAt": "2026-10-02T16:16:56.237Z",
+      "kind": "Organization image"
+    },
+    "metacall": {
+      "path": "/logos/69320d4a410043760449.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/metacall/rezoq3uue7dpdzw5-360.png",
+      "checkedAt": "2026-10-02T16:16:56.254Z",
+      "kind": "Organization image"
+    },
+    "moira": {
+      "path": "/logos/4ca78e045db8e32f2f76.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/St549uV6D0eslwOwI2SyLFzn7fMDknX0P5p8EBkxVXwsKe_mDDLaWr7BYvo731-Zb6LrCDwPblOxbEKBpm8VxUAVyFRQN6t-",
+      "checkedAt": "2026-10-02T16:16:56.260Z",
+      "kind": "Organization image"
+    },
+    "metasploit": {
+      "path": "/logos/4325c6f18e6b4ce614b5.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/metasploit/ggisatrqgjavuwd7-360.png",
+      "checkedAt": "2026-10-02T16:16:56.271Z",
+      "kind": "Organization image"
+    },
+    "mifos-initiative": {
+      "path": "/logos/d6a2819b9f68c500208e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-mifos-initiative/etmiqn0lkvfxvm5p-360.png",
+      "checkedAt": "2026-10-02T16:16:56.287Z",
+      "kind": "Organization image"
+    },
+    "mit-media-lab": {
+      "path": "/logos/de271e4921aa0c15dc25.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mit-app-inventor/8ppq0spvr3j3gx8q-360.png",
+      "checkedAt": "2026-10-02T16:16:56.289Z",
+      "kind": "Organization image"
+    },
+    "micro-electronics-research-lab-uitu": {
+      "path": "/logos/d240f9acb047fd6c9471.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/micro-electronics-research-lab-uitu/el9byq6f4dfc1y77-360.png",
+      "checkedAt": "2026-10-02T16:16:56.307Z",
+      "kind": "Organization image"
+    },
+    "moodle": {
+      "path": "/logos/840ee38fa279f7c806d1.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/tVi2arz1wSGuftyHK1NkpIeie1tbz3lNTJxiHXS0TldjWfgCP95-JTckc-DW-7Uh0j3mRGJf_vDpf36dgFiwIlg3y5bhBXfp",
+      "checkedAt": "2026-10-02T16:16:56.342Z",
+      "kind": "Organization image"
+    },
+    "movingblocks": {
+      "path": "/logos/521a1c1dda393e72b328.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/M0PBCc2Ddh0Ld7fkCNbaZdH-0yAdu9lgG3d39rmhGQstkM-gXLaN_C5DPPBD8TnOqkKI4GqMU7VbuAj_Qo0onNzCne6wxEANQbx5AzkhPG6_",
+      "checkedAt": "2026-10-02T16:16:56.345Z",
+      "kind": "Organization image"
+    },
+    "mono-project": {
+      "path": "/logos/a62affee06a884be4959.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Wnx2UKIIjXTvvrIgRrPHvnIbw6WXjSbBGOleTchd-Kv0D9gbrdmf21-x9IpyXYONEza_KVi1TkwcIiyUpn8kOQV2wD3PGmo",
+      "checkedAt": "2026-10-02T16:16:56.347Z",
+      "kind": "Organization image"
+    },
+    "mixxx-dj-software": {
+      "path": "/logos/43de05c34d63faaabef7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mixxx/ivlj1kl8jabpmfs9-360.png",
+      "checkedAt": "2026-10-02T16:16:56.385Z",
+      "kind": "Organization image"
+    },
+    "mypy": {
+      "path": "/logos/640546363758c23caf3c.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/2bM_s0FVQzih2JJf2lHkVOaeRxvH8LnB8Y54s7kVnNGrh5YzWYxPMbBg0ijMV2c05Vz-LJ3gkIcsLd3RaMrqg5Q6YddhtDPUbCmNwn4Q-u49",
+      "checkedAt": "2026-10-02T16:16:56.395Z",
+      "kind": "Organization image"
+    },
+    "mlpack-a-scalable-c-machine-learning-library": {
+      "path": "/logos/c344eeb667b31200fc10.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mlpack/gs9xn22l8vefyvhh-360.png",
+      "checkedAt": "2026-10-02T16:16:56.424Z",
+      "kind": "Organization image"
+    },
+    "mozilla": {
+      "path": "/logos/905ebdf6fea4d4feaa84.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/v2ra_3qtUJJNbGmGrsnqw2xVpfWQLL2Xr6KUHr3ah4_aP8F37Ylm-1nuPDl33bwHKruUD5OEJ_Doa6VGmYWT_paWKA40g6k3",
+      "checkedAt": "2026-10-02T16:16:56.475Z",
+      "kind": "Organization image"
+    },
+    "named-data-networking-project": {
+      "path": "/logos/a931ee29e392a62ab7b7.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/xkQpjOYnfflUCW0ZdNDW3IMvyVB_1oq7XFWCDkxCkEwihelm44Wg5veYUpVFBkVn1UqedlNvAUpIJzg0ak_hB5l3PUXMJw",
+      "checkedAt": "2026-10-02T16:16:56.502Z",
+      "kind": "Organization image"
+    },
+    "mllam": {
+      "path": "/logos/b4f6fcd53684df004f32.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mllam/ltm3mtlosvdcrw0c.png",
+      "checkedAt": "2026-10-02T16:16:56.511Z",
+      "kind": "Organization image"
+    },
+    "navidrome": {
+      "path": "/logos/dff2e03f4dee5f0595a2.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/y873A4ZT7B_Uic1kArXJQXzofatM0HaQoFAJjVfJrPuQwtV0vMizh-kvW_v0ixlm99wwIb9u6OcKEWrrMrBb0yFVQbkJ5cmi3QWEaRqbuqc1",
+      "checkedAt": "2026-10-02T16:16:56.556Z",
+      "kind": "Organization image"
+    },
+    "netfilter-project": {
+      "path": "/logos/d6fc34aad15150b7a3c3.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/PXmFpc9huYwQ7dPtTUuAHE3wiw1Kd4hEZwm25wicFtGaF5Yy5pxhyoDvqnLr243AP-CVZ-9_CQJmnoimUsFjjNomUYYJoHTm",
+      "checkedAt": "2026-10-02T16:16:56.568Z",
+      "kind": "Organization image"
+    },
+    "netty": {
+      "path": "/logos/288f649f5d24670c9e37.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/27iH7LkW_01hQarGnCxs2vY36zcIObRcog6ek5PXIV1Bd-wO5RaYf_aeavWUgHebuhJzyTjPQbxl69QseV6XjEgc8DDiYHU",
+      "checkedAt": "2026-10-02T16:16:56.625Z",
+      "kind": "Organization image"
+    },
+    "moganlab": {
+      "path": "/logos/f405d9c6816faf1d6ae8.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/moganlab/tuz5k2kmoivlkods-360.png",
+      "checkedAt": "2026-10-02T16:16:56.782Z",
+      "kind": "Organization image"
+    },
+    "mofa-org": {
+      "path": "/logos/690b1e8fab657f87863f.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mofa-org/fa7e34trht3ou7yo-360.png",
+      "checkedAt": "2026-10-02T16:16:56.793Z",
+      "kind": "Organization image"
+    },
+    "moja-global": {
+      "path": "/logos/fed04fd87e3d86a14767.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/moja-global/jcd7uys3qjvi0guo-360.png",
+      "checkedAt": "2026-10-02T16:16:56.825Z",
+      "kind": "Organization image"
+    },
+    "monado": {
+      "path": "/logos/5710a09fe5c227e208bd.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/monado/uch9jarqbeko6nep-360.png",
+      "checkedAt": "2026-10-02T16:16:56.842Z",
+      "kind": "Organization image"
+    },
+    "moveit": {
+      "path": "/logos/e90283ace19bea09214b.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/moveit/zmatlwnrrfqcdsjo-360.png",
+      "checkedAt": "2026-10-02T16:16:56.869Z",
+      "kind": "Organization image"
+    },
+    "node-lightning": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:56.880Z",
+      "kind": "Organization image"
+    },
+    "nmap-security-scanner": {
+      "path": "/logos/115b0b2edcb9d6513213.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/lQ6DoH3aMVO2MR3rpw0gAQNFybSqZ1VkFXb1rBy0GAtKT0Xm-PM-Vdq3hY29BlgkIVphh_YeZP-oBL4g45yhpzPDupN7Qg",
+      "checkedAt": "2026-10-02T16:16:56.912Z",
+      "kind": "Organization image"
+    },
+    "nostr-components": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:56.916Z",
+      "kind": "Organization image"
+    },
+    "mzmine": {
+      "path": "/logos/690de3f97ffe37e65d50.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mzmine/jssbvby4wpz38go8-360.png",
+      "checkedAt": "2026-10-02T16:16:56.929Z",
+      "kind": "Organization image"
+    },
+    "musescore": {
+      "path": "/logos/4325f6ac1173df4effde.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/musescore/tgkjkzlqhj0qru5z.png",
+      "checkedAt": "2026-10-02T16:16:56.932Z",
+      "kind": "Organization image"
+    },
+    "mzmine-and-ms-dial": {
+      "path": "/logos/b377497b53af3acfd9b7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/mzmine-and-ms-dial/pdqwksmlm0rn7hwq-360.png",
+      "checkedAt": "2026-10-02T16:16:56.943Z",
+      "kind": "Organization image"
+    },
+    "nv-access": {
+      "path": "/logos/989252c5d1539377de51.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/R8PoVA1d2FhpRtRzpiQsmbxJbkxFcnTZFRCBCP7QJGPcRPzX7XukICQvGHoGrHBHcmJ8f_bIO__XIXGZBW6Bxux-hiXDBuM",
+      "checkedAt": "2026-10-02T16:16:56.965Z",
+      "kind": "Organization image"
+    },
+    "national-resource-for-network-biology-nrnb": {
+      "path": "/logos/871f0a8c0a19cc7fe436.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/national-resource-for-network-biology-nrnb/5uobjboaxnzrxyoj-360.png",
+      "checkedAt": "2026-10-02T16:16:57.054Z",
+      "kind": "Organization image"
+    },
+    "open-data-kit": {
+      "path": "/logos/ec6305e25e872cf8e295.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/7h3l-fCdh1-5UYr-X5JyVB2kbH--nb3MA5HrkO9TLzW2gW4lG9vZoT3x4PdEIRzvY8KJnsgDRAQQj6tIcBjSqqMiAKVwLE8",
+      "checkedAt": "2026-10-02T16:16:57.129Z",
+      "kind": "Organization image"
+    },
+    "neovim": {
+      "path": "/logos/2bf2d06993cf1de49b9a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/neovim/wsjrusphcrjmo5tf-360.png",
+      "checkedAt": "2026-10-02T16:16:57.159Z",
+      "kind": "Organization image"
+    },
+    "open-detection": {
+      "path": "/logos/141609283c9db535f5ee.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/iQnB3bLxuBT0oQgjrJtWgD6FjJpenOT8crAYRRDnwfkBxDMqEVIFqaba4lPfNSCPCKeWyu1Lf0orHbVQ_EaSL8dA8NiY6g",
+      "checkedAt": "2026-10-02T16:16:57.186Z",
+      "kind": "Organization image"
+    },
+    "open-ephys": {
+      "path": "/logos/768594cf790413171381.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/ixQqTj80C233Z7hVvQEI47UOUzmJd7iq6aKKg741y5mzuPc_xz69VynNdaEZasoVMINgNWplp2rXn5FkEIw7i7MPJtVkDGQ",
+      "checkedAt": "2026-10-02T16:16:57.224Z",
+      "kind": "Organization image"
+    },
+    "neuroinformatics-unit": {
+      "path": "/logos/905d3f2383798bc1b1b4.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/neuroinformatics-unit/ebzgcbxkxvbe9igk.png",
+      "checkedAt": "2026-10-02T16:16:57.250Z",
+      "kind": "Organization image"
+    },
+    "nixos-foundation": {
+      "path": "/logos/f7e39fa9f3f92e6b9b75.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/nixos-foundation/kvnnwp7viwupdsep.png",
+      "checkedAt": "2026-10-02T16:16:57.327Z",
+      "kind": "Organization image"
+    },
+    "neutralinojs": {
+      "path": "/logos/5fd97b979d9b4e404449.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/neutralinojs/thloxs47w1aa1uts-360.png",
+      "checkedAt": "2026-10-02T16:16:57.339Z",
+      "kind": "Organization image"
+    },
+    "open-roberta": {
+      "path": "/logos/5f7a4e4d1507cc3922e9.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/TihjVj3TcdATW2AuNmSCtSYsYYjwtvFdqsNA3nQs2eH0IDOUBM6iFEhPfOPgDN0OsD9T6p-cTcfsYtYKJ5UbdHjIKkCaaPPQp3wMn71HDq0R",
+      "checkedAt": "2026-10-02T16:16:57.382Z",
+      "kind": "Organization image"
+    },
+    "nightwatch-js": {
+      "path": "/logos/25cc4ddb31d8dcda84db.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/nightwatchjs/slpwnkwtngatafl1-360.png",
+      "checkedAt": "2026-10-02T16:16:57.427Z",
+      "kind": "Organization image"
+    },
+    "open-chromosome-collective": {
+      "path": "/logos/f4f5ccf58471a22544b7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-chromosome-collective/ef70feamp2pdisjj.png",
+      "checkedAt": "2026-10-02T16:16:57.466Z",
+      "kind": "Organization image"
+    },
+    "open-climate-fix": {
+      "path": "/logos/84eef3c3ada475dcc928.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-climate-fix/k4retnlmzqbkc6bn-360.png",
+      "checkedAt": "2026-10-02T16:16:57.511Z",
+      "kind": "Organization image"
+    },
+    "open-states": {
+      "path": "/logos/99f709c3143043897cf3.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/NwcPOErW65aS1HhiyvCsBHwtxUKIjYW4MlE123d_66rwai20REjJkxDZP_BOjYSwnrY6oRDkBHqPJzdtvRIj9YlJ1bqkPw",
+      "checkedAt": "2026-10-02T16:16:57.517Z",
+      "kind": "Organization image"
+    },
+    "open-bioinformatics-foundation": {
+      "path": "/logos/948905c5934033a84020.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-bioinformatics-foundation-obf/gcg4ymt4qhsd0fyj-360.png",
+      "checkedAt": "2026-10-02T16:16:57.540Z",
+      "kind": "Organization image"
+    },
+    "omegaup-com": {
+      "path": "/logos/98496e433cad8a6866ce.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/omegaup/uvgilx7vyspavjox-360.png",
+      "checkedAt": "2026-10-02T16:16:57.567Z",
+      "kind": "Organization image"
+    },
+    "numfocus": {
+      "path": "/logos/3c67df85842fc9d3d8fe.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/numfocus/wimcwc2v6kjlidqc-360.png",
+      "checkedAt": "2026-10-02T16:16:57.572Z",
+      "kind": "Organization image"
+    },
+    "open-chemistry": {
+      "path": "/logos/3538b3ffdc3140e442bc.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-chemistry/esda0gvsxomll6my-360.png",
+      "checkedAt": "2026-10-02T16:16:57.672Z",
+      "kind": "Organization image"
+    },
+    "opencensus": {
+      "path": "/logos/d6c978c2839bd05231c5.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/DobUf9xiIyhEf9eJYMwAAQDgPdWfkzmPQEuGfWtVfEL_0yqzrANy4LN0bfKSOFJSVyNrLXrLTQtPbLQqNR9JV2xZhW-Ek5I",
+      "checkedAt": "2026-10-02T16:16:57.730Z",
+      "kind": "Organization image"
+    },
+    "open-food-facts": {
+      "path": "/logos/cd73c6c5d0ca37fd700f.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-food-facts/ypo4wfmbo5ueujuf-360.png",
+      "checkedAt": "2026-10-02T16:16:57.769Z",
+      "kind": "Organization image"
+    },
+    "open-science-initiative-for-perfusion-imaging": {
+      "path": "/logos/b614e301cba68318c83f.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-science-initiative-for-perfusion-imaging/bxlqptrs5g0ovtqz-360.png",
+      "checkedAt": "2026-10-02T16:16:57.919Z",
+      "kind": "Organization image"
+    },
+    "open-healthcare-network": {
+      "path": "/logos/d2557fb77d0e7a15f8fc.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-healthcare-network/eutslgqeknc9vlgd-360.png",
+      "checkedAt": "2026-10-02T16:16:57.939Z",
+      "kind": "Organization image"
+    },
+    "openemr": {
+      "path": "/logos/ebff5d01aeaad4742103.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/yEvQbaxEYLmlIJzXJUNtDCZkX5sYoYeJ2vmdAFAbz3t1kkVdIQloDfA8U36hLndz5Nim2OHUws54LDps7YkSaI-lqW8Cbt8",
+      "checkedAt": "2026-10-02T16:16:57.970Z",
+      "kind": "Organization image"
+    },
+    "openhmd": {
+      "path": "/logos/459e107790c50c14e652.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/UgdTxILUY9QohgqoAY9CKmPSBtFjmdtBM-9WIFY1vgeZ40lOFoN_XQhSlpG6IdgjKlHXpht3Jkp_uyvxrsZQKKGZ8w5BWn9E",
+      "checkedAt": "2026-10-02T16:16:58.004Z",
+      "kind": "Organization image"
+    },
+    "openkeychain-openpgp-for-android": {
+      "path": "/logos/6ce7fa1e3bb890adbfe6.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/wAkJBRA8v5z62PnJCHuzhl_GvQFzVFtim5UBjCy7ga473SN5tE7ttGh6fp4DE-qSKe9JcZnmYvVYCvE7JXSFDM653L0k-OmQ",
+      "checkedAt": "2026-10-02T16:16:58.026Z",
+      "kind": "Organization image"
+    },
+    "open-science-labs": {
+      "path": "/logos/7997129bff627194cb12.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-science-labs/rjv8l7mrkiwlv9ab-360.png",
+      "checkedAt": "2026-10-02T16:16:58.027Z",
+      "kind": "Organization image"
+    },
+    "openmined": {
+      "path": "/logos/95cab89bed69d8cc2849.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/_Bu5iadg0zeGl4k9_uMq0GXWovTyDcQIX8v0cyiXuYpRCxPkjneUSJSngzzQChyInMexi2Urv3a1kIP1pGyvfkGf-uK-6J56-AEzRkETR4Mx",
+      "checkedAt": "2026-10-02T16:16:58.074Z",
+      "kind": "Organization image"
+    },
+    "open-source-robotics-foundation": {
+      "path": "/logos/5f4e99e082218e0b88d3.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-robotics/6pg3nwfpieq1qmqw-360.png",
+      "checkedAt": "2026-10-02T16:16:58.088Z",
+      "kind": "Organization image"
+    },
+    "open-technologies-alliance-gfoss": {
+      "path": "/logos/8f400d0b025a23c752ac.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-technologies-alliance-gfoss/kiyijull8pfdypve-360.png",
+      "checkedAt": "2026-10-02T16:16:58.096Z",
+      "kind": "Organization image"
+    },
+    "openafs": {
+      "path": "/logos/7c17fb4f183cbcad4093.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openafs/hhf0h2zemmqes7kt-360.png",
+      "checkedAt": "2026-10-02T16:16:58.103Z",
+      "kind": "Organization image"
+    },
+    "open-transit-software-foundation": {
+      "path": "/logos/435b043408151fc722be.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-transit-software-foundation/uz3p7k5vsxduhrhk-360.png",
+      "checkedAt": "2026-10-02T16:16:58.113Z",
+      "kind": "Organization image"
+    },
+    "open3d-team": {
+      "path": "/logos/4439c88f28c8521b7ec2.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open3d-team/yhzlqgd1qkcypvrw-360.png",
+      "checkedAt": "2026-10-02T16:16:58.118Z",
+      "kind": "Organization image"
+    },
+    "opensips": {
+      "path": "/logos/87d062b08343161fd402.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Ze5ErtJ4lVXqkhzHnV0Xmost83K2I8bszR0095A6EDv1zTpc_7VBm8oUj-d3H4W7uYyN0BQfPlfPdgZG7JX4KyQMRLQY_Ss",
+      "checkedAt": "2026-10-02T16:16:58.146Z",
+      "kind": "Organization image"
+    },
+    "openastronomy": {
+      "path": "/logos/2929fd789f5b256f5f36.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openastronomy/3wvadxwxjc2arepg-360.png",
+      "checkedAt": "2026-10-02T16:16:58.253Z",
+      "kind": "Organization image"
+    },
+    "opntec": {
+      "path": "/logos/526465e9f59a1754e0c6.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/htb6dQQlMfY5TpIbYyDh2pCPyNs7ksdEk_RH3lWy7qnJaPEkKhuAbuviAMGkA6oJG8uf2mkv4ujAnpCynBVSbWQw1aqbZweJ",
+      "checkedAt": "2026-10-02T16:16:58.309Z",
+      "kind": "Organization image"
+    },
+    "open-genome-informatics": {
+      "path": "/logos/1f8c08a64675df5fb68c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/open-genome-informatics/p6nhalhjwargwd5s-360.png",
+      "checkedAt": "2026-10-02T16:16:58.359Z",
+      "kind": "Organization image"
+    },
+    "openelis-global": {
+      "path": "/logos/d63391b8d128b0062dd7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openelis-global/k6rnzk3hcktzabst-360.png",
+      "checkedAt": "2026-10-02T16:16:58.396Z",
+      "kind": "Organization image"
+    },
+    "opencv": {
+      "path": "/logos/6896c41457f51acec56c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/opencv/fmh9fnybaz97kodm-360.png",
+      "checkedAt": "2026-10-02T16:16:58.404Z",
+      "kind": "Organization image"
+    },
+    "orange-data-mining-fruitful-and-fun": {
+      "path": "/logos/2cc46037835ee351d4cc.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/isMDLXr7AdgntLlLbpzebETS2oOnYyC0KQp7Gl0TY79lb2WDa8bzSH1pwtwQv3dNUhZOqZBGHxA8QlimQ4YiMbyn5zaia3IL",
+      "checkedAt": "2026-10-02T16:16:58.424Z",
+      "kind": "Organization image"
+    },
+    "openrefine": {
+      "path": "/logos/d6ae9da0674602be1d02.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openrefine-j0/vygefztjlapanqqa-360.png",
+      "checkedAt": "2026-10-02T16:16:58.690Z",
+      "kind": "Organization image"
+    },
+    "openms-inc": {
+      "path": "/logos/32142c610430daa59407.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openms-inc/qhamer7p2auro5cs-360.png",
+      "checkedAt": "2026-10-02T16:16:58.692Z",
+      "kind": "Organization image"
+    },
+    "opensuse": {
+      "path": "/logos/e7bba9d23c3edb726ec7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/opensuse-project/zq11ebxj038xotbe-360.png",
+      "checkedAt": "2026-10-02T16:16:58.693Z",
+      "kind": "Organization image"
+    },
+    "openms": {
+      "path": "/logos/c30553077a2363c08abc.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openms/fwdw8iqmudobrij3-360.png",
+      "checkedAt": "2026-10-02T16:16:58.697Z",
+      "kind": "Organization image"
+    },
+    "openmrs": {
+      "path": "/logos/33de739074dd17c2e5eb.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openmrs/evthgp3dhsqx5kyx-360.png",
+      "checkedAt": "2026-10-02T16:16:58.701Z",
+      "kind": "Organization image"
+    },
+    "ow2": {
+      "path": "/logos/54066c9f1c0fe9f58ac3.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/zQhBjcSPVUqpmZhhdBQAumSlsm_j06H6ibTQAxY2Mq3HbqawRkUcR7DJXyyT6nj-Wfi4JQ7cTotGVER9axt2B6H6axqp1g",
+      "checkedAt": "2026-10-02T16:16:58.745Z",
+      "kind": "Organization image"
+    },
+    "ovirt": {
+      "path": "/logos/5a86a024a054b9b44eb6.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/W_PtFwhzkdm5Dfr1awr7uSKqbMoWtpUVdlp9gLzlRfQkQyL_dcULt1xsZE8616k8kFuTJcn2hAPgywWiLACcTK5kCSs7Zg",
+      "checkedAt": "2026-10-02T16:16:58.756Z",
+      "kind": "Organization image"
+    },
+    "osu-open-source-lab": {
+      "path": "/logos/dda421057388fd576901.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/1ea3BlKTMB549woaO4J5-vuqdMAWsdu2xEXr3JDa_cFRhdC_2mbRrcpIxn-01J0mtLQMlkn7CPco0CR20AyqXNso5iemXbo",
+      "checkedAt": "2026-10-02T16:16:58.757Z",
+      "kind": "Organization image"
+    },
+    "p2pool": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:58.781Z",
+      "kind": "Organization image"
+    },
+    "openvino-toolkit": {
+      "path": "/logos/16bebb78cbfd4e34b006.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openvino-toolkit/ivzvok335ujezk2z-360.png",
+      "checkedAt": "2026-10-02T16:16:58.794Z",
+      "kind": "Organization image"
+    },
+    "owncloud": {
+      "path": "/logos/6d59ad08315c7493de58.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/DfB90GrSxjjUVgE4ye84i6KbkUQVUkzoIJtpZfqCkHbRuIbf9h4Twj6DKYU4ul4zJHk01UKjz7NGXRfJ9NcIDcH1uMhxCqE",
+      "checkedAt": "2026-10-02T16:16:58.800Z",
+      "kind": "Organization image"
+    },
+    "padawan-wallet": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:58.816Z",
+      "kind": "Organization image"
+    },
+    "p2psp-org": {
+      "path": "/logos/b58954e8e3b12860b83f.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/W6ous6DUr-hggplxAVhPlbTaDa7eXE6PxqrQ7kQxyq-45q_fHcfImrzpcVjZ-mjt2d7onZ128-NgAx1zMfsmKMU0pczMKA",
+      "checkedAt": "2026-10-02T16:16:58.838Z",
+      "kind": "Organization image"
+    },
+    "peragro": {
+      "path": "/logos/00348742f9b72b318b56.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/30U2sySIY1xqaIbEGgosUKnLzLYhOUaLkuKjCJhnjTgXD4bE86E5FOiHJqOV0nb3qUnmPTxVrw4D29pzgNToPKuS75AekeJ-",
+      "checkedAt": "2026-10-02T16:16:58.886Z",
+      "kind": "Organization image"
+    },
+    "oppia-foundation": {
+      "path": "/logos/16c2e528d6bda0b58b4b.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/oppia-foundation/nqvgy9fm3aqshwtv-360.png",
+      "checkedAt": "2026-10-02T16:16:58.891Z",
+      "kind": "Organization image"
+    },
+    "percona": {
+      "path": "/logos/abb46a97a56f8db2e920.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/b6GVDxPfANhAVQI8RB85qninvaaCHTpzoXsOkRHGq2xXmpcVYXAASewxkMNVJ5HrKh5r7igQN3bKbb6etu2hKp8In925EsOk",
+      "checkedAt": "2026-10-02T16:16:58.920Z",
+      "kind": "Organization image"
+    },
+    "orcasound": {
+      "path": "/logos/dc9c804e808097c7a242.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/orcasound/fu5kadqoa0vlsjhx-360.png",
+      "checkedAt": "2026-10-02T16:16:58.939Z",
+      "kind": "Organization image"
+    },
+    "openwisp": {
+      "path": "/logos/78154ab7eb2e45ee04fe.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openwisp/xgfy0r7femccwzvj-360.png",
+      "checkedAt": "2026-10-02T16:16:58.940Z",
+      "kind": "Organization image"
+    },
+    "organic-maps": {
+      "path": "/logos/6743a258cddedbe2be5c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/organic-maps/cnhed0elppzqsjut-360.png",
+      "checkedAt": "2026-10-02T16:16:58.963Z",
+      "kind": "Organization image"
+    },
+    "photon-sdk": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:58.980Z",
+      "kind": "Organization image"
+    },
+    "phpbb-forum-software": {
+      "path": "/logos/ab15e58cfb8f0c542877.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/k4w18k0JwvBptU87DKyZi9-fKls1mRa9_EFg1xkh3z35KuRK7uRbxNvZ_vKppBLFxzydT2n546WaKt2PTiT6YZy8UEAVlNg",
+      "checkedAt": "2026-10-02T16:16:59.000Z",
+      "kind": "Organization image"
+    },
+    "phpmyadmin": {
+      "path": "/logos/4f3cf1888eff85282211.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Wq_8lTz8wRoLBFRD8DIpd2eZ3v8sPMpbXdYzAVB81164FR3EAVdFyd2bHZO-o_rfqCCL6I86HqtoKfE8_ivTPlrAR_ZiRSw",
+      "checkedAt": "2026-10-02T16:16:59.029Z",
+      "kind": "Organization image"
+    },
+    "openstreetmap": {
+      "path": "/logos/afb594b926db0fac9bd1.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/openstreetmap/ihw4tczyumj0yx81-360.png",
+      "checkedAt": "2026-10-02T16:16:59.032Z",
+      "kind": "Organization image"
+    },
+    "physical-web-project": {
+      "path": "/logos/77e7887281bd91a467d7.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/4louIdBvWdQ5Jz_c-9lYN8p0OjZKSZ6DJoCPgBlqdyRI5UjJ8PmrYew-CWgjBlIJm_8NJnlv0Wsn6zvHvp4WASe07-0UCg",
+      "checkedAt": "2026-10-02T16:16:59.037Z",
+      "kind": "Organization image"
+    },
+    "pidgin-instant-messenger": {
+      "path": "/logos/161035018e1a001f71bb.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/_cnWCvAP_kL_uIGMn_YD3zwWIJYWZ9TCAcGUjJ8FGHX3M1cieul6RxNm9lyflwkRn3kucFNG-RQMhlC7k8_8-4rBUyDO19lx1WGPp3hvTdC2",
+      "checkedAt": "2026-10-02T16:16:59.051Z",
+      "kind": "Organization image"
+    },
+    "osgeo": {
+      "path": "/logos/614c9cc5b0bf683dd54a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/osgeo-open-source-geospatial-foundation/yundulx00fbd1akm-360.png",
+      "checkedAt": "2026-10-02T16:16:59.062Z",
+      "kind": "Organization image"
+    },
+    "pmd": {
+      "path": "/logos/ab03bd78d7d50c5c6b2f.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/XshAjEG09ri7DW3eLjpOB7zgcI57j2CBMhOmcWRJ3haTuJWphGXHF-b7Sc_hf01BFc3YgtOmbh6qujmpC3JJyS6bdNYjWaY",
+      "checkedAt": "2026-10-02T16:16:59.121Z",
+      "kind": "Organization image"
+    },
+    "plan-9-foundation": {
+      "path": "/logos/7867f46e826b5a527a65.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/HGZK0TXmYe6UAht6sgArgJi8TVarCJr-GPdVkHlCOpWO6e3kfzPrjpLvSeIgDcu7lAErDfcPPVqiqh-Eeu70rRxTROQgwa4kPouOYYmvu4_I",
+      "checkedAt": "2026-10-02T16:16:59.155Z",
+      "kind": "Organization image"
+    },
+    "plasma-umass": {
+      "path": "/logos/8caad19668f380b1be29.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/-9rCeol_lVeOVF1zTb2EaHP6fkAR-gqTXAtT-c5CuKlA8nSLFt6EW3YRhm1uqRB9AyahcBtBtdB7QiKxQpNUanGqGIbxGw",
+      "checkedAt": "2026-10-02T16:16:59.169Z",
+      "kind": "Organization image"
+    },
+    "pocket-science-lab": {
+      "path": "/logos/1f6704dc464359518c40.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/c7_U0V5eO45sxFuYzs4fxjfK48XCdJ4qfKUryOgDy7RqPuj7TkqptMJjUzJyfNG0FRx3nNtl9d76UP2PGxnJ1oc9B3zvL_o",
+      "checkedAt": "2026-10-02T16:16:59.169Z",
+      "kind": "Organization image"
+    },
+    "polly-labs": {
+      "path": "/logos/6d9647fb89f23e794052.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/yKCUZwrL8WLvq58Lpcxl0GZ1wdQFNuhMVxp0NvQT8R_ZkRCaVvcOqhv0SP6MMdbDJCTxm1k9FPC6W4V-cbQwh9AUxi-nSHc6",
+      "checkedAt": "2026-10-02T16:16:59.216Z",
+      "kind": "Organization image"
+    },
+    "point-cloud-library": {
+      "path": "/logos/44a522fbf08bf3eeadeb.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/AOzUOMLm4TOHrEUH5LV9vlw6WgOjPt3DIm8hFkXUox68mU2eFZvb4nVLyeeo_joW2BSHQ6fAz10QKrlsB4-nSxldoa3zi54gZ_qXBxwXchveZg",
+      "checkedAt": "2026-10-02T16:16:59.253Z",
+      "kind": "Organization image"
+    },
+    "portland-state-university": {
+      "path": "/logos/3d330d2ef2c6b8de0d68.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/sAIPHC0hT4utSZW0pR7kqUAbtNkZZJivcSJZrbA15Cs6adP4oxthezndn2EffbpBLBN-2lSyz-pHYjqiIvfZAqMrUWClvnw",
+      "checkedAt": "2026-10-02T16:16:59.270Z",
+      "kind": "Organization image"
+    },
+    "our-world-in-data": {
+      "path": "/logos/49461b44248af80247f3.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/our-world-in-data/ghnijuxmyoccl6rt-360.png",
+      "checkedAt": "2026-10-02T16:16:59.273Z",
+      "kind": "Organization image"
+    },
+    "pgmpy": {
+      "path": "/logos/2e43e5afae29b50884f7.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/pgmpy?s=160",
+      "checkedAt": "2026-10-02T16:16:59.301Z",
+      "kind": "Organization image"
+    },
+    "owasp-foundation": {
+      "path": "/logos/007539b9ed3a3d7b1b87.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/owasp-foundation/haks8qbp0yvjvzge-360.png",
+      "checkedAt": "2026-10-02T16:16:59.301Z",
+      "kind": "Organization image"
+    },
+    "prism-model-checker": {
+      "path": "/logos/e8cc848db3454f6512b9.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/XK1ab1MTDTxb-6-kx3oOqRIvw1EsGZ78EVDnHy73kseH3O6Oh93nvv9WNn_TqduBUsnccMiaWwLERzjO4V4stIwqVlDiRA",
+      "checkedAt": "2026-10-02T16:16:59.354Z",
+      "kind": "Organization image"
+    },
+    "pal-robotics": {
+      "path": "/logos/d7b08a9929d9fe128524.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/pal-robotics/f3yidefsydweipcc-360.png",
+      "checkedAt": "2026-10-02T16:16:59.409Z",
+      "kind": "Organization image"
+    },
+    "pecan-project": {
+      "path": "/logos/7ded55bd63911341f245.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/pecan-project/kijyzllr7r1g0ukz-360.png",
+      "checkedAt": "2026-10-02T16:16:59.423Z",
+      "kind": "Organization image"
+    },
+    "probot": {
+      "path": "/logos/bf1b98fdc82bf5f9964e.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/m9JcOmI0hFFlDLBoBysTHLRk3XutSKy8kgNBKSNP7GTAG2GRxk9ax2fEU4SIKdEP-a4mPyw0FLiXDTmk_wUnIzn9z5zs-g",
+      "checkedAt": "2026-10-02T16:16:59.426Z",
+      "kind": "Organization image"
+    },
+    "project-panoptes": {
+      "path": "/logos/c995275245a9dcff6e37.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/YxgGJuUQMFtGopt--uoqDIeEK0EyNbNw_nIFql5oy90oF1a7MnS8d07_3KHazE_JiKj2KRPuqD5exiMzAIZ3EDuj75NhMQ",
+      "checkedAt": "2026-10-02T16:16:59.478Z",
+      "kind": "Organization image"
+    },
+    "project-wikiloop": {
+      "path": "/logos/f3f84e3cbd8ed0cb8f65.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/34r7ANSITcDOXQr_s0Y5dk4iepIIl9TP7_FA1-8f2E1e4k7GOR7ZvC_KaUPIVQADrayTE8nkGsAMsSfpLo2GsyfV18ewlMhyD1ft2EG0IM86BQ",
+      "checkedAt": "2026-10-02T16:16:59.479Z",
+      "kind": "Organization image"
+    },
+    "performance-co-pilot": {
+      "path": "/logos/1741739d8b85f2192ccd.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/performance-co-pilot/ef66s0dqidt5rfle-360.png",
+      "checkedAt": "2026-10-02T16:16:59.525Z",
+      "kind": "Organization image"
+    },
+    "pharo-consortium": {
+      "path": "/logos/5f0e4c8b67a5c92ebd22.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/pharo-consortium/zrxygkl3ycuvw6nb-360.png",
+      "checkedAt": "2026-10-02T16:16:59.579Z",
+      "kind": "Organization image"
+    },
+    "pitivi": {
+      "path": "/logos/d33224b8aa4e0834ff4c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/pitivi/tghrhxkqd9hb4cks-360.png",
+      "checkedAt": "2026-10-02T16:16:59.583Z",
+      "kind": "Organization image"
+    },
+    "plone-foundation": {
+      "path": "/logos/62008a6270ca4e148f66.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/plone-foundation/wivpatiziuhidzjw-360.png",
+      "checkedAt": "2026-10-02T16:16:59.613Z",
+      "kind": "Organization image"
+    },
+    "pyasic": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:59.622Z",
+      "kind": "Organization image"
+    },
+    "python-hydra": {
+      "path": "/logos/a6d062401cf0ee4f3f91.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/MqXE4XsYgTwqizedqCRdtcKRH87GYtNAPkfbw0Q5ATFYDB9S3szHr4A4QmSxZHp7KfPm6AKx6hCRsXsBUU6yGqpuhK6l3_lVTWGKcTczBXLS",
+      "checkedAt": "2026-10-02T16:16:59.681Z",
+      "kind": "Organization image"
+    },
+    "polypheny": {
+      "path": "/logos/51d0ec54b00b4762fcd8.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/polypheny/059uxeqzitvoqcyx-360.png",
+      "checkedAt": "2026-10-02T16:16:59.795Z",
+      "kind": "Organization image"
+    },
+    "python-bitcoin-utils": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:16:59.842Z",
+      "kind": "Organization image"
+    },
+    "postman": {
+      "path": "/logos/c3bac767ab51aa2ac191.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/postman/iw5h0aed8pe5yind-360.png",
+      "checkedAt": "2026-10-02T16:16:59.845Z",
+      "kind": "Organization image"
+    },
+    "powerdns": {
+      "path": "/logos/df00b3fe3e18833cdc8a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/powerdns/qmczym8f4ok5netw-360.png",
+      "checkedAt": "2026-10-02T16:16:59.884Z",
+      "kind": "Organization image"
+    },
+    "precice": {
+      "path": "/logos/4476962a0cabc3d9746c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/precice/19ymcw80uxn8g9ia-360.png",
+      "checkedAt": "2026-10-02T16:16:59.910Z",
+      "kind": "Organization image"
+    },
+    "postgresql": {
+      "path": "/logos/eb052c8b027a75172d51.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/postgresql/hj9srl9x0o6iendy-360.png",
+      "checkedAt": "2026-10-02T16:16:59.928Z",
+      "kind": "Organization image"
+    },
+    "pyaptamer": {
+      "path": "/logos/038bb3da25b36d1029c8.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/gc-os-ai?s=160",
+      "checkedAt": "2026-10-02T16:16:59.944Z",
+      "kind": "Organization image"
+    },
+    "project-mesa": {
+      "path": "/logos/78891ef420b32858894e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/project-mesa/fh3o8surszufvjpv-360.png",
+      "checkedAt": "2026-10-02T16:17:00.000Z",
+      "kind": "Organization image"
+    },
+    "quill-org": {
+      "path": "/logos/7bc125e62b3f68f9a311.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/CHPiRA9590fHfBQ02NwN2zhkYtvjaI6DpI44mOuXOOoLeE3JtIwYx_0_k3-hb-W2QndF65EjL22oVy3fAeNXvk75fa2QWfc",
+      "checkedAt": "2026-10-02T16:17:00.016Z",
+      "kind": "Organization image"
+    },
+    "pygam": {
+      "path": "/logos/48735a1c6807acd536a7.jpg",
+      "sourceUrl": "https://avatars.githubusercontent.com/dswah?s=160",
+      "checkedAt": "2026-10-02T16:17:00.031Z",
+      "kind": "Organization image"
+    },
+    "radare": {
+      "path": "/logos/014d8c52d5a5d8d0adde.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/iBdoZlcklDmuxCFcARj3BSFRQFjmbw5pIU02q_Hc4-LX0EqzdaISuhcMBpOEag91gedcbsG9uAXx01JsxQcaovRm0GZ1iwU",
+      "checkedAt": "2026-10-02T16:17:00.092Z",
+      "kind": "Organization image"
+    },
+    "public-lab": {
+      "path": "/logos/db12067527a9ccc60e32.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/public-lab/w93lsalkzbyb31pg-360.png",
+      "checkedAt": "2026-10-02T16:17:00.106Z",
+      "kind": "Organization image"
+    },
+    "react-native-elements": {
+      "path": "/logos/6637f45ad4700bfa7dc6.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/EkjSoqy4nR4_yDtErmtDSIgBSvzo_mNqeqcgFxhgZI7RTqtzXI8CpO6ZePd1MSf4BLe45CKPe_aAEJqAtDzRONW7oS8OYFhwkfPVQ2rMZPI",
+      "checkedAt": "2026-10-02T16:17:00.168Z",
+      "kind": "Organization image"
+    },
+    "prometheus-operator": {
+      "path": "/logos/e29655509a83dc1bd0ed.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/prometheus-operator/dpytdkpyfejrot7o-360.png",
+      "checkedAt": "2026-10-02T16:17:00.170Z",
+      "kind": "Organization image"
+    },
+    "purr-data": {
+      "path": "/logos/72a158c2809197a9a232.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/purr-data/vb8l0binls5gjdqp-360.png",
+      "checkedAt": "2026-10-02T16:17:00.183Z",
+      "kind": "Organization image"
+    },
+    "pytorch-forecasting": {
+      "path": "/logos/c3b73b074486c891fd31.jpg",
+      "sourceUrl": "https://avatars.githubusercontent.com/sktime?s=160",
+      "checkedAt": "2026-10-02T16:17:00.220Z",
+      "kind": "Organization image"
+    },
+    "python-software-foundation": {
+      "path": "/logos/6ab6c577367dfa5f20da.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/python-software-foundation/2vpxhpvcsvgyx3kg-360.png",
+      "checkedAt": "2026-10-02T16:17:00.228Z",
+      "kind": "Organization image"
+    },
+    "read-the-docs": {
+      "path": "/logos/2836e3315e164f451b51.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/dxmLB1HdWrLEFqmDRqfrowj1IT2LLhw33n4yI4HN7vJ0mSoW4O9kYdz3jOudzlf7XdDXtKS8Js2VDNDkzRuWNtdcNMnn5oAs",
+      "checkedAt": "2026-10-02T16:17:00.235Z",
+      "kind": "Organization image"
+    },
+    "revault": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:17:00.260Z",
+      "kind": "Organization image"
+    },
+    "rattler": {
+      "path": "/logos/2c5af6827463dffdd6e6.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/conda?s=160",
+      "checkedAt": "2026-10-02T16:17:00.429Z",
+      "kind": "Organization image"
+    },
+    "qc-devs": {
+      "path": "/logos/b89e212d81fd84f4f53c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/qc-devs/nywcx8edxlpsz2kg-360.png",
+      "checkedAt": "2026-10-02T16:17:00.447Z",
+      "kind": "Organization image"
+    },
+    "qubes-os": {
+      "path": "/logos/eeb32b2a4d6943eb2bf7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/qubes-os-f3/4hohuknku00cpaja-360.png",
+      "checkedAt": "2026-10-02T16:17:00.521Z",
+      "kind": "Organization image"
+    },
+    "qemu": {
+      "path": "/logos/83ddea096693af18957e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/qemu/gik5gsxljb3j1jx1-360.png",
+      "checkedAt": "2026-10-02T16:17:00.546Z",
+      "kind": "Organization image"
+    },
+    "radar-base": {
+      "path": "/logos/c2b4549ee3b35bfabae4.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/radar-base/8glcheumuwndks2c-360.png",
+      "checkedAt": "2026-10-02T16:17:00.627Z",
+      "kind": "Organization image"
+    },
+    "qdrant": {
+      "path": "/logos/7a9bef920998a03d1a90.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/qdrant/73jgnlygoyu6ibia-360.png",
+      "checkedAt": "2026-10-02T16:17:00.642Z",
+      "kind": "Organization image"
+    },
+    "reactos": {
+      "path": "/logos/d237b75f10ae815d534d.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/reactos-foundation/yell79w1st8tno4c-360.png",
+      "checkedAt": "2026-10-02T16:17:00.713Z",
+      "kind": "Organization image"
+    },
+    "r-project-for-statistical-computing": {
+      "path": "/logos/640f93ee8c7ff714a225.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/r-project-for-statistical-computing/7regeqcjh95nenso-360.png",
+      "checkedAt": "2026-10-02T16:17:00.760Z",
+      "kind": "Organization image"
+    },
+    "robosats": {
+      "path": "/logos/63a697b92dccaea40d9d.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/100270503",
+      "checkedAt": "2026-10-02T16:17:00.761Z",
+      "kind": "Organization image"
+    },
+    "ruby-on-rails": {
+      "path": "/logos/c2adb144737bac222412.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/vKSkD8tHmHh8CZANFLZKn491GK8d7EtO-1ym1y1jkUKTdaXThRD1egMpovzLvJ0lKWQlUCR0u2OYiSVb-aMrQdsOjQA-HP9W",
+      "checkedAt": "2026-10-02T16:17:00.816Z",
+      "kind": "Organization image"
+    },
+    "ruby-science-foundation": {
+      "path": "/logos/6ad2ff28c98cd5dc74ab.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/kFvQCOeX0CvmrLWs59bRiZgH0-a4wehdUOrnsV51yktt5uvb1JA6rfr97xZx9g54wNAiCDnmQujpHIspp-9SdDqaWG37lkU",
+      "checkedAt": "2026-10-02T16:17:00.821Z",
+      "kind": "Organization image"
+    },
+    "responsible-ai-and-human-centred-technology": {
+      "path": "/logos/75e96274654c40ab5500.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/responsible-ai-and-human-centred-technology/makkydlswhmjyilu-360.png",
+      "checkedAt": "2026-10-02T16:17:00.860Z",
+      "kind": "Organization image"
+    },
+    "red-hen-lab": {
+      "path": "/logos/0ae1278ea01d00cf48cc.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/red-hen-lab/ugdzrslbomp6lacy-360.png",
+      "checkedAt": "2026-10-02T16:17:00.863Z",
+      "kind": "Organization image"
+    },
+    "salesforce": {
+      "path": "/logos/1529a93d191fef2b07e9.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/b_Zs0WDCb82zhyL83B1zm4yR4bUymA-vGn_1yNL7aJgANPNcjfmYNOx9IZZF719ewIMxm_winyYNC8ANforLd5f0RdQkcBA",
+      "checkedAt": "2026-10-02T16:17:00.905Z",
+      "kind": "Organization image"
+    },
+    "samba": {
+      "path": "/logos/8515ad89d7d2a0cd9c73.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/_8-VaHi74y4qMQKPJseZX26TlSr0ecED2RK5LcgCoNWutVg5Uq0Xx8v43ePrx7xDUZaGGyJptv4OIOldc7yXSN57YotASv8VDrW-pEQL-qghIg",
+      "checkedAt": "2026-10-02T16:17:00.912Z",
+      "kind": "Organization image"
+    },
+    "robocomp": {
+      "path": "/logos/4fc64169cb51ff50b267.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/robocomp/okal4wecq8dywr78-360.png",
+      "checkedAt": "2026-10-02T16:17:00.914Z",
+      "kind": "Organization image"
+    },
+    "rtl": {
+      "path": "/logos/152d2cf1033da46488b4.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/51054708",
+      "checkedAt": "2026-10-02T16:17:00.915Z",
+      "kind": "Organization image"
+    },
+    "saving-satoshi": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:17:00.939Z",
+      "kind": "Organization image"
+    },
+    "scilab-enterprises": {
+      "path": "/logos/4916367baef67d260fa3.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/lIs5ySAf3RTl47fydovwKV_c6iXAVC9iSG_tuhDg_uq7EWYQCwqKasW3EF7C4xM8SCm8Q7KNpmrkoYHb0FkCZPxfrFUXL8w",
+      "checkedAt": "2026-10-02T16:17:00.971Z",
+      "kind": "Organization image"
+    },
+    "rizin": {
+      "path": "/logos/a9e4b05ac5796fa2c854.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/rizin/7ageygqfyv7wzlee-360.png",
+      "checkedAt": "2026-10-02T16:17:00.994Z",
+      "kind": "Organization image"
+    },
+    "seastar": {
+      "path": "/logos/38aa66280985ffbf1409.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/rBIDW74GlN99v142I_orxLgDEKEkmkkFd3qfmN0D6N1u9c9GD1LQD_2XDGY_1uU03TbaQPwsLA_jQEZXkeADHCJyO4QTJSU",
+      "checkedAt": "2026-10-02T16:17:01.059Z",
+      "kind": "Organization image"
+    },
+    "rocket-chat": {
+      "path": "/logos/c2e36e00c6b87b05ba19.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/rocketchat/qnog9kebwa9atw3l-360.png",
+      "checkedAt": "2026-10-02T16:17:01.104Z",
+      "kind": "Organization image"
+    },
+    "robolectric": {
+      "path": "/logos/b41772d71cbc86448018.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/robolectric/lazlu9me0dgu60vq-360.png",
+      "checkedAt": "2026-10-02T16:17:01.105Z",
+      "kind": "Organization image"
+    },
+    "rust-miniscript": {
+      "path": "/logos/f468afd800d17e6cecea.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/43224899",
+      "checkedAt": "2026-10-02T16:17:01.128Z",
+      "kind": "Organization image"
+    },
+    "shaka-player": {
+      "path": "/logos/bc9a420721a676a21f0b.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/x8zL_jDCw5xPw2P5CK9Cs5nWmIl_0gPBEaspT8INn4im49yVs2gEz2IFIthL4fH0ky5o7I80gbIjm9CXbf45lMXZgl0pRwppZL4GagfkeFLi",
+      "checkedAt": "2026-10-02T16:17:01.172Z",
+      "kind": "Organization image"
+    },
+    "rspamd": {
+      "path": "/logos/187461481d6396587aa5.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/rspamd/d2hi7vv5bavik21s-360.png",
+      "checkedAt": "2026-10-02T16:17:01.219Z",
+      "kind": "Organization image"
+    },
+    "shogun": {
+      "path": "/logos/aa0d0bf513e3d2551efa.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/cCl4GfzsLBvpTPnFeYL8lxv3DraX0vbkCIhaN8Se_xEjTcWXqMdLTM_DJvJBeThODx3Gms3sjsiFlAFtznT5dKYPw7djIvE",
+      "checkedAt": "2026-10-02T16:17:01.224Z",
+      "kind": "Organization image"
+    },
+    "rtems-project": {
+      "path": "/logos/b12aa8383f2489f83b63.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/rtems-project/mgzdqflwj84er5ml-360.png",
+      "checkedAt": "2026-10-02T16:17:01.239Z",
+      "kind": "Organization image"
+    },
+    "shopstr": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:17:01.249Z",
+      "kind": "Organization image"
+    },
+    "sigmah": {
+      "path": "/logos/d12244d672ddaffd4f93.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/93j_B6_iRuj44vvNZhG5HeC8UY4b74xxz3SfQQF6r0dqq8S3yzv76u1BUM09yp2IzcGu_aWvbWrymJYkaKXTO6oGTDbYGQ",
+      "checkedAt": "2026-10-02T16:17:01.274Z",
+      "kind": "Organization image"
+    },
+    "skpro": {
+      "path": "/logos/c3b73b074486c891fd31.jpg",
+      "sourceUrl": "https://avatars.githubusercontent.com/sktime?s=160",
+      "checkedAt": "2026-10-02T16:17:01.336Z",
+      "kind": "Organization image"
+    },
+    "ruby": {
+      "path": "/logos/86529d67811db7dc38f6.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/ruby/dc6i7iw8w39rktw1-360.png",
+      "checkedAt": "2026-10-02T16:17:01.351Z",
+      "kind": "Organization image"
+    },
+    "seedsigner": {
+      "path": "/logos/ccfb7759b765be3eb7ee.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/82068866",
+      "checkedAt": "2026-10-02T16:17:01.363Z",
+      "kind": "Organization image"
+    },
+    "sage-mathematical-software-system": {
+      "path": "/logos/a6c5bc9bf75d069ca18c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/sagemath/1tcj7svgwadc13cj-360.png",
+      "checkedAt": "2026-10-02T16:17:01.438Z",
+      "kind": "Organization image"
+    },
+    "scalable-parallel-computing-laboratory": {
+      "path": "/logos/f5dd750c39cc9c83c609.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/scalable-parallel-computing-laboratory/cho0tqlhmykehqlw-360.png",
+      "checkedAt": "2026-10-02T16:17:01.448Z",
+      "kind": "Organization image"
+    },
+    "soletta-project": {
+      "path": "/logos/1451b381eafc91893f32.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/8OmsKRY9i3R3AoQOrow_zrz9jlzjaOSIXW9m2e7cCviUzCO6V3_ny6_KC9cAOuJTWIzWtDemuapvM6YV0joi1QsThI7UcvvR",
+      "checkedAt": "2026-10-02T16:17:01.496Z",
+      "kind": "Organization image"
+    },
+    "space-virginia-tech": {
+      "path": "/logos/afe605a3b11bea0050fd.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/tUn7jhnuyPGZNW88fhBLLh6XVMsYmRtyLre0lPZKl1hT_afixt6PL8P_GN-dP7oaoomiz8FrHdUhIUs8QH4VDLtYDXUGy6U",
+      "checkedAt": "2026-10-02T16:17:01.498Z",
+      "kind": "Organization image"
+    },
+    "shap": {
+      "path": "/logos/1771fd82154b373052f6.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/shap?s=160",
+      "checkedAt": "2026-10-02T16:17:01.498Z",
+      "kind": "Organization image"
+    },
+    "scala": {
+      "path": "/logos/0b4c23c8234ce79afa98.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/scala-center/0umytpqshifjeevx-360.png",
+      "checkedAt": "2026-10-02T16:17:01.522Z",
+      "kind": "Organization image"
+    },
+    "specter-desktop": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:17:01.529Z",
+      "kind": "Organization image"
+    },
+    "scummvm": {
+      "path": "/logos/ef7dd0c22bbf962458ea.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/scummvm/bnok4srtehdy3fbj-360.png",
+      "checkedAt": "2026-10-02T16:17:01.579Z",
+      "kind": "Organization image"
+    },
+    "stemformatics": {
+      "path": "/logos/2d60db52eac15ca37848.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/cvukkaOTKrjuwRlehZT0bMdNEUJQhTTZVt1BAWpyt7_d1n-gl-c7dIm-r668edGFQF2P_oTD3nr7Is1kWRG5i-FuNYW774He",
+      "checkedAt": "2026-10-02T16:17:01.582Z",
+      "kind": "Organization image"
+    },
+    "stony-brook-university-biomedical-informatics": {
+      "path": "/logos/fd179edd1d502d01f022.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/RuG21yTpVNlQeuffn8OimhRXHwA_MDmYEr8YrToO9jriUZkaqHh0Xpsaa5wxWPiCMK9DnZWuw8hFq_1vFsvwfEpIVodyhQ",
+      "checkedAt": "2026-10-02T16:17:01.661Z",
+      "kind": "Organization image"
+    },
+    "semi-technologies": {
+      "path": "/logos/2bdd2fee8beecd4ce6da.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/semi-technologies/bcwggbwqvxkpo6qq.png",
+      "checkedAt": "2026-10-02T16:17:01.713Z",
+      "kind": "Organization image"
+    },
+    "seaql": {
+      "path": "/logos/611c98a9fadf6cae8d79.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/seaql/tkc2iu6ottkqbq0b-360.png",
+      "checkedAt": "2026-10-02T16:17:01.736Z",
+      "kind": "Organization image"
+    },
+    "society-for-arts-and-technology-sat": {
+      "path": "/logos/6f0b88095aa0d6c61d9b.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/society-for-arts-and-technology-sat/pkgrduycyoh0wxmf-360.png",
+      "checkedAt": "2026-10-02T16:17:01.865Z",
+      "kind": "Organization image"
+    },
+    "sktime": {
+      "path": "/logos/19b8e8904a5d85bded6c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/sktime/x2i3dxljtj04sqw0-360.png",
+      "checkedAt": "2026-10-02T16:17:01.933Z",
+      "kind": "Organization image"
+    },
+    "software-product-data-exchange-spdx": {
+      "path": "/logos/ed8353921c6a36ef8187.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/spdx/ggw7mdbriw97mzmu-360.png",
+      "checkedAt": "2026-10-02T16:17:01.937Z",
+      "kind": "Organization image"
+    },
+    "streetmix": {
+      "path": "/logos/0c9ef44625cbe0569292.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/_L-vs1v1urB7RbiMOJTVBWxkuZWZRnwd6wUXupSaLqoWYh-0xHo2sGvLXmmQZhgzU5kWhDS7ktZvBzz42j9rDPGdpaQRbg",
+      "checkedAt": "2026-10-02T16:17:01.962Z",
+      "kind": "Organization image"
+    },
+    "software-and-computational-systems-lab-at-lmu-munich": {
+      "path": "/logos/7c2638f405f6f0c9348b.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/software-and-computational-systems-lab-at-lmu-munich/kcrheiieoyvdm0r7-360.png",
+      "checkedAt": "2026-10-02T16:17:02.000Z",
+      "kind": "Organization image"
+    },
+    "software-heritage": {
+      "path": "/logos/87c284774bf77dc2e0e6.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/software-heritage/8vchqcnmijmq3ibq-360.png",
+      "checkedAt": "2026-10-02T16:17:02.026Z",
+      "kind": "Organization image"
+    },
+    "stratumv2": {
+      "path": "/logos/2d287e016c193850e489.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/85513848",
+      "checkedAt": "2026-10-02T16:17:02.068Z",
+      "kind": "Organization image"
+    },
+    "sqlancer": {
+      "path": "/logos/46add484f058ed9b5b2c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/sqlancer/hzunjobwazuptdb6.png",
+      "checkedAt": "2026-10-02T16:17:02.131Z",
+      "kind": "Organization image"
+    },
+    "stdlib": {
+      "path": "/logos/deeb894bc2d4f6b8bd69.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/stdlib/7ornclj6w5zz9fca-360.png",
+      "checkedAt": "2026-10-02T16:17:02.148Z",
+      "kind": "Organization image"
+    },
+    "symbiflow": {
+      "path": "/logos/b42a70f47c5a905ffe25.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/CvqeGxSl_fS_m75Z_2u_XWVw4JRQRmUDdQ-iL9VyMEnvPQJPbalrvLZcopVRsdK-ESlMAsM4kR_HW8xZgphjZ2YS8OSZssvXu1mMOSb9INA",
+      "checkedAt": "2026-10-02T16:17:02.160Z",
+      "kind": "Organization image"
+    },
+    "stichting-su2": {
+      "path": "/logos/53fb23595f5250ec02fc.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/stichting-su2/vexbqtmew7yd92hp-360.png",
+      "checkedAt": "2026-10-02T16:17:02.188Z",
+      "kind": "Organization image"
+    },
+    "st-jude-children-s-research-hospital": {
+      "path": "/logos/900e442035278eaa82a7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/st-jude-childrens-research-hospital-ai/qnfe4pckkvrq5tfw-360.png",
+      "checkedAt": "2026-10-02T16:17:02.196Z",
+      "kind": "Organization image"
+    },
+    "systers-an-anita-borg-institute-community": {
+      "path": "/logos/f940b140ef598b5e5b6b.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/tFOFnRaUTNGblP4QyLG6X0IlRCU6PNrYL6VgZbGuLVX2MMJc0tSM-LHaGEGfhJ8_eQKoq7Zu4oOzBQWBW8brmLP9uji0fg",
+      "checkedAt": "2026-10-02T16:17:02.299Z",
+      "kind": "Organization image"
+    },
+    "strace": {
+      "path": "/logos/95ecc0c01e7f82d09a61.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/strace/yreopwofddfe6zhk-360.png",
+      "checkedAt": "2026-10-02T16:17:02.299Z",
+      "kind": "Organization image"
+    },
+    "systers-community": {
+      "path": "/logos/9d15063983a0cabdbea0.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/ZfLKPxprJmOds95nIeEkrw78RF0olObie6ligW1ZyPTL3mDcPsbhSR0Ed9fhyzdJHOsdblNFB2L9wwgMNMKHjH4RpNhTGc2a",
+      "checkedAt": "2026-10-02T16:17:02.300Z",
+      "kind": "Organization image"
+    },
+    "tardis-sn": {
+      "path": "/logos/1bf0c3c3e8947eb6e3d0.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/tznjlg0HUYe_hQPRwpUOSU8OnCpJp7mSlNIy0Xp3ibmdk9nSTBgYQlRc0RwO-CMHwavCN6YZDTaUpeD0xdWc89YotSEwJzAsfGI7AY0pQp4tQA",
+      "checkedAt": "2026-10-02T16:17:02.347Z",
+      "kind": "Organization image"
+    },
+    "teammates-national-university-of-singapore": {
+      "path": "/logos/37c5a1ae97706e6c15bc.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/265HE7VM0Yah8cmmoSVdkm9wRTOJem65VxSrT_0SXfgcgtHYdkeHt0qji7xc-_9N4xYYB1TAwBC-hjKFqt3UJ7m4N7llGA",
+      "checkedAt": "2026-10-02T16:17:02.406Z",
+      "kind": "Organization image"
+    },
+    "stratosphere-laboratory-czech-technical-university-in-prague": {
+      "path": "/logos/1223239623318b9f4651.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/stratosphere-laboratory-czech-technical-university-in-prague/94v2dwoajljheoba-360.png",
+      "checkedAt": "2026-10-02T16:17:02.463Z",
+      "kind": "Organization image"
+    },
+    "sustainable-computing-research-group-score": {
+      "path": "/logos/45cd890faf4160fe3cea.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/score-lab/x8apbdrxwdrmqv7f-360.png",
+      "checkedAt": "2026-10-02T16:17:02.534Z",
+      "kind": "Organization image"
+    },
+    "sugar-labs": {
+      "path": "/logos/11b4d065ffd7c9fb4efe.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/sugar-labs/pgbt7fp6gr6lhihd-360.png",
+      "checkedAt": "2026-10-02T16:17:02.572Z",
+      "kind": "Organization image"
+    },
+    "the-center-for-connected-learning-and-computer-based-modeling": {
+      "path": "/logos/62025be14f223fb5a868.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/_Ol--UayvdvAUvhHYRqcA8zVpL6mrSt70pZPWkks9uvxTHwwesYnulBEZDn6SdI5bSMDmjaYiN8SbT8q2pfyVwXB_dyXq7iL",
+      "checkedAt": "2026-10-02T16:17:02.607Z",
+      "kind": "Organization image"
+    },
+    "swift": {
+      "path": "/logos/e966eae59c6b1d49d76a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/swift/moutmu5fv3rozvrz-360.png",
+      "checkedAt": "2026-10-02T16:17:02.608Z",
+      "kind": "Organization image"
+    },
+    "sw360": {
+      "path": "/logos/0f3a4ab8b390b078e5bf.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/sw360/scylub8cx6f9mkzk-360.png",
+      "checkedAt": "2026-10-02T16:17:02.620Z",
+      "kind": "Organization image"
+    },
+    "submitty": {
+      "path": "/logos/b8e55adec8f9e608cb21.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/submitty/jlpoxlj2rvpot6zv-360.png",
+      "checkedAt": "2026-10-02T16:17:02.642Z",
+      "kind": "Organization image"
+    },
+    "synfig": {
+      "path": "/logos/ba36c02ce9dc4a177734.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/synfig/ohcj3eigerib4jym-360.png",
+      "checkedAt": "2026-10-02T16:17:02.786Z",
+      "kind": "Organization image"
+    },
+    "sympy": {
+      "path": "/logos/3ff5186c9aad6880965a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/sympy/iz2tcxocrknp1sm0-360.png",
+      "checkedAt": "2026-10-02T16:17:02.860Z",
+      "kind": "Organization image"
+    },
+    "tarantool": {
+      "path": "/logos/02daaba535603a9febc7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/tarantool/npjtqad5oa15tkps-360.png",
+      "checkedAt": "2026-10-02T16:17:02.883Z",
+      "kind": "Organization image"
+    },
+    "tardis-rt-collaboration": {
+      "path": "/logos/c47e14914ec84969bb2a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/tardis-rt-collaboration/0ocxr3jw3fwdloye-360.png",
+      "checkedAt": "2026-10-02T16:17:02.896Z",
+      "kind": "Organization image"
+    },
+    "the-macports-project": {
+      "path": "/logos/06b786b50114a2299587.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Lymw2myNawPMZb74F5Pv2S5aN6nJq_tN5Dbvp6ygfnSPh336b1dmI7KyILWdxfihweAV6kn60bCZo0SkqILOIHSVuyZ_xJw",
+      "checkedAt": "2026-10-02T16:17:02.936Z",
+      "kind": "Organization image"
+    },
+    "the-monarch-initiative": {
+      "path": "/logos/d4c54ff72ab82d009feb.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/KXWjAAyvRstHYIYcVJmU2Ogrvo2mYiSBieLdjjtOYi5jhMqninkA9k_MPvl8rMg-8U0XIW4KKx46fSDGxi3gnfXokQnBPu_D",
+      "checkedAt": "2026-10-02T16:17:02.995Z",
+      "kind": "Organization image"
+    },
+    "the-apache-software-foundation": {
+      "path": "/logos/230c9369e80d6256221a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/apache-software-foundation/hq22fwtmvdfjnsh9-360.png",
+      "checkedAt": "2026-10-02T16:17:03.059Z",
+      "kind": "Organization image"
+    },
+    "tensorflow": {
+      "path": "/logos/f45d218d5a391e37b219.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/tensorflow-d1/0sqdbtssij0tfcwy-360.png",
+      "checkedAt": "2026-10-02T16:17:03.085Z",
+      "kind": "Organization image"
+    },
+    "the-cgal-project": {
+      "path": "/logos/15d3a852155468766709.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/cgal-project/9ubuadbe0eg5xfcw-360.png",
+      "checkedAt": "2026-10-02T16:17:03.151Z",
+      "kind": "Organization image"
+    },
+    "the-honeynet-project": {
+      "path": "/logos/2ae040c69f22c51e3bc8.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-honeynet-project/pvycoc21p2ketj7b-360.png",
+      "checkedAt": "2026-10-02T16:17:03.170Z",
+      "kind": "Organization image"
+    },
+    "the-julia-language": {
+      "path": "/logos/261fc1985ad8640e2aba.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-julia-language/49fck3n7j5aqnpwu-360.png",
+      "checkedAt": "2026-10-02T16:17:03.205Z",
+      "kind": "Organization image"
+    },
+    "the-freetype-project": {
+      "path": "/logos/cc96a317c6ed988e590b.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/freetype/bbbcwzgimhkwpcvx-360.png",
+      "checkedAt": "2026-10-02T16:17:03.223Z",
+      "kind": "Organization image"
+    },
+    "syslog-ng": {
+      "path": "/logos/b268a971755738925c9c.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/syslog-ng/ipqfczgd4cx3zm9r-360.png",
+      "checkedAt": "2026-10-02T16:17:03.225Z",
+      "kind": "Organization image"
+    },
+    "the-perl-foundation": {
+      "path": "/logos/9f28cff4c70fb8fa6dbb.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/d5e0eT02pNSKppd0CTbEJ0Xk11l06hzop8Rsed1FGMr_Rc4jGxgD9dyZ4k6y_Yayy_df4aL5nTup0p5swm_vxWVvx80rthY",
+      "checkedAt": "2026-10-02T16:17:03.269Z",
+      "kind": "Organization image"
+    },
+    "the-postgres-operator": {
+      "path": "/logos/a2a38fa0262e2f5cf997.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/CDCWRn_sSTfImUye81t4X_YbRsxATMEc51Qh-qQQvXacneOo1yS2rebLOHxilMHmOsTy_BSVTebPjc7tBniCuPqe_JVu4Q",
+      "checkedAt": "2026-10-02T16:17:03.269Z",
+      "kind": "Organization image"
+    },
+    "the-qt-project": {
+      "path": "/logos/ae240d26a3b4ca5c8218.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/3rlqQG2e3Fuqd1T5a-jTW8-yuI06AE8ilPiN3bUEF1q-1TeCpsMk3rUKbZoz1_sKP1JgJ-lWlr5Yma9mZz1DOtc0LbCcqQ",
+      "checkedAt": "2026-10-02T16:17:03.341Z",
+      "kind": "Organization image"
+    },
+    "the-libreswan-project": {
+      "path": "/logos/701445899783a9232a3e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-libreswan-project/k7boxaxvirkfj1ti-360.png",
+      "checkedAt": "2026-10-02T16:17:03.361Z",
+      "kind": "Organization image"
+    },
+    "the-linux-foundation": {
+      "path": "/logos/b078ec4e6ed926e65ac3.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-linux-foundation/ydeu9rliawhe6of9-360.png",
+      "checkedAt": "2026-10-02T16:17:03.446Z",
+      "kind": "Organization image"
+    },
+    "the-vega-visualization-tools-by-the-uw-interactive-data-lab": {
+      "path": "/logos/9d34aaf7561030be13ca.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/i2lYWOG1iVw9H16hfCqxcgjdZ_mbaiJQgC8UW1lOz4cMr012o-iUbHO5ZCqfzzGdFJnHGUwOnJ9PoGIDJtpxbtnzWQiaIAQ",
+      "checkedAt": "2026-10-02T16:17:03.499Z",
+      "kind": "Organization image"
+    },
+    "the-enigma-team": {
+      "path": "/logos/2ee01d51bdd2bbfab860.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-enigma-team/ipdbzf7owbf34bdr-360.png",
+      "checkedAt": "2026-10-02T16:17:03.503Z",
+      "kind": "Organization image"
+    },
+    "the-wine-project": {
+      "path": "/logos/cf174d8f772338124911.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/7tIOiveWazWsdJRPKX6R-vqBrN058T695JfanWME8t1aZKBz9g69ZABf6YbAgkuWH40WyGoeikalEErOmqN8DbkS24mIQ10",
+      "checkedAt": "2026-10-02T16:17:03.551Z",
+      "kind": "Organization image"
+    },
+    "the-ns-3-network-simulator-project": {
+      "path": "/logos/bb6cab64f0fb1b0c6f90.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-ns-3-network-simulator-project/0zmaec44y4jcfuj2-360.png",
+      "checkedAt": "2026-10-02T16:17:03.611Z",
+      "kind": "Organization image"
+    },
+    "the-llvm-compiler-infrastructure": {
+      "path": "/logos/ca8dde6129acd1d4e29a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/llvm-compiler-infrastructure/ize6lrlftlvdxtqe-360.png",
+      "checkedAt": "2026-10-02T16:17:03.684Z",
+      "kind": "Organization image"
+    },
+    "the-p4-language-consortium": {
+      "path": "/logos/3520abbba2b4d55a00a7.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-p4-language-consortium/tru8mncy4zqlbxhe.png",
+      "checkedAt": "2026-10-02T16:17:03.708Z",
+      "kind": "Organization image"
+    },
+    "timelab-technologies-ltd": {
+      "path": "/logos/9ba00f84703d7c1b1036.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/68Hw4cms8bhh17Ya-61UeLV_vNE3M-mrqgLCsHX3MUlQbHdx6BaeSbS1cxlcR3ajsXdmwgAtfAN46eKUxiUYyUCEMhlgN1w",
+      "checkedAt": "2026-10-02T16:17:03.711Z",
+      "kind": "Organization image"
+    },
+    "the-netbsd-foundation": {
+      "path": "/logos/3d8426c7ba319101d7d0.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-netbsd-foundation/gi3vozsqpecopqku-360.png",
+      "checkedAt": "2026-10-02T16:17:03.717Z",
+      "kind": "Organization image"
+    },
+    "tokio": {
+      "path": "/logos/463b9aba2b0fdcbc61f7.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/tc2ZKsdIMEMLaSli3YedP89ReiJyAsAakvW47gqZ-cW2MdnxI_1hyKH-vuw9BxYZTutH86kFKynVo4OuxgSBmh19fEsaIm8",
+      "checkedAt": "2026-10-02T16:17:03.757Z",
+      "kind": "Organization image"
+    },
+    "timvideos-us": {
+      "path": "/logos/9a77c955a93d706f2f93.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/EXMCUdZcXXqwFdusWDrQjwkUxDqRcXVzLPvWsjxJdUGKny0uSSvP361cqSqBESHB0zcKHwfQFtzxt71nUqy21b2jEfykUJ0",
+      "checkedAt": "2026-10-02T16:17:03.768Z",
+      "kind": "Organization image"
+    },
+    "the-openroad-initiative": {
+      "path": "/logos/69799d88e5c6210b5843.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-openroad-initiative/wsxrroe08v4rdaga-360.png",
+      "checkedAt": "2026-10-02T16:17:03.786Z",
+      "kind": "Organization image"
+    },
+    "the-processing-foundation": {
+      "path": "/logos/982d7250aa33e821a16a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/processing-foundation/xr2sncljbvtlop1n-360.png",
+      "checkedAt": "2026-10-02T16:17:03.798Z",
+      "kind": "Organization image"
+    },
+    "the-rust-foundation": {
+      "path": "/logos/73eb37d7c8e591ddf696.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-rust-foundation/pplrhxvka7dufvsn.png",
+      "checkedAt": "2026-10-02T16:17:03.801Z",
+      "kind": "Organization image"
+    },
+    "the-palisadoes-foundation": {
+      "path": "/logos/46b6cc6429d99c90b4d9.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-palisadoes-foundation/d9zsxo0idjsl7kug-360.png",
+      "checkedAt": "2026-10-02T16:17:03.824Z",
+      "kind": "Organization image"
+    },
+    "ucsc-xena": {
+      "path": "/logos/4dc4bd6f6c0abecc1516.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/hlRCFceco1ZLWp8ayUER9wOB1bqQKT8k5afqeeXRS8otR1s34Gds8dRajI3_W3-DIadsncH4GmxzV6AomZZiipAiKnsM9hA",
+      "checkedAt": "2026-10-02T16:17:03.842Z",
+      "kind": "Organization image"
+    },
+    "tla": {
+      "path": "/logos/8273faccc279d3c868c4.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/Pc9QkyJIXikZm1XmX5tA4LUsw2AquRp4RRrLKK15YSrDFhV3LFrs4QUiMxFcFbk1-ZPsBR1pB-QbCMOXwKDFkG3tNNeIc20",
+      "checkedAt": "2026-10-02T16:17:03.884Z",
+      "kind": "Organization image"
+    },
+    "unitex-gramlab": {
+      "path": "/logos/b42d1a191f8da71d22b9.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/eRTNtDGJfmj06lZRbxDWDv1KHDjkbSnrDBZse3rWYuDNDPLNc7jyebqWSmK1O_yl_gLmeQOInzBjVrV3AaAty2Psi16zB6M",
+      "checkedAt": "2026-10-02T16:17:03.913Z",
+      "kind": "Organization image"
+    },
+    "tungsten-fabric": {
+      "path": "/logos/25aca19cd580ee888622.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/SQUdOZ93rgGC711-JWBbLWzxGbC7Pds8BTbQw4rwEEVEw-RfAxF-T0dRwu7uG4SzQLb6pKh4zuXmSZvZMEHJPTKuaTv4_yY",
+      "checkedAt": "2026-10-02T16:17:03.923Z",
+      "kind": "Organization image"
+    },
+    "the-ste-ar-group": {
+      "path": "/logos/01b681f049174b50644d.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/stear-group/sebxbtinyakvrevb-360.png",
+      "checkedAt": "2026-10-02T16:17:03.954Z",
+      "kind": "Organization image"
+    },
+    "urban-energy-systems-laboratory-empa": {
+      "path": "/logos/d4e4683300f19bc03c91.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/2ZeU3O2oOvAkneIhXFjY_bIuvV0vRzmyAgzKDM7UP5a2LP6TwohTU5MpYR43-zd7pfpjhBVYzIRlap8fkpY8RJwhJwABEGvD",
+      "checkedAt": "2026-10-02T16:17:03.986Z",
+      "kind": "Organization image"
+    },
+    "the-tor-project": {
+      "path": "/logos/8d777ab1548b21581f1e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/the-tor-project/1w40vc9lqddvbfoa-360.png",
+      "checkedAt": "2026-10-02T16:17:04.015Z",
+      "kind": "Organization image"
+    },
+    "vert-x": {
+      "path": "/logos/f7651ccc1ec7b1ad7752.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/VkiPGfm8MX6JvIJbm675GIpat5g2Tv265xwmE9Owc274xFQdx60SiwOUCLswo7AXz-WREWuU8aMo6imBr83xWyCg3VsAHk0",
+      "checkedAt": "2026-10-02T16:17:04.057Z",
+      "kind": "Organization image"
+    },
+    "visp": {
+      "path": "/logos/eb03cb009a7a61fcc20c.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/vc01h5JBortXEAkxC3HSGB1axXpw6ZzgDfH5VEXF9OWZf6JlkRHH4DpqvK3Bas_ZCvANTX6ieoHnGA3mpPSxwWxUbakRzng",
+      "checkedAt": "2026-10-02T16:17:04.067Z",
+      "kind": "Organization image"
+    },
+    "vls": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:17:04.100Z",
+      "kind": "Organization image"
+    },
+    "tianocore": {
+      "path": "/logos/fef86b799b8b2f6f1529.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/tianocore/klcxfxidgxhn6yan-360.png",
+      "checkedAt": "2026-10-02T16:17:04.142Z",
+      "kind": "Organization image"
+    },
+    "vitrivr": {
+      "path": "/logos/ce1f8fa3db5d5e0c3c5e.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/a5NdzEGPaMpZwYVi5ZliWes35t5wP6fOzmwlAF1GlUxAm4HYbsc5gTcwYjRyWDgJZe-RdStiC8Rgfivpgxl5xFtBf1Yff2q0lzlS7O3iuM2V",
+      "checkedAt": "2026-10-02T16:17:04.143Z",
+      "kind": "Organization image"
+    },
+    "wayland": {
+      "path": "/logos/65b4e857a63b58048c39.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/4TgyMZO4bnVCdzuoV5C_iyaDKetlMKAiKYzqL3GO_Edy_9lavjat0VRjI2NhFWG8HEzNBNNxi3HpT5uXK7M31tR27O0iTupC",
+      "checkedAt": "2026-10-02T16:17:04.198Z",
+      "kind": "Organization image"
+    },
+    "utreexo": {
+      "path": "/logos/7c2fad94da194e18dc6d.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/17363734",
+      "checkedAt": "2026-10-02T16:17:04.230Z",
+      "kind": "Organization image"
+    },
+    "unikraft": {
+      "path": "/logos/51a1ae10d9c8eb7380c5.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/unikraft/5nx7anuq3iixdm54.png",
+      "checkedAt": "2026-10-02T16:17:04.319Z",
+      "kind": "Organization image"
+    },
+    "tiled": {
+      "path": "/logos/31062f5def7c68b94baa.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/tiled/bat2ba3t9fujdzyn-360.png",
+      "checkedAt": "2026-10-02T16:17:04.321Z",
+      "kind": "Organization image"
+    },
+    "uc-ospo": {
+      "path": "/logos/e50b96aabb9d0dd3b85d.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/center-for-research-in-open-source-software-cross/ndbkr7fqcqp4nguq-360.png",
+      "checkedAt": "2026-10-02T16:17:04.332Z",
+      "kind": "Organization image"
+    },
+    "unicode-inc": {
+      "path": "/logos/ad3f4900e304bfb91a12.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/unicode-inc/cev3zg8tjatag4mt.png",
+      "checkedAt": "2026-10-02T16:17:04.345Z",
+      "kind": "Organization image"
+    },
+    "typelevel": {
+      "path": "/logos/918fd102290fb1bf4a1e.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/typelevel/hxlcctbqekguxcxx.png",
+      "checkedAt": "2026-10-02T16:17:04.346Z",
+      "kind": "Organization image"
+    },
+    "wireshark": {
+      "path": "/logos/2afda2a188dfa97f36d2.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/sCPLlgtH6t-mZ-ysPbk5olslH9gy2nexx6mJAP0iKV3qjO4jFiw0-HSiXEu-JD2Apw2gK3o5vcQms5CC55ulYtxGVw_760B6",
+      "checkedAt": "2026-10-02T16:17:04.395Z",
+      "kind": "Organization image"
+    },
+    "worldbrain-verifying-the-internet-with-science": {
+      "path": "/logos/9479f2400f215249977d.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/pA0vKmLZJtik5ncIN0Z-mcLtftMElDsqtkKanjJuAp8sZ-hHEW4ER_fyAMvpC1MRkgSjHhrNeQeJYYwFzLBudRhQhuBbkD2m",
+      "checkedAt": "2026-10-02T16:17:04.397Z",
+      "kind": "Organization image"
+    },
+    "wso2": {
+      "path": "/logos/90ce951376d40303e90f.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/1E8AX1katjzwQ4Lu7AQVzd-V2E0y-RWFm4ZR7_eS7yct9wEagNcya2aGsZMH4TOaD0RF75iKM3uom-4enwPlyCMQ_tOXgg",
+      "checkedAt": "2026-10-02T16:17:04.422Z",
+      "kind": "Organization image"
+    },
+    "united-nations-office-of-information-communication-technology": {
+      "path": "/logos/301c197d44eb932a1088.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/united-nations-office-of-information-communication-technology/bl0zv6y6mjmzuybz-360.png",
+      "checkedAt": "2026-10-02T16:17:04.437Z",
+      "kind": "Organization image"
+    },
+    "uramaki-lab": {
+      "path": "/logos/e2fe819a2be38f54ad25.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/uramaki-lab/pr3ivuk0zg7lhgj1-360.png",
+      "checkedAt": "2026-10-02T16:17:04.448Z",
+      "kind": "Organization image"
+    },
+    "wxwidgets": {
+      "path": "/logos/35e0052f1f42bc62b031.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/eOVcxwPPFY88vbPAbL0VdS3UXorKsdc3Ow4SIUsUecOXlnaNEOgMxlvJeKw6AG3zMw9IZdSp5_Xz93Rr5f8-EsrW2hAwrrg",
+      "checkedAt": "2026-10-02T16:17:04.450Z",
+      "kind": "Organization image"
+    },
+    "xapian-search-engine-library": {
+      "path": "/logos/aa19d71b3311a3fa812f.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/QXpt9FkvyIQdMujj953yvmn3QVDdc1AHiD_zEQ149IzojkxNszscsJyF_oEa664SMOY0xjPWYX2CI4EKqIRvATdOAgwZTw",
+      "checkedAt": "2026-10-02T16:17:04.503Z",
+      "kind": "Organization image"
+    },
+    "xen-project": {
+      "path": "/logos/3a85a5232998c2404159.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/8-1iv11qUH3NQh51RUUucz5KaFc-xnirXU3Bsd_oQfGzen68L0H4YvyGdbDuwZqLRhiBRKjAJ_XTkzdJiMMvJTKKb94AmQ",
+      "checkedAt": "2026-10-02T16:17:04.506Z",
+      "kind": "Organization image"
+    },
+    "xi-editor": {
+      "path": "/logos/caec61a66685512099c3.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/R82mVJvjn_-GopH6nXsXTMa2Wap1X9NiuFt5_Lxuz0bkiLSfJVWm4MF1n9IdahgVW4gmt6XTNLV9p8dh09a9xOHm4Rddnww",
+      "checkedAt": "2026-10-02T16:17:04.523Z",
+      "kind": "Organization image"
+    },
+    "xiph-org-foundation": {
+      "path": "/logos/5c2e7b4f3f468345c478.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/sUYk_vuqIWBRqHqbkAxs0-3G7da5-bgNyn3QgnCvYEN_0qKFsPFMfp1ekbzUKzpBSxu3JJGFrrvZpI5WDUmvj5CXlpdHrtCPphQJGgaGe8eHGQ",
+      "checkedAt": "2026-10-02T16:17:04.552Z",
+      "kind": "Organization image"
+    },
+    "xpra-org": {
+      "path": "/logos/8049eb1740df289c98ea.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/k38GCG9ciaHGs8DvBHo711fnQJgBcQbGuHuJrtJ6DNJEBMg54H1wd5ACeMTIf_WRgWw_UgkD_6VZc-xcPea-3Axvt_0vyP0",
+      "checkedAt": "2026-10-02T16:17:04.580Z",
+      "kind": "Organization image"
+    },
+    "xrdesktop": {
+      "path": "/logos/17f54240a0a0027b621f.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/9DVL8t3HZvIY-zQpA2vliolCzTLeYkO9EInYrXgfPJstmxVVLTt5J-YFfhWy8jrgfYji2f5DF6BLcjyI_B3bYrIYMWAR6rsTfzitXKDksp9HGw",
+      "checkedAt": "2026-10-02T16:17:04.624Z",
+      "kind": "Organization image"
+    },
+    "wagtail": {
+      "path": "/logos/6f37fcc7cb6495c45826.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/wagtail/so6hnqeqh2cp4jbx-360.png",
+      "checkedAt": "2026-10-02T16:17:04.755Z",
+      "kind": "Organization image"
+    },
+    "webpack": {
+      "path": "/logos/f239dbb9cf8c2d7af481.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/webpack/bb5phgrkm0y4op3e-360.png",
+      "checkedAt": "2026-10-02T16:17:04.780Z",
+      "kind": "Organization image"
+    },
+    "waycrate": {
+      "path": "/logos/67bf9f16de44604d98fe.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/waycrate/u6pnvceiilur7iqy-360.png",
+      "checkedAt": "2026-10-02T16:17:04.781Z",
+      "kind": "Organization image"
+    },
+    "zeus": {
+      "path": "/logos/fac15abf6841e4fda059.png",
+      "sourceUrl": "https://avatars.githubusercontent.com/AKASHnagesh?s=160",
+      "checkedAt": "2026-10-02T16:17:04.811Z",
+      "kind": "Organization image"
+    },
+    "zenodo": {
+      "path": "/logos/ec8b9519eff360d5c496.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/t18I4Tabm3yIeT595HG9pbjrqUelCzLjUoWehqSCdBmLS9uk7vgPCJRQoBJRFArkA_pbyj-LZisqDm-IjCbLfKgT0Ek2UA",
+      "checkedAt": "2026-10-02T16:17:04.821Z",
+      "kind": "Organization image"
+    },
+    "wikimedia-foundation": {
+      "path": "/logos/600e7a367976d1cfbfaa.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/wikimedia-foundation-nd/2e6sdwa8tksr5sg2-360.png",
+      "checkedAt": "2026-10-02T16:17:04.873Z",
+      "kind": "Organization image"
+    },
+    "zynaddsubfx": {
+      "path": "/logos/95d85d73ed80a1d6c34e.png",
+      "sourceUrl": "https://lh3.googleusercontent.com/p7QK3Y5XvI87Zn_oqiI8iAtjp7lvHSIOArnAIfbhUQOR0HsP7dyWk-GXysodrPfYSpZETMrCMnid2-tHgykKz3PSPkuvcg",
+      "checkedAt": "2026-10-02T16:17:04.876Z",
+      "kind": "Organization image"
+    },
+    "videolan": {
+      "path": "/logos/ee62bb21eea6bef141c8.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/videolan/9h28hsncvrt01voz-360.png",
+      "checkedAt": "2026-10-02T16:17:04.880Z",
+      "kind": "Organization image"
+    },
+    "x-org-foundation": {
+      "path": "/logos/bd92df9958be4c092209.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/xorg-foundation/g3sbklva7h1ksltv-360.png",
+      "checkedAt": "2026-10-02T16:17:04.953Z",
+      "kind": "Organization image"
+    },
+    "xbmc-foundation": {
+      "path": "/logos/2b384b5b0fadcfc98031.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/kodi/drlohv8g8h6wfxvo-360.png",
+      "checkedAt": "2026-10-02T16:17:05.019Z",
+      "kind": "Organization image"
+    },
+    "xmpp-standards-foundation": {
+      "path": "/logos/fbb3347c4aca785af02f.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/xmpp-standards-foundation/1qfi0ofcfmb8qin8-360.png",
+      "checkedAt": "2026-10-02T16:17:05.094Z",
+      "kind": "Organization image"
+    },
+    "xwiki": {
+      "path": "/logos/0be75419d0e49c46903b.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/xwiki/ea9akuy6esnffmuk-360.png",
+      "checkedAt": "2026-10-02T16:17:05.164Z",
+      "kind": "Organization image"
+    },
+    "xfce": {
+      "path": "/logos/fccc085baecd4925b479.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/xfce/jp4avjju3s9gfqos-360.png",
+      "checkedAt": "2026-10-02T16:17:05.164Z",
+      "kind": "Organization image"
+    },
+    "wellcome-sanger-tree-of-life": {
+      "path": "/logos/41e7c994c19a00c665ae.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/wellcome-sanger-institute/gmcjtlourmhkhhed-360.png",
+      "checkedAt": "2026-10-02T16:17:05.300Z",
+      "kind": "Organization image"
+    },
+    "zulip": {
+      "path": "/logos/22ec958fd16d89452c6a.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/zulip/sx5ruvwv6nyugbk7-360.png",
+      "checkedAt": "2026-10-02T16:17:05.379Z",
+      "kind": "Organization image"
+    },
+    "zendalona": {
+      "path": "/logos/5fc514f9b85ad925d9ab.png",
+      "sourceUrl": "https://summerofcode.withgoogle.com/media/org/zendalona/tqduj6nsxnnw3vpy-360.png",
+      "checkedAt": "2026-10-02T16:17:05.453Z",
+      "kind": "Organization image"
+    }
+  },
+  "missing": [
+    "abiword",
+    "adc-karnal",
+    "adc-mahendragarh",
+    "adc-rohtak",
+    "africa-soil-information-service",
+    "agentcube",
+    "ankur-india",
+    "antrea",
+    "apicurio-registry",
+    "arches-project",
+    "armada",
+    "armman",
+    "artica-st-pandora-fms",
+    "asf",
+    "association-gephi",
+    "association-tatoeba",
+    "astrometry-net",
+    "atheme-org",
+    "atomic-blue",
+    "avanti-fellows",
+    "battle-for-wesnoth",
+    "beckn-collective",
+    "benetech",
+    "berkman-center-at-harvard-university",
+    "berkman-center-for-internet-and-society-at-harvard-university",
+    "bigbluebutton",
+    "bika-open-source-lims-collective",
+    "bio4j",
+    "bioconductor",
+    "bioconductor-open-source-software-for-bioinformatics",
+    "biographer",
+    "biojavascript",
+    "bloomington-in",
+    "bloomington-in-usa",
+    "bluez",
+    "boinc-project-university-of-california-berkeley",
+    "bokeh",
+    "bookie",
+    "buildbot",
+    "bumblebee-autonomous-underwater-vehicle-bbauv",
+    "bzflag",
+    "cartography",
+    "carvel",
+    "catrobat-formerly-catroid-project",
+    "catroid-project",
+    "center-for-the-study-of-complex-systems-univ-of-michigan",
+    "center-for-the-study-of-complex-systems-university-of-michigan",
+    "centos-project",
+    "centre-for-computational-medicine-sickkids-research-institute",
+    "ceph-storage",
+    "cern-virtual-machine-cernvm",
+    "cesium-community",
+    "cgal-computational-geometry-algorithms-library",
+    "chaos-mesh",
+    "chisel",
+    "chris-project",
+    "cilium-tetragon",
+    "climate-code-foundation",
+    "clojure-dev",
+    "cloud-native-buildpacks",
+    "cloudnativepg",
+    "cmc-ambala",
+    "cmusphinx-speech-recognition-toolkit",
+    "cncf-landscape",
+    "cncf-tag-contributor-strategy-ii",
+    "cncf-tag-network",
+    "code-for-america",
+    "codecombat",
+    "codemirror",
+    "common-workflow-language",
+    "comprehensive-c-archive-network",
+    "conda-forge",
+    "confidential-computing-consortium",
+    "connexions",
+    "consul-democracy",
+    "copacetic",
+    "coredns",
+    "cortex",
+    "coss",
+    "cri-o",
+    "crossplane",
+    "crowdsourcing-biology",
+    "crowdsourcing-biology-at-the-scripps-research-institute",
+    "crypto-stick",
+    "crystal-space",
+    "darktable",
+    "dbpedia-and-dbpedia-spotlight",
+    "department-of-biomedical-informatics-stony-brook-university",
+    "dept-of-biomedical-informatics-emory-university",
+    "dhwani",
+    "differ",
+    "digital-mars",
+    "docbook-project",
+    "dojo-foundation",
+    "dokuwiki",
+    "dr-memory",
+    "dragonfly-bsd",
+    "drasi",
+    "dreamwidth-studios",
+    "drizzle",
+    "drizzle-database",
+    "dspace-foundation",
+    "duraspace",
+    "e-cidadania",
+    "eclipse-adoptium",
+    "ecole-polytechnique-federale-de-lausanne-scala-team-2cd0f02334",
+    "ecole-polytechnique-federale-de-lausanne-scala-team-9324c657ba",
+    "edam-ontology",
+    "eductation-initiative",
+    "electronic-frontier-foundation-the-tor-project",
+    "elgg",
+    "encyclopedia-of-life",
+    "envoy-gateway",
+    "ersilia-open-source-initiative",
+    "es-operating-system",
+    "esug-european-smalltalk-user-group",
+    "etcd",
+    "etherboot-project",
+    "european-smalltalk-user-group-esug",
+    "european-space-agency-the-advanced-concepts-team",
+    "evergreen",
+    "evergreen-project",
+    "expert-labs",
+    "f4pga",
+    "facebook",
+    "fedora",
+    "fedora-project-and-jboss-org-red-hat",
+    "ffmpeg-libav",
+    "fibercorps",
+    "fiji",
+    "firefox",
+    "firefox-data-team",
+    "flatcar-container-linux",
+    "flowgrammable",
+    "fluid",
+    "flux",
+    "fluxbox",
+    "flywheel",
+    "formal-systems-laboratory-at-uiuc",
+    "foundation-for-learning-equality",
+    "free-software-foundation",
+    "free-software-initiative-of-japan",
+    "freedroidrpg",
+    "freenet-project-inc",
+    "freeseer-recording-and-streaming-suite",
+    "freeseer-video-recording-and-streaming-suite",
+    "frenetic",
+    "funf-org",
+    "galaxy-community",
+    "ganglia",
+    "gcc",
+    "gcc-gnu-compiler-collection",
+    "gcc-the-gnu-compiler-collection",
+    "geeklog",
+    "genmapp",
+    "genmapp-cytoscape-wikipathways-and-reactome",
+    "genome-informatics",
+    "gentoo",
+    "gephi-consortium",
+    "gephi-ngo",
+    "gimp",
+    "git-development-community",
+    "gnome-project",
+    "gnu-guix",
+    "gnu-image-manipulation-program-gimp",
+    "gnucash-free-accounting-software",
+    "go-openoffice",
+    "google-caja",
+    "google-kubernetes",
+    "google-open-source-programs-office",
+    "google-s-open-source-programs-office",
+    "grameen-foundation",
+    "grameen-foundation-motech",
+    "grassroots-dicom",
+    "groovy-community",
+    "gstreamer",
+    "hackystat",
+    "hami",
+    "haqdarshak",
+    "harbor",
+    "headlamp",
+    "hedgewars-project",
+    "helenos-group-at-department-of-distributed-and-dependable-systems-charles-university-in-prague",
+    "helsinki-institute-for-information-technology",
+    "hpcc-systems",
+    "hugin-and-panotools",
+    "hugin-panorama-photo-stitcher",
+    "hugin-panotools",
+    "humanitarian-openstreetmap-team",
+    "iabsis",
+    "idinsight",
+    "iiit-delhi",
+    "iiit-h-rcts",
+    "illumos",
+    "in-toto",
+    "inclusive-design-institute-idi",
+    "inspektor-gadget",
+    "interactive-spaces",
+    "interface-ecology-lab-texas-a-and-m-university",
+    "international-geogebra-institute",
+    "iowa-flood-center",
+    "ip-over-p2p-project",
+    "ipxe",
+    "irdest",
+    "isabelle",
+    "istio",
+    "italian-mars-society",
+    "jaeger",
+    "jato",
+    "jato-vm",
+    "jikes-rvm",
+    "jitsi-sip-communicator-kamailio-and-sems",
+    "jmonkeyengine",
+    "joomla-open-source-matters",
+    "jruby",
+    "jupyterhub",
+    "k8sgpt",
+    "kagent",
+    "karmada",
+    "kcl",
+    "kernel-org-the-linux-kernel-organization",
+    "kernelci",
+    "kgateway",
+    "kmesh",
+    "knative",
+    "knative-functions",
+    "komodo-openlab",
+    "komodo-openlab-inc",
+    "konveyor",
+    "konveyor-ai",
+    "koordinator",
+    "krkn",
+    "kthena",
+    "kuadrant",
+    "kube-burner",
+    "kube-state-metrics",
+    "kubearmor",
+    "kubeedge",
+    "kubernetes",
+    "kubescape",
+    "kubeslice",
+    "kubespray",
+    "kubestellar",
+    "kubevela",
+    "kubewarden",
+    "kwok",
+    "kyverno",
+    "laboratory-for-cosmological-data-mining",
+    "languagetool",
+    "learning-unlimited-inc",
+    "les-fruits-defendus",
+    "libav",
+    "lima",
+    "limesurvey",
+    "linaro",
+    "linux-kernel",
+    "linux-trace-toolkit-next-generation-project-lttng",
+    "litmuschaos",
+    "llvm",
+    "lmonade-scientific-software-distribution",
+    "lxde-project",
+    "lyx-the-document-processor",
+    "maemo-community",
+    "mapnik",
+    "marine-biological-laboratory-biodiversity-informatics-group-encyclopedia-of-life-project",
+    "marine-biological-laboratory-center-for-library-and-informatics",
+    "maryland-institute-for-technology-in-the-humanities",
+    "mbdyn-department-of-aerospace-engineering-at-the-polytechnic-university-of-milan",
+    "mboalab",
+    "measurement-lab",
+    "measurement-lab-m-lab",
+    "medes-imps",
+    "medic",
+    "medplat",
+    "medtronic-labs",
+    "meity",
+    "melange",
+    "mercurial",
+    "mercurial-a-member-of-the-software-freedom-conservancy",
+    "mercurial-distributed-version-control-system",
+    "metabrainz",
+    "metal3",
+    "metalink",
+    "microcks",
+    "mifos",
+    "mifos-the-community-for-open-source-microfinance",
+    "minix-3",
+    "minix-3-group-at-the-vu",
+    "minix-3-research-group-at-the-vrije-universiteit-in-amsterdam-the-netherlands",
+    "minnowboard-project",
+    "mit-center-for-mobile-learning-the-media-lab",
+    "mixxx-digital-dj",
+    "mlpack-scalable-c-machine-learning-library",
+    "mlton-org",
+    "modeci",
+    "moinmoin",
+    "moinmoin-wiki",
+    "mojaloop-foundation",
+    "monkey-http-daemon",
+    "monkey-project",
+    "mosip",
+    "mozilla-project",
+    "muzima",
+    "mysociety",
+    "mysql",
+    "national-center-for-supercomputing-applications",
+    "national-evolutionary-synthesis-center",
+    "national-evolutionary-synthesis-center-nescent",
+    "national-library-of-the-czech-republic",
+    "national-resource-for-network-biology-genmapp-cytoscape-and-wikipathways",
+    "national-urban-digital-mission",
+    "native-client",
+    "nats",
+    "natural-user-interface-group",
+    "natural-user-interface-group-nui-group",
+    "nescent-national-evolutionary-synthesis-center",
+    "netsurf",
+    "network-time",
+    "network-time-foundation",
+    "networkx",
+    "new-visions-for-public-schools",
+    "nha",
+    "ninux-org",
+    "nixos",
+    "notary",
+    "nsut-in-collaboration-with-c4gt-seeta-and-aic",
+    "ntp",
+    "ntp-project",
+    "oar",
+    "ocaml",
+    "odk-x",
+    "ogdf-open-graph-drawing-framework",
+    "ogre",
+    "ogre-object-oriented-graphics-rendering-engine",
+    "ogre-open-source-3d-graphics-engine",
+    "omii-uk",
+    "oncoblocks",
+    "open-education-resource-foundation",
+    "open-information-security-foundation",
+    "open-life-science",
+    "open-lighting-project",
+    "open-motion-planning-library",
+    "open-networking-lab",
+    "open-science-community-saudi-arabia-oscsa",
+    "open-source-computer-vision-library",
+    "open-source-computer-vision-library-opencv",
+    "open64",
+    "openarchive",
+    "openastronomy-astropy-and-sunpy",
+    "opencast-matterhorn",
+    "openchange-a-project-of-the-free-software-conservancy",
+    "opencog-foundation",
+    "opencog-sponsored-by-the-singularity-institute-for-artificial-intelligence",
+    "opencost",
+    "opendap-inc",
+    "openeverest",
+    "openflowhub",
+    "openicc",
+    "openicc-color-management",
+    "openimageio",
+    "openimis",
+    "openinkpot-project",
+    "openintents",
+    "openkruise",
+    "opennebula",
+    "opennms",
+    "opennyai",
+    "openssh",
+    "openstack",
+    "opentelemetry",
+    "openwall",
+    "openwall-project",
+    "openyurt",
+    "oppia",
+    "opticks",
+    "oras",
+    "oregon-state-university-open-source-lab",
+    "oregon-state-university-open-source-lab-osuosl",
+    "osv",
+    "owasp",
+    "packetfence",
+    "pagmo-pygmo",
+    "pagmo-pykep",
+    "palisadoes-foundation",
+    "pardus",
+    "parrot-foundation",
+    "parsl",
+    "pencil-code-foundation",
+    "perl-and-raku",
+    "php",
+    "pidgin-finch-and-libpurple-552f7f98d6",
+    "pidgin-finch-and-libpurple-897bd66f84",
+    "pipecd",
+    "piramal-swasthya-management-and-research-institute",
+    "pitivi-video-editor",
+    "pkif-project",
+    "plan-9-from-bell-labs",
+    "planetread",
+    "plse-at-uw",
+    "podman-container-tools",
+    "point-cloud-library-pcl",
+    "portable-native-client",
+    "postgresql-global-development-group",
+    "postgresql-project",
+    "pratham-books",
+    "princeton-center-for-information-technology-policy",
+    "privly-foundation",
+    "processing",
+    "project-tox",
+    "prometheus",
+    "protean",
+    "ptolemy-project-university-of-california-berkeley",
+    "public-laboratory-for-open-technology-and-science",
+    "pulseaudio",
+    "puppet-labs",
+    "puppet-reductive-labs",
+    "pymc",
+    "qemu-development-team",
+    "qemu-org",
+    "quagga-opensourcerouting-isc",
+    "r-foundation-for-statistical-computing",
+    "raxa",
+    "review-board",
+    "riot",
+    "rockbox",
+    "rook",
+    "roostats",
+    "routeflow",
+    "rspamd-spam-filtering-system",
+    "ruby-science-foundation-sciruby",
+    "sahana",
+    "sahana-software-foundation",
+    "sakai-foundation",
+    "sakai-project",
+    "samanvay-foundation",
+    "sampatti-card",
+    "saros",
+    "scaffold-hunter",
+    "scala-team",
+    "scikit-image",
+    "scilab-consortium-digiteo-foundation",
+    "scilab-digiteo-foundation",
+    "scons-next-generation-build-system",
+    "scribus",
+    "scribus-team",
+    "securedrop",
+    "selenium",
+    "sencha-labs",
+    "service-mesh-performance",
+    "servo",
+    "seti-institute",
+    "sharpdevelop",
+    "shikshalokam",
+    "shogun-machine-learning-toolbox-technical-university-berlin-max-planck-campus-tubingen",
+    "silverstripe",
+    "simple-directmedia-layer",
+    "simplecv",
+    "sip-communicator",
+    "software-freedom-conservancy-inc",
+    "statistics-online-computational-resource",
+    "statusnet",
+    "statwig",
+    "steel-bank-common-lisp",
+    "stellarium",
+    "stratosphere-project",
+    "strimzi",
+    "subsurface",
+    "subversion",
+    "sugar-labs-educational-platform-a-member-of-the-sfc",
+    "sunlight-foundation",
+    "sunlight-labs",
+    "supertuxkart",
+    "swathanthra-malayalam-computing",
+    "swig",
+    "syncdiff-erent",
+    "systemd",
+    "systers",
+    "systers-women-in-computing",
+    "tahoe-lafs",
+    "tattle",
+    "tcl-community-association",
+    "tcl-tk-community",
+    "teammates-project-national-university-of-singapore",
+    "tekdi",
+    "testgrid",
+    "thanos",
+    "the-apprentice-project",
+    "the-aqsis-team",
+    "the-asterisk-project",
+    "the-battle-for-wesnoth",
+    "the-centre-for-computational-medicine",
+    "the-codehaus",
+    "the-concord-consortium",
+    "the-electronic-frontier-foundation-the-tor-project",
+    "the-enlightenment-project",
+    "the-fedora-project",
+    "the-freenet-project",
+    "the-gambit-project",
+    "the-globus-alliance",
+    "the-mono-project",
+    "the-netbsd-project",
+    "the-ntp-forum",
+    "the-open-motion-planning-library",
+    "the-openbsd-foundation",
+    "the-opencog-foundation",
+    "the-openstack-foundation",
+    "the-outercurve-foundation",
+    "the-privly-foundation",
+    "the-rust-project",
+    "the-syslinux-project",
+    "the-tor-project-and-eff",
+    "the-tor-project-electronic-frontier-foundation",
+    "the-visualization-toolkit",
+    "the-wiselib",
+    "theoretical-biophysics-humboldt-university",
+    "thinkup",
+    "thousand-parsec",
+    "tikiwiki-cms-groupware",
+    "tor-project",
+    "tox",
+    "tuf",
+    "turbogears",
+    "tux4kids",
+    "twitter",
+    "typo3-association",
+    "ubuntu",
+    "umit-project",
+    "unicef-innovation",
+    "universal-subtitles",
+    "university-of-nebraska-helikar-lab",
+    "unknown-horizons",
+    "unknown-horizons-and-fife",
+    "unstructured-studio",
+    "urunc",
+    "ushahidi",
+    "velero",
+    "visualization-toolkit-vtk",
+    "vitess",
+    "volcano",
+    "wasmedge",
+    "wikimedia",
+    "wine",
+    "wine-a-project-of-software-freedom-conservancy",
+    "wine-project",
+    "winlibre",
+    "wordpress",
+    "world-wide-web-consortium-w3c",
+    "worldforge",
+    "x-org",
+    "xarray",
+    "xbmc",
+    "xelerance-corporation",
+    "xen-org",
+    "xmms2",
+    "xmms2-x-platform-music-multiplexing-system-2",
+    "yafaray-yet-another-free-raytracer",
+    "yocto-project",
+    "zarr"
+  ]
+}

@@ -16,6 +16,10 @@
     "data:build": "node scripts/build-data.mjs",
     "data:validate": "node scripts/validate-data.mjs",
     "data:refresh": "node scripts/refresh-data.mjs",
+    "data:history": "node scripts/import-gsoc-history.mjs",
+    "data:resources": "node scripts/import-resources.mjs",
+    "logos:cache": "node scripts/cache-logos.mjs",
+    "repo:refresh": "node scripts/refresh-repository.mjs",
     "clean": "gatsby clean"
   },
   "dependencies": {

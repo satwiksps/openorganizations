@@ -36,6 +36,10 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - name: Import sources and validate the complete snapshot
         run: pnpm data:refresh
+      - name: Refresh the public star-count snapshot
+        run: node scripts/refresh-repository.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: pnpm test
       - run: pnpm build
       - run: pnpm data:validate
@@ -59,3 +63,4 @@ jobs:
             data/sob.json
             data/supplemental.json
             data/directory.json
+            data/repository.json

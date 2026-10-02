@@ -145,7 +145,7 @@ export function mergeOrganizations(rows, aliases = {}) {
     const latestYear = row => Math.max(...row.participations.map(p => p.year))
     const metadata = [...group].sort((a, b) => evidenceTime(b) - evidenceTime(a) || latestYear(b) - latestYear(a) || a.name.localeCompare(b.name, 'en') || a.description.localeCompare(b.description, 'en'))
     const genericCategory = value => /^(?:open source(?: communities)?|other|unknown|general)$/i.test(value)
-    const boilerplate = row => row.websiteIsSource && /\b(?:is listed in|has participated in|listed .+ projects in)\b/i.test(row.description)
+    const boilerplate = row => row.websiteIsSource && /\b(?:is listed in|appears in|has participated in|listed .+ projects in)\b/i.test(row.description)
     org.description = (metadata.find(row => row.description && !boilerplate(row)) || metadata.find(row => row.description))?.description || ''
     org.category = (metadata.find(row => row.category && !genericCategory(row.category)) || metadata.find(row => row.category))?.category || 'Open source'
     org.logoUrl = metadata.find(row => row.logoUrl)?.logoUrl || ''
@@ -209,6 +209,7 @@ export async function buildDirectory(root = ROOT) {
   const readJson = async name => JSON.parse(await readFile(resolve(root, 'data', name), 'utf8'))
   const [gsoc, sob, supplemental, registry, aliases] = await Promise.all(['gsoc.json', 'sob.json', 'supplemental.json', 'programs.json', 'aliases.json'].map(readJson))
   const snapshots = [gsoc, sob, supplemental]
+  try { snapshots.push(await readJson('gsoc-history.json')) } catch (error) { if (error.code !== 'ENOENT') throw error }
   const rows = snapshots.flatMap((snapshot, i) => validateSnapshot(snapshot, ['gsoc', 'sob', 'supplemental'][i]))
   // Derive generation date from inputs so repeated offline builds produce identical bytes.
   const evidenceDates = rows.flatMap(row => row.participations.map(p => p.fetchedAt || p.verifiedAt))

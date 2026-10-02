@@ -96,6 +96,7 @@ const LFX_ALIASES = {
 async function importLfx() {
   const map = new Map();
   const terms = [
+    ['2023/01-Mar-May', 2023, 'Term 1 · March–May'], ['2023/02-Jun-Aug', 2023, 'Term 2 · June–August'], ['2023/03-Sep-Nov', 2023, 'Term 3 · September–November'],
     ['2024/01-Mar-May', 2024, 'Term 1 · March–May'], ['2024/02-Jun-Aug', 2024, 'Term 2 · June–August'], ['2024/03-Sep-Nov', 2024, 'Term 3 · September–November'],
     ['2025/01-Mar-May', 2025, 'Term 1 · March–May'], ['2025/02-Jun-Aug', 2025, 'Term 2 · June–August'], ['2025/03-Sep-Nov', 2025, 'Term 3 · September–November'],
     ['2026/01-Mar-May', 2026, 'Term 1 · March–May'], ['2026/02-Jun-Aug', 2026, 'Term 2 · June–August'],
@@ -137,7 +138,7 @@ async function importLfx() {
     flush();
     // A project is included only with a real LFX project link; never import ideas as accepted.
     const links = uniq([...text.slice(Math.max(0, sectionStart)).matchAll(/^[ \t]*[-*]\s*(?:\*\*)?LFX URL(?:\*\*)?\s*:\s*(?:\*\*)?\s*(.+)$/gmi)].map(m => urlIn(m[1])));
-    assert(records.length >= 25 && records.length === links.length, `LFX coverage changed in ${folder}: parsed ${records.length}, links ${links.length}`);
+    assert(records.length >= 10 && records.length === links.length, `LFX coverage changed in ${folder}: parsed ${records.length}, links ${links.length}`);
     console.log(`lfx ${folder}: ${records.length} linked accepted projects`);
     return { records, year, cohort, sourceUrl, text };
   });
@@ -171,7 +172,7 @@ async function importLfx() {
 async function importOutreachy() {
   const indexUrl = 'https://www.outreachy.org/past-projects/';
   const index = await fetchText(indexUrl);
-  const rounds = [...index.matchAll(/<a href="([^"]+)">((?:May|June|December) (202[3-6]) Outreachy internship cohort)<\/a>/g)]
+  const rounds = [...index.matchAll(/<a href="([^"]+)">((?:May|June|December) (202[0-6]) Outreachy internship cohort)<\/a>/g)]
     .filter(m => !m[2].startsWith('December 2026')).map(m => ({ url: new URL(m[1], indexUrl).href, year: +m[3], cohort: m[2].replace(' Outreachy internship cohort', '') }));
   assert(rounds.length >= 7, 'Outreachy archive structure changed');
   const pages = await mapLimit(rounds, async r => ({ ...r, text: await fetchText(r.url) }));

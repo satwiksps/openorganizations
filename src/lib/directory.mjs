@@ -100,7 +100,7 @@ export function filterOrganizations(organizations, input = {}, today) {
     if (!hasAny(filters.categories, [organization.category])) return false;
     if (!hasAny(filters.technologies, strings(organization.technologies))) return false;
     if (!hasAny(filters.topics, strings(organization.topics))) return false;
-    const haystack = fold([organization.name, ...strings(organization.aliases), organization.description, organization.category, ...strings(organization.technologies), ...strings(organization.topics)].join(" "));
+    const haystack = fold([organization.name, ...strings(organization.aliases), ...strings(organization.subOrganizationNames), organization.description, organization.category, ...strings(organization.technologies), ...strings(organization.topics)].join(" "));
     return terms.every(term => haystack.includes(term));
   }).sort((a, b) => {
     if (filters.sort === "recent") {
