@@ -3,52 +3,79 @@
     <img src="static/readme-banner.svg" width="100%" alt="OpenOrganizations — Find your open source community" />
   </a>
 
-  <p>Find a community. Explore its history. Make your first contribution.</p>
+  </br>
+  <h5>Find a community. Explore its history. Make your first contribution.</h5>
 
   <p>
-    <a href="https://openorganizations.site/"><img src="https://img.shields.io/badge/Explore_organizations-236570?style=for-the-badge" alt="Explore organizations" /></a>
+    <strong>
+      <a href="https://openorganizations.site/">Explore organizations</a>
+      &nbsp;|&nbsp;
+      <a href="https://openorganizations.site/programs/">Programs</a>
+      &nbsp;|&nbsp;
+      <a href="https://openorganizations.site/proposals/">Proposals</a>
+      &nbsp;|&nbsp;
+      <a href="https://openorganizations.site/sources/">Sources</a>
+    </strong>
+  </p>
+
+  <p>
+    <a href="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml">
+      <img src="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml/badge.svg" alt="Build status" />
+    </a>
     &nbsp;
-    <a href="https://openorganizations.site/proposals/"><img src="https://img.shields.io/badge/Browse_proposals-475569?style=for-the-badge" alt="Browse proposals" /></a>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/badge/license-GPL--3.0-64748b?style=flat&amp;labelColor=334155" alt="GPL-3.0 license" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/satwiksps/openorganizations?style=flat&amp;color=d99048&amp;labelColor=334155" alt="GitHub stars" />
+    <a href="https://github.com/satwiksps/openorganizations/issues">
+      <img src="https://img.shields.io/github/issues/satwiksps/openorganizations?style=flat&amp;label=open%20issues&amp;color=236570&amp;labelColor=334155" alt="Open issues" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/satwiksps/openorganizations/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/satwiksps/openorganizations?style=flat&amp;color=236570&amp;labelColor=334155" alt="Contributors" />
+    </a>
+  </p>
+
+  <h3>⭐ Please star this repo ⭐</h3>
+
+  <p>
+    <a href="https://openorganizations.site/?program=gsoc" title="Google Summer of Code"><img src="static/programs/gsoc.png" height="28" alt="GSoC" /></a>
+    &nbsp;&nbsp;
+    <a href="https://openorganizations.site/?program=lfx" title="LFX"><img src="static/programs/lfx.png" height="28" alt="LFX" /></a>
+    &nbsp;&nbsp;
+    <a href="https://openorganizations.site/?program=sob" title="Summer of Bitcoin"><img src="static/programs/sob.png" height="28" alt="Summer of Bitcoin" /></a>
+    &nbsp;&nbsp;
+    <a href="https://openorganizations.site/?program=esoc" title="ESoC"><img src="static/programs/esoc.webp" height="28" alt="ESoC" /></a>
+    &nbsp;&nbsp;
+    <a href="https://openorganizations.site/?program=outreachy" title="Outreachy"><img src="static/programs/outreachy.png" height="28" alt="Outreachy" /></a>
+    &nbsp;&nbsp;
+    <a href="https://openorganizations.site/?program=c4gt" title="C4GT"><img src="static/programs/c4gt.png" height="28" alt="C4GT" /></a>
+    &nbsp;&nbsp;
+    <a href="https://openorganizations.site/?program=sok" title="Season of KDE"><img src="static/programs/sok.png" height="28" alt="Season of KDE" /></a>
   </p>
 
   <p>
-    <a href="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml"><img src="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml/badge.svg" alt="Build status" /></a>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-64748b?labelColor=334155" alt="GPL-3.0 license" /></a>
-    <a href="https://github.com/satwiksps/openorganizations/stargazers"><img src="https://img.shields.io/badge/Star_on_GitHub-d99048?style=flat&logo=github&logoColor=white" alt="Star on GitHub" /></a>
+    <sub>
+      GSoC &nbsp;|&nbsp; LFX &nbsp;|&nbsp; Summer of Bitcoin &nbsp;|&nbsp;
+      ESoC &nbsp;|&nbsp; Outreachy &nbsp;|&nbsp; C4GT &nbsp;|&nbsp; Season of KDE
+    </sub>
   </p>
-
-  <br />
-
-  <a href="https://openorganizations.site/">
-    <img src="static/readme-preview.png" width="100%" alt="OpenOrganizations: four-column directory with program tabs, technology filters, organization logos and participation history" />
-  </a>
-
-  <p><sub>Search communities by technology · Compare program history · Learn from public proposals</sub></p>
-
-  <br />
-
-  <p>
-    <a href="https://openorganizations.site/?program=gsoc"><img src="static/programs/gsoc.png" height="26" alt="GSoC" /></a>
-    &nbsp;&nbsp;
-    <a href="https://openorganizations.site/?program=lfx"><img src="static/programs/lfx.png" height="26" alt="LFX" /></a>
-    &nbsp;&nbsp;
-    <a href="https://openorganizations.site/?program=sob"><img src="static/programs/sob.png" height="26" alt="Summer of Bitcoin" /></a>
-    &nbsp;&nbsp;
-    <a href="https://openorganizations.site/?program=esoc"><img src="static/programs/esoc.webp" height="26" alt="ESoC" /></a>
-    &nbsp;&nbsp;
-    <a href="https://openorganizations.site/?program=outreachy"><img src="static/programs/outreachy.png" height="26" alt="Outreachy" /></a>
-    &nbsp;&nbsp;
-    <a href="https://openorganizations.site/?program=c4gt"><img src="static/programs/c4gt.png" height="26" alt="C4GT" /></a>
-    &nbsp;&nbsp;
-    <a href="https://openorganizations.site/?program=sok"><img src="static/programs/sok.png" height="26" alt="Season of KDE" /></a>
-  </p>
-
-  <p><sub>GSoC · LFX · Summer of Bitcoin · ESoC · Outreachy · C4GT · Season of KDE</sub></p>
-  <p><a href="https://openorganizations.site/programs/">All programs</a> &nbsp;·&nbsp; <a href="https://openorganizations.site/sources/">Sources &amp; coverage</a></p>
-
-  <hr />
-
-  <h3>Found your next community? Star for a cookie! 🍪</h3>
-  <p><a href="https://github.com/satwiksps/openorganizations/stargazers">Give OpenOrganizations a star</a> and help others find their starting point.</p>
-  <p><sub>Inspired by <a href="https://www.gsocorganizations.dev/">GSoC Organizations</a> · Made with ♥ by <a href="https://github.com/satwiksps">satwiksps</a></sub></p>
 </div>
+
+**OpenOrganizations** brings open-source communities, program history, and public proposals into one searchable directory. Find a community that matches your interests, explore its history, and discover your next contribution.
+
+### What you can explore
+
+- **Find communities by technology:** Search organizations and explore communities across supported programs.
+- **Compare program history:** See how organizations have participated over time.
+- **Learn from public proposals:** Explore examples of how contributors describe projects and plan their work.
+- **Look inside umbrella organizations:** Discover the smaller communities within larger organizations.
+
+### Find your starting point
+
+Choose a program, shortlist communities that interest you, and explore their projects and contribution guidelines. Browse public proposals to understand how an idea becomes a project plan.
+
+> **Before you apply:** Check each program’s official website for current dates, eligibility criteria, and application requirements.
+
+<sub>Inspired by <a href="https://www.gsocorganizations.dev/">GSoC Organizations</a> &nbsp;|&nbsp; Made by <a href="https://github.com/satwiksps">satwiksps</a></sub>
