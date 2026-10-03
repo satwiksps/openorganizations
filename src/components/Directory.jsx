@@ -129,8 +129,8 @@ export default function Directory({ organizations = [], programs = [], generated
       </aside>
 
       <main className="directory-main" id="main-content" tabIndex={-1}>
-        <header className="directory-header">
           <div className="directory-topbar"><Brand mobile onNavigate={resetFilters} /><nav className="mobile-resources"><Link to="/programs/">Programs</Link><Link to="/proposals/">Proposals</Link></nav></div>
+        <header className="directory-header">
           <h1 className="visually-hidden">Open source organizations across mentorship programs</h1>
           <div className="search-field"><Search className="search-icon" size={20} aria-hidden="true" /><input ref={searchRef} type="search" aria-label="Search organizations, technologies, or topics" placeholder="Search organizations, technologies, or topics…" value={filters.q} onChange={event => updateFilters({ q: event.target.value }, { replace: true })} />{filters.q && <button className="search-clear" type="button" aria-label="Clear search" onClick={() => { updateFilters({ q: "" }, { replace: true }); searchRef.current?.focus(); }}><X size={16} aria-hidden="true" /></button>}</div>
           <div className="program-tabs" role="group" aria-label="Filter by program">
