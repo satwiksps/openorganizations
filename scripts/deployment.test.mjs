@@ -12,8 +12,8 @@ async function withFixture(run) {
   const base = resolve(tmpdir())
   const root = await mkdtemp(join(base, 'openorganizations-deployment-test-'))
   try {
-    for (const directory of ['public/about', 'public/404', 'data', 'scripts', 'static/fonts', 'docs']) await mkdir(join(root, directory), { recursive: true })
-    for (const [path, contents] of Object.entries({ 'package.json': '{}', 'pnpm-lock.yaml': 'lockfileVersion: 9.0', 'pnpm-workspace.yaml': 'allowBuilds: {}', LICENSE: 'Fixture license', '.env': 'DO_NOT_PUBLISH_THIS_SECRET', 'public/index.html': 'root', 'public/about/index.html': 'about', 'public/404/index.html': 'missing', 'static/fonts/OFL.txt': 'Font license', 'docs/DEPLOYMENT.md': 'Build instructions' })) await writeFile(join(root, path), contents)
+    for (const directory of ['public/about', 'public/404', 'data', 'scripts', 'static/fonts']) await mkdir(join(root, directory), { recursive: true })
+    for (const [path, contents] of Object.entries({ 'package.json': '{}', 'pnpm-lock.yaml': 'lockfileVersion: 9.0', 'pnpm-workspace.yaml': 'allowBuilds: {}', LICENSE: 'Fixture license', '.env': 'DO_NOT_PUBLISH_THIS_SECRET', 'public/index.html': 'root', 'public/about/index.html': 'about', 'public/404/index.html': 'missing', 'static/fonts/OFL.txt': 'Font license', 'NOTICE.md': 'Attribution notices' })) await writeFile(join(root, path), contents)
     return await run(root)
   } finally {
     const target = resolve(root)
@@ -42,7 +42,7 @@ test('source download retains build and license inputs, excludes secrets, and is
   const text = gunzipSync(archive).toString('utf8')
   assert.match(text, /pnpm-workspace.yaml/)
   assert.match(text, /static\/fonts\/OFL.txt/)
-  assert.match(text, /docs\/DEPLOYMENT.md/)
+  assert.match(text, /NOTICE.md/)
   assert.doesNotMatch(text, /DO_NOT_PUBLISH_THIS_SECRET|EXCLUDED_CREDENTIAL_VALUE/)
   assert.deepEqual(gzipSync(createSourceTar(await sourceFiles(root)), { level: 9 }), archive)
   const listing = execFileSync('tar', ['-tzf', join(root, 'public/source.tar.gz')], { encoding: 'utf8' })

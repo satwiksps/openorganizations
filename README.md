@@ -8,7 +8,7 @@
 
   <h1>One place to find your open-source community</h1>
   <p>Explore organizations, compare their program history, learn from public proposals,<br />and discover the smaller communities inside umbrella organizations.</p>
-  <p><strong><a href="docs/PROJECT.md#run-locally">Get started</a> &nbsp;·&nbsp; <a href="docs/PROJECT.md#data-coverage">Coverage</a> &nbsp;·&nbsp; <a href="docs/DEPLOYMENT.md">Deploy for free</a> &nbsp;·&nbsp; <a href="CONTRIBUTING.md">Contribute</a></strong></p>
+  <p><strong><a href="https://openorganizations.site/">Explore organizations</a> &nbsp;·&nbsp; <a href="https://openorganizations.site/programs/">Programs</a> &nbsp;·&nbsp; <a href="https://openorganizations.site/proposals/">Proposals</a> &nbsp;·&nbsp; <a href="https://openorganizations.site/sources/">Sources</a></strong></p>
   <br />
   <h3>Please star for a cookie! 🍪</h3>
   <p>If this directory helps you find your next contribution, <a href="https://github.com/satwiksps/openorganizations">star the repository</a>.<br />A small thank-you for helping the directory grow.</p>

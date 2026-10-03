@@ -5,8 +5,8 @@ import { gzipSync } from 'node:zlib'
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const MAX_ASSET_BYTES = 25 * 1024 * 1024
-const ROOT_FILES = ['package.json', 'pnpm-lock.yaml', 'pnpm-workspace.yaml', 'gatsby-config.js', 'gatsby-node.js', 'gatsby-browser.js', 'gatsby-ssr.js', '.nvmrc', '.npmrc', '.gitignore', '.env.example', 'LICENSE', 'NOTICE', 'NOTICE.md', 'README.md', 'CONTRIBUTING.md']
-const SOURCE_DIRECTORIES = ['src', 'scripts', 'data', 'vendor', 'docs', '.github', 'static']
+const ROOT_FILES = ['package.json', 'pnpm-lock.yaml', 'pnpm-workspace.yaml', 'gatsby-config.js', 'gatsby-node.js', 'gatsby-browser.js', 'gatsby-ssr.js', '.nvmrc', '.npmrc', '.gitignore', 'LICENSE', 'NOTICE', 'NOTICE.md', 'README.md']
+const SOURCE_DIRECTORIES = ['src', 'scripts', 'data', 'vendor', '.github', 'static']
 const SOURCE_EXTENSIONS = new Set(['.js', '.jsx', '.mjs', '.cjs', '.ts', '.tsx', '.json', '.css', '.scss', '.md', '.mdx', '.txt', '.yaml', '.yml', '.html', '.svg', '.png', '.jpg', '.jpeg', '.webp', '.gif', '.ico', '.woff', '.woff2', '.ttf', '.otf', '.sh'])
 const SOURCE_BASENAMES = new Set(['LICENSE', 'NOTICE', 'COPYING', 'AUTHORS', '_headers', '_redirects', '.gitkeep'])
 const EXCLUDED_DIRECTORIES = new Set(['node_modules', '.git', '.reference', '.cache', 'public', 'dist', 'coverage'])

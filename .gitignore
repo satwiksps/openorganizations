@@ -4,7 +4,6 @@ public/
 .reference/
 .env
 .env.*
-!.env.example
 .wrangler/
 *.log
 .DS_Store
