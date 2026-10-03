@@ -6,7 +6,7 @@ import OrganizationCard from "./OrganizationCard";
 import AdSlot from "./AdSlot";
 import ProjectChart from './ProjectChart';
 import ProgramIcon from "./ProgramIcon";
-import RepoStars from './RepoStars';
+import CommunityFooter from './CommunityFooter';
 import { DEFAULT_FILTERS, PAGE_SIZE, filterOrganizations, getDirectoryFacets, getProgramCounts, normalizeFilters, paginateOrganizations, parseDirectoryQuery, serializeDirectoryQuery } from "../lib/directory.mjs";
 
 const PRIMARY_PROGRAMS = ["gsoc", "lfx", "sob", "esoc", "outreachy", "c4gt"];
@@ -57,7 +57,7 @@ export default function Directory({ organizations = [], programs = [], generated
   const facets = useMemo(() => getDirectoryFacets(organizations, filters, today), [organizations, filters, today]);
   const counts = useMemo(() => getProgramCounts(organizations, programs, filters, today), [organizations, programs, filters, today]);
   const pagination = useMemo(() => paginateOrganizations(matching, filters.page), [matching, filters.page]);
-  const filterCount = filters.years.length + filters.categories.length + filters.technologies.length + filters.topics.length + filters.terms.length;
+  const filterCount = filters.years.length + filters.categories.length + filters.technologies.length + filters.topics.length + filters.terms.length + Number(filters.firstTime);
   const primaryPrograms = PRIMARY_PROGRAMS.map(id => programs.find(program => program.id === id)).filter(Boolean);
   const otherPrograms = programs.filter(program => !PRIMARY_PROGRAMS.includes(program.id));
   const activeProgram = programs.find(program => program.id === filters.program);
@@ -94,7 +94,8 @@ export default function Directory({ organizations = [], programs = [], generated
     resultsRef.current?.scrollIntoView({ block: "start", behavior: "auto" });
   }
 
-  const sidebarProps = { filters, facets, onToggle: toggleFilter, onChange: updateFilters, onReset: resetFilters, filterCount };
+  const firstTimeCount = useMemo(() => filterOrganizations(organizations, {...filters, firstTime:true}, today).length, [organizations, filters, today]);
+  const sidebarProps = { firstTimeCount, filters, facets, onToggle: toggleFilter, onChange: updateFilters, onReset: resetFilters, filterCount };
 
   return (
     <div className="directory-shell">
@@ -104,7 +105,7 @@ export default function Directory({ organizations = [], programs = [], generated
         <nav className="sidebar-nav" aria-label="Main navigation"><Link to="/" onClick={resetFilters} className="is-active" aria-current="page"><Grid2X2 size={16} aria-hidden="true" />Organizations</Link><Link to="/programs/">Programs<span>{programs.length}</span></Link></nav>
         <FilterSidebar {...sidebarProps} />
         <Link className="sidebar-proposals" to="/proposals/">Proposals <ArrowRight size={14}/></Link>
-        <div className="sidebar-footer"><nav aria-label="Information"><Link to="/about/">About</Link><Link to="/sources/">Data & sources</Link><Link to="/privacy/">Privacy</Link></nav><RepoStars/></div>
+        <div className="sidebar-footer"><nav aria-label="Information"><Link to="/about/">About</Link><Link to="/sources/">Data & sources</Link><Link to="/privacy/">Privacy</Link></nav><CommunityFooter/></div>
       </aside>
 
       <main className="directory-main" id="main-content" tabIndex={-1}>
@@ -122,12 +123,12 @@ export default function Directory({ organizations = [], programs = [], generated
         <section className="directory-results" aria-label="Organizations">
           {activeProgram && <details className="directory-history"><summary>{activeProgram.label} project history & coverage</summary><ProjectChart records={organizations.flatMap(org => org.participations.filter(p => p.program === activeProgram.id))} program={activeProgram.id}/><p>{activeProgram.coverage} <a href={activeProgram.url} target="_blank" rel="noreferrer">Official program ↗</a></p></details>}
           <div className="directory-toolbar"><p className="result-count" role="status" aria-live="polite"><strong>{matching.length.toLocaleString("en-US")}</strong> {matching.length === 1 ? "organization" : "organizations"}{activeProgram && <span> in {activeProgram.label}</span>}</p><div className="directory-toolbar-actions"><button ref={filterTriggerRef} type="button" className="mobile-filter-button filter-button" onClick={() => setMobileOpen(true)} aria-haspopup="dialog"><SlidersHorizontal size={16} aria-hidden="true" />Filters{filterCount > 0 && <span>{filterCount}</span>}</button><label className="sort-control"><span>Sort by</span><select aria-label="Sort organizations" value={filters.sort} onChange={event => updateFilters({ sort: event.target.value })}><option value="name">Name A–Z</option><option value="recent">Most recent year</option></select></label></div></div>
-          {(filterCount > 0 || filters.q) && <div className="active-filters" aria-label="Applied filters">{filters.q && <button type="button" className="filter-chip" onClick={() => updateFilters({ q: "" })} aria-label={`Remove search: ${filters.q}`}>Search: {filters.q}<X size={12} aria-hidden="true" /></button>}{Object.entries(FACET_LABELS).flatMap(([key, label]) => filters[key].map(value => <button key={`${key}-${value}`} type="button" className="filter-chip" onClick={() => toggleFilter(key, value)} aria-label={`Remove ${label.toLowerCase()} filter: ${value}`}>{value}<X size={12} aria-hidden="true" /></button>))}{filters.applicationsOpen && <button type="button" className="filter-chip" onClick={() => updateFilters({ applicationsOpen: false })}>Applications open<X size={12} aria-hidden="true" /></button>}<button type="button" className="reset-filters" onClick={resetFilters}>Clear all</button></div>}
+          {(filterCount > 0 || filters.q) && <div className="active-filters" aria-label="Applied filters">{filters.q && <button type="button" className="filter-chip" onClick={() => updateFilters({ q: "" })} aria-label={`Remove search: ${filters.q}`}>Search: {filters.q}<X size={12} aria-hidden="true" /></button>}{Object.entries(FACET_LABELS).flatMap(([key, label]) => filters[key].map(value => <button key={`${key}-${value}`} type="button" className="filter-chip" onClick={() => toggleFilter(key, value)} aria-label={`Remove ${label.toLowerCase()} filter: ${value}`}>{value}<X size={12} aria-hidden="true" /></button>))}{filters.firstTime && <button type="button" className="filter-chip" onClick={()=>updateFilters({firstTime:false})}>First-time organizations<X size={12} aria-hidden="true"/></button>}{filters.applicationsOpen && <button type="button" className="filter-chip" onClick={() => updateFilters({ applicationsOpen: false })}>Applications open<X size={12} aria-hidden="true" /></button>}<button type="button" className="reset-filters" onClick={resetFilters}>Clear all</button></div>}
           <div ref={resultsRef} tabIndex={-1} className="results-focus-target">
-            {pagination.items.length ? <div className="organization-grid">{pagination.items.map((organization,index) => <React.Fragment key={organization.id}><OrganizationCard organization={organization} filters={filters} programs={programs} today={today} />{index === 5 && pagination.items.length > 6 && <AdSlot placement="directory"/>}</React.Fragment>)}</div> : <div className="empty-state"><Search size={32} aria-hidden="true" /><h2>No organizations found</h2><p>{filters.applicationsOpen ? "No verified open applications match these filters. Explore participation history or check the official program pages for new rounds." : "Try a different search or remove a filter to discover more communities."}</p><button type="button" onClick={resetFilters}>Reset filters</button><Link to="/programs/">Explore programs<ArrowRight size={15} aria-hidden="true" /></Link></div>}
+            {pagination.items.length ? <div className="organization-grid">{pagination.items.map((organization,index) => <React.Fragment key={organization.id}><OrganizationCard organization={organization} filters={filters} programs={programs} today={today} />{[5,17].includes(index) && pagination.items.length > index + 1 && <AdSlot placement="directory"/>}</React.Fragment>)}</div> : <div className="empty-state"><Search size={32} aria-hidden="true" /><h2>No organizations found</h2><p>{filters.applicationsOpen ? "No verified open applications match these filters. Explore participation history or check the official program pages for new rounds." : "Try a different search or remove a filter to discover more communities."}</p><button type="button" onClick={resetFilters}>Reset filters</button><Link to="/programs/">Explore programs<ArrowRight size={15} aria-hidden="true" /></Link></div>}
           </div>
           {matching.length > 0 && <nav className="pagination" aria-label="Results pages"><p className="pagination-summary">Showing {visibleStart}–{visibleEnd} of {matching.length.toLocaleString("en-US")}</p><div className="pagination-controls"><button type="button" aria-label="Previous page" disabled={pagination.page === 1} onClick={() => changePage(pagination.page - 1)}><ArrowLeft size={16} aria-hidden="true" /><span>Previous</span></button><span>Page <strong>{pagination.page}</strong> of {pagination.totalPages}</span><button type="button" aria-label="Next page" disabled={pagination.page === pagination.totalPages} onClick={() => changePage(pagination.page + 1)}><span>Next</span><ArrowRight size={16} aria-hidden="true" /></button></div></nav>}
-          <div className="mobile-star-footer"><RepoStars compact/></div>
+          <div className="mobile-star-footer"><CommunityFooter compact/></div>
           <p className="directory-data-note"><Link to="/sources/">Check our sources and coverage.</Link></p>
         </section>
       </main>

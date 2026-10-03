@@ -61,6 +61,7 @@ After approval, set the **real** values issued by Google in the hosting build en
 
 - `GATSBY_ADSENSE_CLIENT`: your `ca-pub-` publisher ID followed by 16 digits.
 - `GATSBY_ADSENSE_SLOT`: your numeric ad-unit ID.
+- `GATSBY_ADSENSE_AUTO_ADS`: set to `true` only when native Auto ads are configured in AdSense.
 
 These are public identifiers compiled into browser code, not secrets. The postbuild script emits an `ads.txt` Google DIRECT record only when a syntactically valid publisher ID is configured; it cannot confirm account ownership or approval. With no publisher ID, it publishes no `ads.txt`. Never use dummy IDs in production. Match the generated entry to Google's [ads.txt instructions](https://support.google.com/adsense/answer/12171612?hl=en-GB).
 
@@ -71,7 +72,7 @@ window.__ooAdsConsent = true; // Only after the CMP reports valid ad consent.
 window.dispatchEvent(new Event('openorganizations:ads-consent'));
 ```
 
-For refusal or withdrawal, set the value to `false` and dispatch the same event. The component removes the ad content when consent is false while preserving the reserved space, but an already-loaded third-party script cannot be fully unloaded by removing markup. Wire withdrawal to the CMP's revocation procedure and reload the page after persisting the refusal, so the next page starts without loading the ad script. Initialize the bridge to false/absent until the CMP confirms consent. Continued browsing, the visitor's inferred region, and elapsed time are never treated as consent by the component.
+For refusal or withdrawal, set the value to `false` and dispatch the same event. Manual placements disappear when consent is false, but an already-loaded third-party script cannot be fully unloaded by removing markup. Wire withdrawal to the CMP's revocation procedure and reload the page after persisting the refusal, so the next page starts without loading the ad script. Initialize the bridge to false/absent until the CMP confirms consent. Continued browsing, the visitor's inferred region, and elapsed time are never treated as consent by the component.
 
 Before enabling ads, update the privacy page for the actual providers, contact information, cookie use, and controls. Follow [Google's required privacy disclosures](https://support.google.com/adsense/answer/1348695?hl=en) and [consent-management requirements](https://support.google.com/adsense/answer/13554116?hl=en). Reserved ad slots remain separate from organization links. Test refusal, withdrawal, and ad blockers; browsing should work in each case.
 
@@ -85,8 +86,14 @@ The postbuild step rejects a source archive at or above the Pages 25 MiB single-
 
 ### Ad placement limits
 
-One optional ad unit per page: after the sixth organization card (only with further results), after the eighth proposal card, or between the profile chart and participation list. Nothing overlays search, filters, navigation or buttons. Slots reserve space and request an ad only within 300px of the viewport after consent. No timed refresh, sticky units, popups or interstitials are implemented. Disable AdSense Auto ads to keep these placement limits.
+Manual units appear after the sixth and eighteenth organization cards (only with further results), after the eighth proposal card, or between the profile chart and participation list. Each has a separate close button. They request ads only within 300px of the viewport after consent, with no timed refresh. Unfilled slots are hidden.
+
+For collapsible edge ads and occasional full-screen ads, enable Google's native anchor and vignette formats in AdSense Auto ads. Google owns their creative, close controls and delivery; this site never puts a display unit inside a custom popup. Set vignette frequency to at least 10 minutes in the AdSense dashboard, and exclude API and privacy pages and navigation areas. The environment flag loads the consent-gated script; it does not configure account settings or guarantee an ad will appear. See [anchor settings](https://support.google.com/adsense/answer/15484692?hl=en) and [vignette frequency](https://support.google.com/adsense/answer/13956167?hl=en).
 
 Optional `GATSBY_ADSENSE_PROFILE_SLOT` and `GATSBY_ADSENSE_PROPOSALS_SLOT` can use separate reporting units; both fall back to `GATSBY_ADSENSE_SLOT`. Test desktop and mobile with approved ad units before launch. No configured publisher means no slot or empty ad space.
 
-For placement review only, append `?ad-preview=1` to a localhost URL. This renders labeled placeholders without loading advertising scripts. It has no effect on public hostnames.
+For placement review only, append `?ad-preview=1` to a localhost URL. This renders labeled inline placeholders and controls for opening anchor and vignette previews, without loading advertising scripts. It has no effect on public hostnames. Previews are layout checks, not a simulation of Google's delivery rules.
+
+## Public API
+
+The build exports `/api/v1/organizations.json`, `/api/v1/programs.json`, `/api/v1/proposals.json` and one `/api/v1/organizations/SLUG.json` file per organization. These static files support cross-origin GET requests through `static/_headers`; they require no server or API key. `/api/` documents the response shape and coverage. Unknown slugs return 404.
