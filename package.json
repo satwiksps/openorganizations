@@ -1,6 +1,6 @@
 {
   "name": "openorganizations",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "A source-backed directory of organizations across open-source programs.",
   "license": "GPL-3.0-only",
