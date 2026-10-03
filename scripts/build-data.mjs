@@ -205,6 +205,11 @@ export async function atomicWriteJson(path, value) {
   try { await writeFile(temporary, `${JSON.stringify(value, null, 2)}\n`, 'utf8'); await rename(temporary, path) }
   finally { await rm(temporary, { force: true }) }
 }
+// Keep all history for organizations represented in a program since 2016.
+// A participation cutoff is not a claim that an older project is discontinued.
+export function retainRecentOrganizations(organizations) {
+  return organizations.filter(org => org.participations.some(p => p.year > 2015))
+}
 export async function buildDirectory(root = ROOT) {
   const readJson = async name => JSON.parse(await readFile(resolve(root, 'data', name), 'utf8'))
   const [gsoc, sob, supplemental, registry, aliases] = await Promise.all(['gsoc.json', 'sob.json', 'supplemental.json', 'programs.json', 'aliases.json'].map(readJson))
@@ -213,7 +218,7 @@ export async function buildDirectory(root = ROOT) {
   const rows = snapshots.flatMap((snapshot, i) => validateSnapshot(snapshot, ['gsoc', 'sob', 'supplemental'][i]))
   // Derive generation date from inputs so repeated offline builds produce identical bytes.
   const evidenceDates = rows.flatMap(row => row.participations.map(p => p.fetchedAt || p.verifiedAt))
-  const directory = validateDirectory({ generatedAt: new Date(Math.max(...evidenceDates.map(Date.parse))).toISOString(), organizations: mergeOrganizations(rows, aliases), programs: Array.isArray(registry) ? registry : registry.programs })
+  const directory = validateDirectory({ generatedAt: new Date(Math.max(...evidenceDates.map(Date.parse))).toISOString(), organizations: retainRecentOrganizations(mergeOrganizations(rows, aliases)), programs: Array.isArray(registry) ? registry : registry.programs })
   await atomicWriteJson(resolve(root, 'data/directory.json'), directory)
   console.log(`Built ${directory.organizations.length} organizations and ${directory.organizations.reduce((sum, org) => sum + org.participations.length, 0)} participations (offline).`)
   return directory
