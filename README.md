@@ -44,6 +44,7 @@
     <a href="https://openorganizations.site/?program=sok" title="Season of KDE"><img src="static/programs/sok.png" height="28" alt="Season of KDE" /></a>
   </p>
   
+  <p><a href="https://openorganizations.site/social/openorganizations-demo.mp4">Watch the 40-second demo ↗</a></p>
 </div>
 
 ## What is this?
