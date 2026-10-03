@@ -12,7 +12,7 @@
   "scripts": {
     "dev": "node scripts/build-data.mjs && gatsby develop -H 127.0.0.1 -p 8000",
     "start": "pnpm dev",
-    "build": "node scripts/build-data.mjs && node scripts/validate-data.mjs && gatsby build && node scripts/postbuild.mjs",
+    "build": "node scripts/build-data.mjs && node scripts/validate-data.mjs && gatsby clean && gatsby build && node scripts/postbuild.mjs",
     "serve": "gatsby serve -H 127.0.0.1 -p 9000",
     "test": "node --test src/lib/*.test.mjs scripts/*.test.mjs",
     "data:build": "node scripts/build-data.mjs",
