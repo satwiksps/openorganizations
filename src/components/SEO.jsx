@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
+import advertising from "../../data/advertising.json"
 
 export default function SEO({ title = "Explore open-source organizations", description = "Find organizations across GSoC, LFX, Summer of Bitcoin, Outreachy, C4GT and more. Search by technology, topic and participation year.", path = "/", noindex = false, children }) {
   const { site } = useStaticQuery(graphql`query OpenOrganizationsSiteUrl { site { siteMetadata { siteUrl } } }`)
@@ -11,6 +12,7 @@ export default function SEO({ title = "Explore open-source organizations", descr
     <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#dc6b18" />
+    <meta name="google-adsense-account" content={advertising.publisherId} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={`${origin}${path}`} />
     <meta property="og:title" content={fullTitle} />

@@ -97,3 +97,6 @@ For placement review only, append `?ad-preview=1` to a localhost URL. This rende
 ## Public API
 
 The build exports `/api/v1/organizations.json`, `/api/v1/programs.json`, `/api/v1/proposals.json` and one `/api/v1/organizations/SLUG.json` file per organization. These static files support cross-origin GET requests through `static/_headers`; they require no server or API key. `/api/` documents the response shape and coverage. Unknown slugs return 404.
+
+The public publisher ID in data/advertising.json supplies the ownership meta tag and ads.txt record for AdSense review. This verification configuration does not enable ad scripts; ad serving still requires the environment settings and consent integration above. An explicit build publisher ID overrides the ads.txt default.
+

@@ -102,6 +102,10 @@ export async function sourceFiles(root = ROOT) {
 const escapeXml = value => value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&apos;')
 
 export async function postbuild({ root = ROOT, siteUrl = productionSiteUrl(), adsClient = process.env.GATSBY_ADSENSE_CLIENT || '' } = {}) {
+  if (!adsClient) {
+    try { adsClient = JSON.parse(await readFile(resolve(root, 'data/advertising.json'), 'utf8')).publisherId || '' }
+    catch (error) { if (!isMissing(error)) throw error }
+  }
   const output = resolve(root, 'public')
   await lstat(resolve(output, 'index.html'))
   const builtFiles = await walk(output)
