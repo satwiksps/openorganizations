@@ -51,3 +51,11 @@
 .directory-load-more{display:flex;flex-direction:column;align-items:center;gap:10px;margin:30px 0;color:var(--muted);font-size:12px}.directory-load-more p{margin:0}.directory-load-more button{min-height:44px;padding:10px 18px;border:1px solid var(--line);border-radius:4px;background:#fff;color:var(--teal);cursor:pointer}.directory-load-more button:hover{background:var(--teal-soft)}
 
 .directory-header{position:sticky;top:0;z-index:20;box-shadow:0 8px 12px -12px #23313a55}.organization-card{scroll-margin-top:160px}@media(max-width:800px){.directory-header{padding-top:12px}.organization-card{scroll-margin-top:140px}}
+
+@property --star-border-angle{syntax:'<angle>';initial-value:0deg;inherits:false}
+@keyframes star-border-travel{to{--star-border-angle:360deg}}
+.repo-stars,.repo-stars-compact,.sidebar-footer .repo-stars{display:flex;align-items:center;min-width:0;width:100%;height:36px;min-height:36px;padding:0 10px;border:1px solid transparent;border-radius:4px;color:#59636d;background:linear-gradient(#f4f5f6,#f4f5f6) padding-box,conic-gradient(from var(--star-border-angle),#dce1e5 0deg 245deg,#aacbce 275deg,#d6c2df 305deg,#e9c6a7 330deg,#dce1e5 360deg) border-box;animation:star-border-travel 7s linear infinite}
+.repo-stars-top{width:100%;gap:7px;font-size:11px;white-space:nowrap}.repo-stars-top strong{font-weight:500}.repo-stars-top svg{color:#75808a}.repo-star-count{background:#f9fafb;border-color:#dde2e6;border-radius:3px;padding:1px 6px;font-size:10px;min-width:22px}.repo-stars:hover{filter:none;background:linear-gradient(#eceff1,#eceff1) padding-box,conic-gradient(from var(--star-border-angle),#dce1e5 0deg 245deg,#aacbce 275deg,#d6c2df 305deg,#e9c6a7 330deg,#dce1e5 360deg) border-box}
+.directory-sidebar .directory-brand{padding:15px 18px 12px;gap:8px}.directory-sidebar .brand-symbol{width:29px;height:29px}.directory-sidebar .brand-name{font-size:16px}.directory-sidebar .brand-subtitle{display:none}.directory-sidebar .sidebar-nav{padding:0 18px 10px;gap:14px;font-size:12px}.directory-sidebar .sidebar-nav a{min-height:28px}.directory-sidebar .sidebar-footer{padding:11px 18px;gap:9px}.community-footer{gap:8px}
+@media(max-width:800px){.repo-stars,.repo-stars-compact{height:44px;min-height:44px}}
+@media(prefers-reduced-motion:reduce){.repo-stars,.repo-stars-compact,.sidebar-footer .repo-stars{animation:none}}

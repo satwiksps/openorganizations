@@ -14,8 +14,7 @@ export default function RepoStars({compact=false}){
     }).catch(()=>{})
     return()=>controller.abort()
   },[])
-  return <a className={`repo-stars ${compact?'repo-stars-compact':''}`} href="https://github.com/satwiksps/openorganizations" target="_blank" rel="noreferrer" title={fresh?'Recent GitHub star count':snapshot.checkedAt?`Last checked ${snapshot.checkedAt.slice(0,10)}`:'Star count currently unavailable'}>
+  return <a className={`repo-stars ${compact?'repo-stars-compact':''}`} href="https://github.com/satwiksps/openorganizations" target="_blank" rel="noreferrer" aria-label={`Star on GitHub. ${stars===null?'Star count unavailable':`${stars} stars`}. Please star for a cookie!`} title={`Please star for a cookie! 🍪 · ${fresh?'Recent GitHub star count':snapshot.checkedAt?`Last checked ${snapshot.checkedAt.slice(0,10)}`:'Star count currently unavailable'}`}>
     <span className="repo-stars-top"><Star size={16} aria-hidden="true"/><strong>Star on GitHub</strong><span className="repo-star-count" aria-label={stars===null?'Star count unavailable':`${stars} GitHub stars`}>{stars===null?'—':stars.toLocaleString('en-US')}</span></span>
-    <span className="repo-cookie">Please star for a cookie <span aria-hidden="true">🍪</span></span>
   </a>
 }
