@@ -4,7 +4,7 @@
   </a>
 
   </br>
-  <h5>Find a community. Explore its history. Make your first contribution.</h5>
+  <h5>Find a community. Explore its history. Make contribution.</h5>
 
   <p>
     <strong>
@@ -18,24 +18,12 @@
     </strong>
   </p>
 
-  <p>
-    <a href="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml">
-      <img src="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml/badge.svg" alt="Build status" />
-    </a>
-    &nbsp;
-    <a href="LICENSE">
-      <img src="https://img.shields.io/badge/license-GPL--3.0-64748b?style=flat&amp;labelColor=334155" alt="GPL-3.0 license" />
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/github/stars/satwiksps/openorganizations?style=flat&amp;color=d99048&amp;labelColor=334155" alt="GitHub stars" />
-    <a href="https://github.com/satwiksps/openorganizations/issues">
-      <img src="https://img.shields.io/github/issues/satwiksps/openorganizations?style=flat&amp;label=open%20issues&amp;color=236570&amp;labelColor=334155" alt="Open issues" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/satwiksps/openorganizations/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/satwiksps/openorganizations?style=flat&amp;color=236570&amp;labelColor=334155" alt="Contributors" />
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml"><img src="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml/badge.svg" alt="Build status" /></a>&nbsp;
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-64748b?style=flat&amp;labelColor=334155" alt="GPL-3.0 license" /></a>&nbsp;
+  <img src="https://img.shields.io/github/stars/satwiksps/openorganizations?style=flat&amp;color=d99048&amp;labelColor=334155" alt="GitHub stars" />&nbsp;
+  <a href="https://github.com/satwiksps/openorganizations/issues"><img src="https://img.shields.io/github/issues/satwiksps/openorganizations?style=flat&amp;label=open%20issues&amp;color=236570&amp;labelColor=334155" alt="Open issues" /></a>&nbsp;
+</p>
 
   <h3>⭐ Please star this repo ⭐</h3>
 
