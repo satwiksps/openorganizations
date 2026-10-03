@@ -1,5 +1,6 @@
 import { createHash } from 'node:crypto'
 import { atomicWriteJson, cleanText } from './build-data.mjs'
+import { extraSources, importExtraProposals } from './proposal-archives.mjs'
 const checkedAt = new Date().toISOString()
 const sources = [
   {repo:'devweekends/open-source-proposals',revision:'f09b802e5466e8b5b1e9a2c01b29b728f6cd9f9a',label:'Open Source Proposals Archive',layout:'program-year'},
@@ -32,6 +33,9 @@ for (const source of sources) {
       outcomeNote: 'Outcome is reported by the archive maintainers, not independently verified by this directory.'})
   }
 }
+await importExtraProposals({proposals, seenBlobs, checkedAt})
+sources.push(...extraSources)
+for (const proposal of proposals) proposal.folderUrl ||= proposal.url.replace('/blob/', '/tree/').split('/').slice(0,-1).join('/')
 if (proposals.length < 60) throw new Error('Proposal coverage unexpectedly fell')
 await atomicWriteJson('data/proposals.json',{checkedAt, sources, proposals})
 

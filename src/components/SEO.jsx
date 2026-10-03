@@ -18,12 +18,15 @@ export default function SEO({ title = "Explore open-source organizations", descr
     <meta property="og:type" content="website" />
     <meta property="og:url" content={`${origin}${path}`} />
     <meta property="og:site_name" content="OpenOrganizations" />
-    <meta property="og:image" content={`${origin}/social/openorganizations-landscape.jpg`} />
-    <meta property="og:image:width" content="1730" />
-    <meta property="og:image:height" content="909" />
-    <meta property="og:image:alt" content="OpenOrganizations directory in a browser window under a warm spotlight" />
+    <meta property="og:image" content={`${origin}/social/openorganizations-landscape-v2.jpg`} />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="OpenOrganizations directory in a browser window with seven mentorship program logos under a spotlight" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content={`${origin}/social/openorganizations-landscape.jpg`} />
+    <meta name="twitter:image" content={`${origin}/social/openorganizations-landscape-v2.jpg`} />
     <meta name="twitter:image:alt" content="Find your open source community with OpenOrganizations" />
     {noindex && <meta name="robots" content="noindex,follow" />}
     {children}
