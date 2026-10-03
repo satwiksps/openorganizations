@@ -1,7 +1,7 @@
 export const PAGE_SIZE = 24;
 export const DEFAULT_FILTERS = Object.freeze({
   q: "", program: "all", years: [], terms: [], categories: [], technologies: [], topics: [],
-  firstTime: false, applicationsOpen: false, sort: "name", page: 1,
+  applicationsOpen: false, sort: "name", page: 1,
 });
 
 const unique = values => [...new Set((Array.isArray(values) ? values : []).map(String).map(value => value.trim()).filter(Boolean))];
@@ -17,7 +17,6 @@ export function normalizeFilters(input = {}) {
     terms: unique(input.terms),
     years: unique(input.years).filter(year => /^\d{4}$/.test(year)),
     categories: facetValues(input.categories), technologies: facetValues(input.technologies), topics: facetValues(input.topics),
-    firstTime: input.firstTime === true,
     applicationsOpen: input.applicationsOpen === true,
     sort: input.sort === "recent" ? "recent" : "name",
     page: Number.isSafeInteger(Number(input.page)) && Number(input.page) > 0 ? Math.min(Number(input.page), 100000) : 1,
@@ -30,7 +29,7 @@ export function parseDirectoryQuery(search = "") {
     q: query.get("q") || "", program: query.get("program") || "all",
     terms: query.getAll("term"), years: query.getAll("year"), categories: query.getAll("category"),
     technologies: query.getAll("tech"), topics: query.getAll("topic"),
-    firstTime: query.get("first") === "1", applicationsOpen: query.get("open") === "1", sort: query.get("sort"), page: query.get("page") || 1,
+    applicationsOpen: query.get("open") === "1", sort: query.get("sort"), page: query.get("page") || 1,
   });
 }
 
@@ -42,7 +41,6 @@ export function serializeDirectoryQuery(input) {
   for (const [key, values] of [["term", filters.terms], ["year", filters.years], ["category", filters.categories], ["tech", filters.technologies], ["topic", filters.topics]]) {
     [...values].sort(compare).forEach(value => query.append(key, value));
   }
-  if (filters.firstTime) query.set("first", "1");
   if (filters.applicationsOpen) query.set("open", "1");
   if (filters.sort !== "name") query.set("sort", filters.sort);
   if (filters.page > 1) query.set("page", String(filters.page));
@@ -99,15 +97,7 @@ function facetLabels(organizations, key) {
 export function filterOrganizations(organizations, input = {}, today) {
   const filters = normalizeFilters(input);
   const terms = fold(filters.q).trim().split(/\s+/).filter(Boolean);
-  const latest = {};
-  if (filters.firstTime) for (const org of organizations) for (const p of org.participations || []) latest[p.program] = Math.max(latest[p.program] || 0, p.year);
   return organizations.filter(organization => {
-    if (filters.firstTime) {
-      const first = {};
-      for (const p of organization.participations || []) first[p.program] = Math.min(first[p.program] ?? Infinity, p.year);
-      const isNew = getMatchingParticipations(organization, filters, today).some(p => p.year === first[p.program] && (filters.years.length ? filters.years.includes(String(p.year)) : p.year === latest[p.program]));
-      if (!isNew) return false;
-    }
     if (!getMatchingParticipations(organization, filters, today).length) return false;
     if (!hasAny(filters.categories, [organization.category])) return false;
     if (!hasAny(filters.technologies, strings(organization.technologies))) return false;
@@ -128,11 +118,6 @@ export function getDirectoryFacets(organizations, input = {}, today) {
   const filters = normalizeFilters(input);
   const facets = {};
   for (const key of ["years", "terms", "categories", "technologies", "topics"]) {
-    if (key === "years" && filters.firstTime) {
-      const years = unique(organizations.flatMap(org => getMatchingParticipations(org, { ...filters, years: [] }, today).map(p => p.year)));
-      facets.years = unique([...years, ...filters.years]).map(value => ({ value, label: value, count: filterOrganizations(organizations, { ...filters, years: [value] }, today).length })).filter(option => option.count || filters.years.includes(option.value)).sort((a, b) => Number(b.value) - Number(a.value));
-      continue;
-    }
     const labels = key === "years" ? new Map() : facetLabels(organizations, key);
     const withoutFacet = { ...filters, [key]: [] };
     const matching = filterOrganizations(organizations, withoutFacet, today);

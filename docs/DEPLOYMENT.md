@@ -86,7 +86,7 @@ The postbuild step rejects a source archive at or above the Pages 25 MiB single-
 
 ### Ad placement limits
 
-Manual units appear after the sixth and eighteenth organization cards (only with further results), after the eighth proposal card, or between the profile chart and participation list. Each has a separate close button. They request ads only within 300px of the viewport after consent, with no timed refresh. Unfilled slots are hidden.
+Manual units appear after the eighth and twentieth organization cards (only with further results), after the eighth proposal card, or between the profile chart and participation list. Each has a separate close button. They request ads only within 300px of the viewport after consent, with no timed refresh. Unfilled slots are hidden.
 
 For collapsible edge ads and occasional full-screen ads, enable Google's native anchor and vignette formats in AdSense Auto ads. Google owns their creative, close controls and delivery; this site never puts a display unit inside a custom popup. Set vignette frequency to at least 10 minutes in the AdSense dashboard, and exclude API and privacy pages and navigation areas. The environment flag loads the consent-gated script; it does not configure account settings or guarantee an ad will appear. See [anchor settings](https://support.google.com/adsense/answer/15484692?hl=en) and [vignette frequency](https://support.google.com/adsense/answer/13956167?hl=en).
 

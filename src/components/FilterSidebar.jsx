@@ -30,11 +30,10 @@ function FilterGroup({ name, label, options, selected, onToggle }) {
   );
 }
 
-export default function FilterSidebar({ filters, facets, onToggle, onChange, onReset, filterCount, firstTimeCount }) {
+export default function FilterSidebar({ filters, facets, onToggle, onReset, filterCount }) {
   return (
     <div className="filter-sidebar">
       <div className="filter-heading"><h2><SlidersHorizontal size={16} aria-hidden="true" />Filters{filterCount > 0 && <span className="filter-total">{filterCount}</span>}</h2><button type="button" className="reset-filters" onClick={onReset} disabled={!filterCount && !filters.q && filters.program === "all"}><RotateCcw size={13} aria-hidden="true" />Reset</button></div>
-      <fieldset className="filter-group first-time-filter"><legend>Shortcuts</legend><label className="filter-option"><input type="checkbox" checked={filters.firstTime} onChange={e=>onChange({firstTime:e.target.checked})}/><span>First-time organizations</span><span className="filter-option-count">{firstTimeCount}</span></label><p>First indexed in the selected year, or the latest year for each program.</p></fieldset>
       <FilterGroup name="years" label="Years" options={facets.years} selected={filters.years} onToggle={onToggle} />
       {filters.program === 'lfx' && <FilterGroup name="terms" label="Terms" options={facets.terms} selected={filters.terms} onToggle={onToggle} />}
       <FilterGroup name="categories" label="Categories" options={facets.categories} selected={filters.categories} onToggle={onToggle} />

@@ -106,19 +106,3 @@ test("recent sort uses the selected program's latest year without mutating data"
   assert.deepEqual(filterOrganizations(organizations, { program: "gsoc", sort: "recent" }, today).map(org => org.id), ["beta", "gamma", "alpha"]);
   assert.deepEqual(organizations.map(org => org.id), ["alpha", "beta", "gamma"]);
 });
-
-test('first-time filter scopes first appearance and latest coverage to each program', () => {
- const rows=[...organizations,{...organizations[1],id:'returning',name:'Returning',participations:[{program:'gsoc',year:2023},{program:'gsoc',year:2025}]}];
- const ids=filters=>filterOrganizations(rows,{...filters,firstTime:true},today).map(o=>o.id);
- assert.deepEqual(ids({program:'gsoc'}),['beta','gamma']);
- assert.deepEqual(ids({program:'gsoc',years:['2024']}),['alpha']);
- assert.deepEqual(ids({program:'gsoc',years:['2023']}),['returning']);
- assert.deepEqual(ids({program:'lfx',terms:['fall']}),['alpha']);
- assert.deepEqual(ids({program:'all'}),['alpha','beta','gamma']);
- assert.deepEqual(ids({program:'gsoc',q:'Alpha'}),[]);
- const facets=getDirectoryFacets(rows,{program:'gsoc',firstTime:true},today);
- assert.equal(facets.years.find(y=>y.value==='2023').count,1);
- assert.equal(facets.years.find(y=>y.value==='2025').count,2);
- assert.equal(parseDirectoryQuery(serializeDirectoryQuery({firstTime:true})).firstTime,true);
- assert.equal(parseDirectoryQuery('?first=false').firstTime,false);
-});
