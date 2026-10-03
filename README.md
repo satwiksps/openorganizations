@@ -3,7 +3,8 @@
     <img src="static/readme-banner.svg" width="100%" alt="OpenOrganizations — Find your open source community" />
   </a>
 
-  </br>
+  <h3>⭐ Please star this repo ⭐</h3>
+
   <h5>Find a community. Explore its history. Make contribution.</h5>
 
   <p>
@@ -25,7 +26,7 @@
   <a href="https://github.com/satwiksps/openorganizations/issues"><img src="https://img.shields.io/github/issues/satwiksps/openorganizations?style=flat&amp;label=open%20issues&amp;color=236570&amp;labelColor=334155" alt="Open issues" /></a>&nbsp;
 </p>
 
-  <h3>⭐ Please star this repo ⭐</h3>
+  
 
   <p>
     <a href="https://openorganizations.site/?program=gsoc" title="Google Summer of Code"><img src="static/programs/gsoc.png" height="28" alt="GSoC" /></a>
@@ -42,25 +43,23 @@
     &nbsp;&nbsp;
     <a href="https://openorganizations.site/?program=sok" title="Season of KDE"><img src="static/programs/sok.png" height="28" alt="Season of KDE" /></a>
   </p>
-
-  <p>
-    <sub>
-      GSoC &nbsp;|&nbsp; LFX &nbsp;|&nbsp; Summer of Bitcoin &nbsp;|&nbsp;
-      ESoC &nbsp;|&nbsp; Outreachy &nbsp;|&nbsp; C4GT &nbsp;|&nbsp; Season of KDE
-    </sub>
-  </p>
+  
 </div>
+
+## What is this?
 
 **OpenOrganizations** brings open-source communities, program history, and public proposals into one searchable directory. Find a community that matches your interests, explore its history, and discover your next contribution.
 
-### What you can explore
+> This is fully opensource project. Feel free to contribute.
+
+## What you can explore?
 
 - **Find communities by technology:** Search organizations and explore communities across supported programs.
 - **Compare program history:** See how organizations have participated over time.
 - **Learn from public proposals:** Explore examples of how contributors describe projects and plan their work.
 - **Look inside umbrella organizations:** Discover the smaller communities within larger organizations.
 
-### Find your starting point
+## What to do?
 
 Choose a program, shortlist communities that interest you, and explore their projects and contribution guidelines. Browse public proposals to understand how an idea becomes a project plan.
 
