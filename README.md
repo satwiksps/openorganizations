@@ -26,7 +26,12 @@
   <a href="https://github.com/satwiksps/openorganizations/issues"><img src="https://img.shields.io/github/issues/satwiksps/openorganizations?style=flat&amp;label=open%20issues&amp;color=236570&amp;labelColor=334155" alt="Open issues" /></a>&nbsp;
 </p>
 
-  
+</div>
+
+## What is this?
+
+**OpenOrganizations** brings open-source communities, program history, and public proposals into one searchable directory. Find a community that matches your interests, explore its history, and discover your next contribution.
+
 
   <p>
     <a href="https://openorganizations.site/?program=gsoc" title="Google Summer of Code"><img src="static/programs/gsoc.png" height="28" alt="GSoC" /></a>
@@ -47,9 +52,6 @@
   <p><a href="https://openorganizations.site/social/openorganizations-demo-1080p-v3.mp4">Watch the 19-second demo in Full HD ↗</a></p>
 </div>
 
-## What is this?
-
-**OpenOrganizations** brings open-source communities, program history, and public proposals into one searchable directory. Find a community that matches your interests, explore its history, and discover your next contribution.
 
 > This is fully opensource project. Feel free to contribute.
 
