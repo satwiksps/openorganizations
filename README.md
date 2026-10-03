@@ -14,7 +14,7 @@
   <p>
     <a href="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml"><img src="https://github.com/satwiksps/openorganizations/actions/workflows/ci.yml/badge.svg" alt="Build status" /></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-64748b?labelColor=334155" alt="GPL-3.0 license" /></a>
-    <a href="https://github.com/satwiksps/openorganizations/stargazers"><img src="https://img.shields.io/github/stars/satwiksps/openorganizations?style=flat&color=d99048&labelColor=334155" alt="GitHub stars" /></a>
+    <a href="https://github.com/satwiksps/openorganizations/stargazers"><img src="https://img.shields.io/badge/Star_on_GitHub-d99048?style=flat&logo=github&logoColor=white" alt="Star on GitHub" /></a>
   </p>
 
   <br />
@@ -52,4 +52,3 @@
   <p><a href="https://github.com/satwiksps/openorganizations/stargazers">Give OpenOrganizations a star</a> and help others find their starting point.</p>
   <p><sub>Inspired by <a href="https://www.gsocorganizations.dev/">GSoC Organizations</a> · Made with ♥ by <a href="https://github.com/satwiksps">satwiksps</a></sub></p>
 </div>
-
